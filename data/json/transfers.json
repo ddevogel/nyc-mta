@@ -1,0 +1,2792 @@
+{
+    "101": {
+        "from_stop_id": "101",
+        "to_stop_id": "101",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "103": {
+        "from_stop_id": "103",
+        "to_stop_id": "103",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "104": {
+        "from_stop_id": "104",
+        "to_stop_id": "104",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "106": {
+        "from_stop_id": "106",
+        "to_stop_id": "106",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "107": {
+        "from_stop_id": "107",
+        "to_stop_id": "107",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "108": {
+        "from_stop_id": "108",
+        "to_stop_id": "108",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "109": {
+        "from_stop_id": "109",
+        "to_stop_id": "109",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "110": {
+        "from_stop_id": "110",
+        "to_stop_id": "110",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "111": {
+        "from_stop_id": "111",
+        "to_stop_id": "111",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "112": {
+        "from_stop_id": "112",
+        "to_stop_id": "A09",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "113": {
+        "from_stop_id": "113",
+        "to_stop_id": "113",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "114": {
+        "from_stop_id": "114",
+        "to_stop_id": "114",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "115": {
+        "from_stop_id": "115",
+        "to_stop_id": "115",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "116": {
+        "from_stop_id": "116",
+        "to_stop_id": "116",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "117": {
+        "from_stop_id": "117",
+        "to_stop_id": "117",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "118": {
+        "from_stop_id": "118",
+        "to_stop_id": "118",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "119": {
+        "from_stop_id": "119",
+        "to_stop_id": "119",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "120": {
+        "from_stop_id": "120",
+        "to_stop_id": "120",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "121": {
+        "from_stop_id": "121",
+        "to_stop_id": "121",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "122": {
+        "from_stop_id": "122",
+        "to_stop_id": "122",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "123": {
+        "from_stop_id": "123",
+        "to_stop_id": "123",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "124": {
+        "from_stop_id": "124",
+        "to_stop_id": "124",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "125": {
+        "from_stop_id": "125",
+        "to_stop_id": "A24",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "126": {
+        "from_stop_id": "126",
+        "to_stop_id": "126",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "127": {
+        "from_stop_id": "127",
+        "to_stop_id": "R16",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "128": {
+        "from_stop_id": "128",
+        "to_stop_id": "128",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "129": {
+        "from_stop_id": "129",
+        "to_stop_id": "129",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "130": {
+        "from_stop_id": "130",
+        "to_stop_id": "130",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "131": {
+        "from_stop_id": "131",
+        "to_stop_id": "131",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "132": {
+        "from_stop_id": "132",
+        "to_stop_id": "L02",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "133": {
+        "from_stop_id": "133",
+        "to_stop_id": "133",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "134": {
+        "from_stop_id": "134",
+        "to_stop_id": "134",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "135": {
+        "from_stop_id": "135",
+        "to_stop_id": "135",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "136": {
+        "from_stop_id": "136",
+        "to_stop_id": "136",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "137": {
+        "from_stop_id": "137",
+        "to_stop_id": "137",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "138": {
+        "from_stop_id": "138",
+        "to_stop_id": "138",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "139": {
+        "from_stop_id": "139",
+        "to_stop_id": "139",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "140": {
+        "from_stop_id": "140",
+        "to_stop_id": "R27",
+        "transfer_type": "2",
+        "min_transfer_time": "120"
+    },
+    "201": {
+        "from_stop_id": "201",
+        "to_stop_id": "201",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "204": {
+        "from_stop_id": "204",
+        "to_stop_id": "204",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "205": {
+        "from_stop_id": "205",
+        "to_stop_id": "205",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "206": {
+        "from_stop_id": "206",
+        "to_stop_id": "206",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "207": {
+        "from_stop_id": "207",
+        "to_stop_id": "207",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "208": {
+        "from_stop_id": "208",
+        "to_stop_id": "208",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "209": {
+        "from_stop_id": "209",
+        "to_stop_id": "209",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "210": {
+        "from_stop_id": "210",
+        "to_stop_id": "210",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "211": {
+        "from_stop_id": "211",
+        "to_stop_id": "211",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "212": {
+        "from_stop_id": "212",
+        "to_stop_id": "212",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "213": {
+        "from_stop_id": "213",
+        "to_stop_id": "213",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "214": {
+        "from_stop_id": "214",
+        "to_stop_id": "214",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "215": {
+        "from_stop_id": "215",
+        "to_stop_id": "215",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "216": {
+        "from_stop_id": "216",
+        "to_stop_id": "216",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "217": {
+        "from_stop_id": "217",
+        "to_stop_id": "217",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "218": {
+        "from_stop_id": "218",
+        "to_stop_id": "218",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "219": {
+        "from_stop_id": "219",
+        "to_stop_id": "219",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "220": {
+        "from_stop_id": "220",
+        "to_stop_id": "220",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "221": {
+        "from_stop_id": "221",
+        "to_stop_id": "221",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "222": {
+        "from_stop_id": "222",
+        "to_stop_id": "415",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "227": {
+        "from_stop_id": "227",
+        "to_stop_id": "227",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "228": {
+        "from_stop_id": "228",
+        "to_stop_id": "R25",
+        "transfer_type": "2",
+        "min_transfer_time": "420"
+    },
+    "229": {
+        "from_stop_id": "229",
+        "to_stop_id": "M22",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "230": {
+        "from_stop_id": "230",
+        "to_stop_id": "230",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "231": {
+        "from_stop_id": "231",
+        "to_stop_id": "231",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "232": {
+        "from_stop_id": "232",
+        "to_stop_id": "R28",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "233": {
+        "from_stop_id": "233",
+        "to_stop_id": "233",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "234": {
+        "from_stop_id": "234",
+        "to_stop_id": "234",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "235": {
+        "from_stop_id": "235",
+        "to_stop_id": "R31",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "236": {
+        "from_stop_id": "236",
+        "to_stop_id": "236",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "237": {
+        "from_stop_id": "237",
+        "to_stop_id": "237",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "238": {
+        "from_stop_id": "238",
+        "to_stop_id": "238",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "239": {
+        "from_stop_id": "239",
+        "to_stop_id": "S04",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "241": {
+        "from_stop_id": "241",
+        "to_stop_id": "241",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "242": {
+        "from_stop_id": "242",
+        "to_stop_id": "242",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "243": {
+        "from_stop_id": "243",
+        "to_stop_id": "243",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "244": {
+        "from_stop_id": "244",
+        "to_stop_id": "244",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "245": {
+        "from_stop_id": "245",
+        "to_stop_id": "245",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "246": {
+        "from_stop_id": "246",
+        "to_stop_id": "246",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "247": {
+        "from_stop_id": "247",
+        "to_stop_id": "247",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "248": {
+        "from_stop_id": "248",
+        "to_stop_id": "248",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "249": {
+        "from_stop_id": "249",
+        "to_stop_id": "249",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "250": {
+        "from_stop_id": "250",
+        "to_stop_id": "250",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "251": {
+        "from_stop_id": "251",
+        "to_stop_id": "251",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "252": {
+        "from_stop_id": "252",
+        "to_stop_id": "252",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "253": {
+        "from_stop_id": "253",
+        "to_stop_id": "253",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "254": {
+        "from_stop_id": "254",
+        "to_stop_id": "L26",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "255": {
+        "from_stop_id": "255",
+        "to_stop_id": "255",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "256": {
+        "from_stop_id": "256",
+        "to_stop_id": "256",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "257": {
+        "from_stop_id": "257",
+        "to_stop_id": "257",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "301": {
+        "from_stop_id": "301",
+        "to_stop_id": "301",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "302": {
+        "from_stop_id": "302",
+        "to_stop_id": "302",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "401": {
+        "from_stop_id": "401",
+        "to_stop_id": "401",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "402": {
+        "from_stop_id": "402",
+        "to_stop_id": "402",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "405": {
+        "from_stop_id": "405",
+        "to_stop_id": "405",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "406": {
+        "from_stop_id": "406",
+        "to_stop_id": "406",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "407": {
+        "from_stop_id": "407",
+        "to_stop_id": "407",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "408": {
+        "from_stop_id": "408",
+        "to_stop_id": "408",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "409": {
+        "from_stop_id": "409",
+        "to_stop_id": "409",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "410": {
+        "from_stop_id": "410",
+        "to_stop_id": "410",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "411": {
+        "from_stop_id": "411",
+        "to_stop_id": "411",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "412": {
+        "from_stop_id": "412",
+        "to_stop_id": "412",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "413": {
+        "from_stop_id": "413",
+        "to_stop_id": "413",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "414": {
+        "from_stop_id": "414",
+        "to_stop_id": "D11",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "415": {
+        "from_stop_id": "415",
+        "to_stop_id": "415",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "416": {
+        "from_stop_id": "416",
+        "to_stop_id": "416",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "418": {
+        "from_stop_id": "418",
+        "to_stop_id": "M22",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "419": {
+        "from_stop_id": "419",
+        "to_stop_id": "419",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "420": {
+        "from_stop_id": "420",
+        "to_stop_id": "420",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "423": {
+        "from_stop_id": "423",
+        "to_stop_id": "R28",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "501": {
+        "from_stop_id": "501",
+        "to_stop_id": "501",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "502": {
+        "from_stop_id": "502",
+        "to_stop_id": "502",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "503": {
+        "from_stop_id": "503",
+        "to_stop_id": "503",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "504": {
+        "from_stop_id": "504",
+        "to_stop_id": "504",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "505": {
+        "from_stop_id": "505",
+        "to_stop_id": "505",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "601": {
+        "from_stop_id": "601",
+        "to_stop_id": "601",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "602": {
+        "from_stop_id": "602",
+        "to_stop_id": "602",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "603": {
+        "from_stop_id": "603",
+        "to_stop_id": "603",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "604": {
+        "from_stop_id": "604",
+        "to_stop_id": "604",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "606": {
+        "from_stop_id": "606",
+        "to_stop_id": "606",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "607": {
+        "from_stop_id": "607",
+        "to_stop_id": "607",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "608": {
+        "from_stop_id": "608",
+        "to_stop_id": "608",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "609": {
+        "from_stop_id": "609",
+        "to_stop_id": "609",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "610": {
+        "from_stop_id": "610",
+        "to_stop_id": "610",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "611": {
+        "from_stop_id": "611",
+        "to_stop_id": "611",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "612": {
+        "from_stop_id": "612",
+        "to_stop_id": "612",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "613": {
+        "from_stop_id": "613",
+        "to_stop_id": "613",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "614": {
+        "from_stop_id": "614",
+        "to_stop_id": "614",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "615": {
+        "from_stop_id": "615",
+        "to_stop_id": "615",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "616": {
+        "from_stop_id": "616",
+        "to_stop_id": "616",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "617": {
+        "from_stop_id": "617",
+        "to_stop_id": "617",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "618": {
+        "from_stop_id": "618",
+        "to_stop_id": "618",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "619": {
+        "from_stop_id": "619",
+        "to_stop_id": "619",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "621": {
+        "from_stop_id": "621",
+        "to_stop_id": "621",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "622": {
+        "from_stop_id": "622",
+        "to_stop_id": "622",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "623": {
+        "from_stop_id": "623",
+        "to_stop_id": "623",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "624": {
+        "from_stop_id": "624",
+        "to_stop_id": "624",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "625": {
+        "from_stop_id": "625",
+        "to_stop_id": "625",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "626": {
+        "from_stop_id": "626",
+        "to_stop_id": "626",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "627": {
+        "from_stop_id": "627",
+        "to_stop_id": "627",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "628": {
+        "from_stop_id": "628",
+        "to_stop_id": "628",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "629": {
+        "from_stop_id": "629",
+        "to_stop_id": "R11",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "630": {
+        "from_stop_id": "630",
+        "to_stop_id": "F11",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "631": {
+        "from_stop_id": "631",
+        "to_stop_id": "901",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "632": {
+        "from_stop_id": "632",
+        "to_stop_id": "632",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "633": {
+        "from_stop_id": "633",
+        "to_stop_id": "633",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "634": {
+        "from_stop_id": "634",
+        "to_stop_id": "634",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "635": {
+        "from_stop_id": "635",
+        "to_stop_id": "R20",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "636": {
+        "from_stop_id": "636",
+        "to_stop_id": "636",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "637": {
+        "from_stop_id": "637",
+        "to_stop_id": "D21",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "638": {
+        "from_stop_id": "638",
+        "to_stop_id": "638",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "639": {
+        "from_stop_id": "639",
+        "to_stop_id": "R23",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "640": {
+        "from_stop_id": "640",
+        "to_stop_id": "M21",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "701": {
+        "from_stop_id": "701",
+        "to_stop_id": "701",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "702": {
+        "from_stop_id": "702",
+        "to_stop_id": "702",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "705": {
+        "from_stop_id": "705",
+        "to_stop_id": "705",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "706": {
+        "from_stop_id": "706",
+        "to_stop_id": "706",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "707": {
+        "from_stop_id": "707",
+        "to_stop_id": "707",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "708": {
+        "from_stop_id": "708",
+        "to_stop_id": "708",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "709": {
+        "from_stop_id": "709",
+        "to_stop_id": "709",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "710": {
+        "from_stop_id": "710",
+        "to_stop_id": "G14",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "711": {
+        "from_stop_id": "711",
+        "to_stop_id": "711",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "712": {
+        "from_stop_id": "712",
+        "to_stop_id": "712",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "713": {
+        "from_stop_id": "713",
+        "to_stop_id": "713",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "714": {
+        "from_stop_id": "714",
+        "to_stop_id": "714",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "715": {
+        "from_stop_id": "715",
+        "to_stop_id": "715",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "716": {
+        "from_stop_id": "716",
+        "to_stop_id": "716",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "718": {
+        "from_stop_id": "718",
+        "to_stop_id": "R09",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "719": {
+        "from_stop_id": "719",
+        "to_stop_id": "G22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "720": {
+        "from_stop_id": "720",
+        "to_stop_id": "720",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "721": {
+        "from_stop_id": "721",
+        "to_stop_id": "721",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "723": {
+        "from_stop_id": "723",
+        "to_stop_id": "901",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "724": {
+        "from_stop_id": "724",
+        "to_stop_id": "D16",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "725": {
+        "from_stop_id": "725",
+        "to_stop_id": "R16",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "901": {
+        "from_stop_id": "901",
+        "to_stop_id": "901",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "902": {
+        "from_stop_id": "902",
+        "to_stop_id": "R16",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A02": {
+        "from_stop_id": "A02",
+        "to_stop_id": "A02",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A03": {
+        "from_stop_id": "A03",
+        "to_stop_id": "A03",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A05": {
+        "from_stop_id": "A05",
+        "to_stop_id": "A05",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A06": {
+        "from_stop_id": "A06",
+        "to_stop_id": "A06",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A07": {
+        "from_stop_id": "A07",
+        "to_stop_id": "A07",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A09": {
+        "from_stop_id": "A09",
+        "to_stop_id": "A09",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "A10": {
+        "from_stop_id": "A10",
+        "to_stop_id": "A10",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A11": {
+        "from_stop_id": "A11",
+        "to_stop_id": "A11",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A12": {
+        "from_stop_id": "A12",
+        "to_stop_id": "D13",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A14": {
+        "from_stop_id": "A14",
+        "to_stop_id": "A14",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A15": {
+        "from_stop_id": "A15",
+        "to_stop_id": "A15",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "A16": {
+        "from_stop_id": "A16",
+        "to_stop_id": "A16",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A17": {
+        "from_stop_id": "A17",
+        "to_stop_id": "A17",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A18": {
+        "from_stop_id": "A18",
+        "to_stop_id": "A18",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A19": {
+        "from_stop_id": "A19",
+        "to_stop_id": "A19",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A20": {
+        "from_stop_id": "A20",
+        "to_stop_id": "A20",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A21": {
+        "from_stop_id": "A21",
+        "to_stop_id": "A21",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A22": {
+        "from_stop_id": "A22",
+        "to_stop_id": "A22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A24": {
+        "from_stop_id": "A24",
+        "to_stop_id": "A24",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "A25": {
+        "from_stop_id": "A25",
+        "to_stop_id": "A25",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A27": {
+        "from_stop_id": "A27",
+        "to_stop_id": "R16",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "A28": {
+        "from_stop_id": "A28",
+        "to_stop_id": "A28",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "A30": {
+        "from_stop_id": "A30",
+        "to_stop_id": "A30",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A31": {
+        "from_stop_id": "A31",
+        "to_stop_id": "L01",
+        "transfer_type": "2",
+        "min_transfer_time": "90"
+    },
+    "A32": {
+        "from_stop_id": "A32",
+        "to_stop_id": "D20",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A33": {
+        "from_stop_id": "A33",
+        "to_stop_id": "A33",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A34": {
+        "from_stop_id": "A34",
+        "to_stop_id": "A34",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "A36": {
+        "from_stop_id": "A36",
+        "to_stop_id": "R25",
+        "transfer_type": "2",
+        "min_transfer_time": "420"
+    },
+    "A38": {
+        "from_stop_id": "A38",
+        "to_stop_id": "M22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A40": {
+        "from_stop_id": "A40",
+        "to_stop_id": "A40",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A41": {
+        "from_stop_id": "A41",
+        "to_stop_id": "R29",
+        "transfer_type": "2",
+        "min_transfer_time": "90"
+    },
+    "A42": {
+        "from_stop_id": "A42",
+        "to_stop_id": "A42",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A43": {
+        "from_stop_id": "A43",
+        "to_stop_id": "A43",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A44": {
+        "from_stop_id": "A44",
+        "to_stop_id": "A44",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A45": {
+        "from_stop_id": "A45",
+        "to_stop_id": "S01",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A46": {
+        "from_stop_id": "A46",
+        "to_stop_id": "A46",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A47": {
+        "from_stop_id": "A47",
+        "to_stop_id": "A47",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A48": {
+        "from_stop_id": "A48",
+        "to_stop_id": "A48",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "A49": {
+        "from_stop_id": "A49",
+        "to_stop_id": "A49",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A50": {
+        "from_stop_id": "A50",
+        "to_stop_id": "A50",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A51": {
+        "from_stop_id": "A51",
+        "to_stop_id": "L22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A52": {
+        "from_stop_id": "A52",
+        "to_stop_id": "A52",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A53": {
+        "from_stop_id": "A53",
+        "to_stop_id": "A53",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A54": {
+        "from_stop_id": "A54",
+        "to_stop_id": "A54",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A55": {
+        "from_stop_id": "A55",
+        "to_stop_id": "A55",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "A57": {
+        "from_stop_id": "A57",
+        "to_stop_id": "A57",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A59": {
+        "from_stop_id": "A59",
+        "to_stop_id": "A59",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A60": {
+        "from_stop_id": "A60",
+        "to_stop_id": "A60",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A61": {
+        "from_stop_id": "A61",
+        "to_stop_id": "A61",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A63": {
+        "from_stop_id": "A63",
+        "to_stop_id": "A63",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A64": {
+        "from_stop_id": "A64",
+        "to_stop_id": "A64",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "A65": {
+        "from_stop_id": "A65",
+        "to_stop_id": "A65",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B04": {
+        "from_stop_id": "B04",
+        "to_stop_id": "B04",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B06": {
+        "from_stop_id": "B06",
+        "to_stop_id": "B06",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B08": {
+        "from_stop_id": "B08",
+        "to_stop_id": "R11",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "B10": {
+        "from_stop_id": "B10",
+        "to_stop_id": "B10",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B12": {
+        "from_stop_id": "B12",
+        "to_stop_id": "B12",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B13": {
+        "from_stop_id": "B13",
+        "to_stop_id": "B13",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B14": {
+        "from_stop_id": "B14",
+        "to_stop_id": "B14",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B15": {
+        "from_stop_id": "B15",
+        "to_stop_id": "B15",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B16": {
+        "from_stop_id": "B16",
+        "to_stop_id": "N04",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B17": {
+        "from_stop_id": "B17",
+        "to_stop_id": "B17",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B18": {
+        "from_stop_id": "B18",
+        "to_stop_id": "B18",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B19": {
+        "from_stop_id": "B19",
+        "to_stop_id": "B19",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B20": {
+        "from_stop_id": "B20",
+        "to_stop_id": "B20",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B21": {
+        "from_stop_id": "B21",
+        "to_stop_id": "B21",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B22": {
+        "from_stop_id": "B22",
+        "to_stop_id": "B22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "B23": {
+        "from_stop_id": "B23",
+        "to_stop_id": "B23",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D01": {
+        "from_stop_id": "D01",
+        "to_stop_id": "D01",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D03": {
+        "from_stop_id": "D03",
+        "to_stop_id": "D03",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D04": {
+        "from_stop_id": "D04",
+        "to_stop_id": "D04",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D05": {
+        "from_stop_id": "D05",
+        "to_stop_id": "D05",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D06": {
+        "from_stop_id": "D06",
+        "to_stop_id": "D06",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D07": {
+        "from_stop_id": "D07",
+        "to_stop_id": "D07",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D08": {
+        "from_stop_id": "D08",
+        "to_stop_id": "D08",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D09": {
+        "from_stop_id": "D09",
+        "to_stop_id": "D09",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D10": {
+        "from_stop_id": "D10",
+        "to_stop_id": "D10",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D11": {
+        "from_stop_id": "D11",
+        "to_stop_id": "D11",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D12": {
+        "from_stop_id": "D12",
+        "to_stop_id": "D12",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D13": {
+        "from_stop_id": "D13",
+        "to_stop_id": "D13",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D14": {
+        "from_stop_id": "D14",
+        "to_stop_id": "D14",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D15": {
+        "from_stop_id": "D15",
+        "to_stop_id": "D15",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "D16": {
+        "from_stop_id": "D16",
+        "to_stop_id": "D16",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D17": {
+        "from_stop_id": "D17",
+        "to_stop_id": "R17",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D18": {
+        "from_stop_id": "D18",
+        "to_stop_id": "D18",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D19": {
+        "from_stop_id": "D19",
+        "to_stop_id": "L02",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D20": {
+        "from_stop_id": "D20",
+        "to_stop_id": "D20",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D21": {
+        "from_stop_id": "D21",
+        "to_stop_id": "D21",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D22": {
+        "from_stop_id": "D22",
+        "to_stop_id": "D22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D24": {
+        "from_stop_id": "D24",
+        "to_stop_id": "R31",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "D25": {
+        "from_stop_id": "D25",
+        "to_stop_id": "D25",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D26": {
+        "from_stop_id": "D26",
+        "to_stop_id": "D26",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D27": {
+        "from_stop_id": "D27",
+        "to_stop_id": "D27",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D28": {
+        "from_stop_id": "D28",
+        "to_stop_id": "D28",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D29": {
+        "from_stop_id": "D29",
+        "to_stop_id": "D29",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D30": {
+        "from_stop_id": "D30",
+        "to_stop_id": "D30",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D31": {
+        "from_stop_id": "D31",
+        "to_stop_id": "D31",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D32": {
+        "from_stop_id": "D32",
+        "to_stop_id": "D32",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D33": {
+        "from_stop_id": "D33",
+        "to_stop_id": "D33",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D34": {
+        "from_stop_id": "D34",
+        "to_stop_id": "D34",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D35": {
+        "from_stop_id": "D35",
+        "to_stop_id": "D35",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D37": {
+        "from_stop_id": "D37",
+        "to_stop_id": "D37",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D38": {
+        "from_stop_id": "D38",
+        "to_stop_id": "D38",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D39": {
+        "from_stop_id": "D39",
+        "to_stop_id": "D39",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "D40": {
+        "from_stop_id": "D40",
+        "to_stop_id": "D40",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "D41": {
+        "from_stop_id": "D41",
+        "to_stop_id": "D41",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D42": {
+        "from_stop_id": "D42",
+        "to_stop_id": "D42",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "D43": {
+        "from_stop_id": "D43",
+        "to_stop_id": "D43",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "E01": {
+        "from_stop_id": "E01",
+        "to_stop_id": "E01",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F01": {
+        "from_stop_id": "F01",
+        "to_stop_id": "F01",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F02": {
+        "from_stop_id": "F02",
+        "to_stop_id": "F02",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F03": {
+        "from_stop_id": "F03",
+        "to_stop_id": "F03",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F04": {
+        "from_stop_id": "F04",
+        "to_stop_id": "F04",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F06": {
+        "from_stop_id": "F06",
+        "to_stop_id": "F06",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "F07": {
+        "from_stop_id": "F07",
+        "to_stop_id": "F07",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F09": {
+        "from_stop_id": "F09",
+        "to_stop_id": "G22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F11": {
+        "from_stop_id": "F11",
+        "to_stop_id": "F11",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F12": {
+        "from_stop_id": "F12",
+        "to_stop_id": "F12",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F14": {
+        "from_stop_id": "F14",
+        "to_stop_id": "F14",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "F15": {
+        "from_stop_id": "F15",
+        "to_stop_id": "M18",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F16": {
+        "from_stop_id": "F16",
+        "to_stop_id": "F16",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F18": {
+        "from_stop_id": "F18",
+        "to_stop_id": "F18",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F21": {
+        "from_stop_id": "F21",
+        "to_stop_id": "F21",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F22": {
+        "from_stop_id": "F22",
+        "to_stop_id": "F22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F23": {
+        "from_stop_id": "F23",
+        "to_stop_id": "R33",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F24": {
+        "from_stop_id": "F24",
+        "to_stop_id": "F24",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "F25": {
+        "from_stop_id": "F25",
+        "to_stop_id": "F25",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F26": {
+        "from_stop_id": "F26",
+        "to_stop_id": "F26",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F27": {
+        "from_stop_id": "F27",
+        "to_stop_id": "F27",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "F29": {
+        "from_stop_id": "F29",
+        "to_stop_id": "F29",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F30": {
+        "from_stop_id": "F30",
+        "to_stop_id": "F30",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F31": {
+        "from_stop_id": "F31",
+        "to_stop_id": "F31",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F32": {
+        "from_stop_id": "F32",
+        "to_stop_id": "F32",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F33": {
+        "from_stop_id": "F33",
+        "to_stop_id": "F33",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F34": {
+        "from_stop_id": "F34",
+        "to_stop_id": "F34",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F35": {
+        "from_stop_id": "F35",
+        "to_stop_id": "F35",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F36": {
+        "from_stop_id": "F36",
+        "to_stop_id": "F36",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F38": {
+        "from_stop_id": "F38",
+        "to_stop_id": "F38",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "F39": {
+        "from_stop_id": "F39",
+        "to_stop_id": "F39",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G05": {
+        "from_stop_id": "G05",
+        "to_stop_id": "G05",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G06": {
+        "from_stop_id": "G06",
+        "to_stop_id": "G06",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G07": {
+        "from_stop_id": "G07",
+        "to_stop_id": "G07",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G08": {
+        "from_stop_id": "G08",
+        "to_stop_id": "G08",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "G09": {
+        "from_stop_id": "G09",
+        "to_stop_id": "G09",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G10": {
+        "from_stop_id": "G10",
+        "to_stop_id": "G10",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G11": {
+        "from_stop_id": "G11",
+        "to_stop_id": "G11",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G12": {
+        "from_stop_id": "G12",
+        "to_stop_id": "G12",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G13": {
+        "from_stop_id": "G13",
+        "to_stop_id": "G13",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G14": {
+        "from_stop_id": "G14",
+        "to_stop_id": "G14",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G15": {
+        "from_stop_id": "G15",
+        "to_stop_id": "G15",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G16": {
+        "from_stop_id": "G16",
+        "to_stop_id": "G16",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G18": {
+        "from_stop_id": "G18",
+        "to_stop_id": "G18",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G19": {
+        "from_stop_id": "G19",
+        "to_stop_id": "G19",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G20": {
+        "from_stop_id": "G20",
+        "to_stop_id": "G20",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G21": {
+        "from_stop_id": "G21",
+        "to_stop_id": "G21",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G22": {
+        "from_stop_id": "G22",
+        "to_stop_id": "G22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G24": {
+        "from_stop_id": "G24",
+        "to_stop_id": "G24",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G26": {
+        "from_stop_id": "G26",
+        "to_stop_id": "G26",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G28": {
+        "from_stop_id": "G28",
+        "to_stop_id": "G28",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G29": {
+        "from_stop_id": "G29",
+        "to_stop_id": "L10",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G30": {
+        "from_stop_id": "G30",
+        "to_stop_id": "G30",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G31": {
+        "from_stop_id": "G31",
+        "to_stop_id": "G31",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G32": {
+        "from_stop_id": "G32",
+        "to_stop_id": "G32",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G33": {
+        "from_stop_id": "G33",
+        "to_stop_id": "G33",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G34": {
+        "from_stop_id": "G34",
+        "to_stop_id": "G34",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G35": {
+        "from_stop_id": "G35",
+        "to_stop_id": "G35",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "G36": {
+        "from_stop_id": "G36",
+        "to_stop_id": "G36",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H02": {
+        "from_stop_id": "H02",
+        "to_stop_id": "H02",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H03": {
+        "from_stop_id": "H03",
+        "to_stop_id": "H03",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H04": {
+        "from_stop_id": "H04",
+        "to_stop_id": "H04",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H06": {
+        "from_stop_id": "H06",
+        "to_stop_id": "H06",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H07": {
+        "from_stop_id": "H07",
+        "to_stop_id": "H07",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H08": {
+        "from_stop_id": "H08",
+        "to_stop_id": "H08",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H09": {
+        "from_stop_id": "H09",
+        "to_stop_id": "H09",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H10": {
+        "from_stop_id": "H10",
+        "to_stop_id": "H10",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H11": {
+        "from_stop_id": "H11",
+        "to_stop_id": "H11",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H12": {
+        "from_stop_id": "H12",
+        "to_stop_id": "H12",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H13": {
+        "from_stop_id": "H13",
+        "to_stop_id": "H13",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H14": {
+        "from_stop_id": "H14",
+        "to_stop_id": "H14",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "H15": {
+        "from_stop_id": "H15",
+        "to_stop_id": "H15",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J12": {
+        "from_stop_id": "J12",
+        "to_stop_id": "J12",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J13": {
+        "from_stop_id": "J13",
+        "to_stop_id": "J13",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J14": {
+        "from_stop_id": "J14",
+        "to_stop_id": "J14",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J15": {
+        "from_stop_id": "J15",
+        "to_stop_id": "J15",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J16": {
+        "from_stop_id": "J16",
+        "to_stop_id": "J16",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J17": {
+        "from_stop_id": "J17",
+        "to_stop_id": "J17",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J19": {
+        "from_stop_id": "J19",
+        "to_stop_id": "J19",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J20": {
+        "from_stop_id": "J20",
+        "to_stop_id": "J20",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J21": {
+        "from_stop_id": "J21",
+        "to_stop_id": "J21",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J22": {
+        "from_stop_id": "J22",
+        "to_stop_id": "J22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J23": {
+        "from_stop_id": "J23",
+        "to_stop_id": "J23",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J24": {
+        "from_stop_id": "J24",
+        "to_stop_id": "J24",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J27": {
+        "from_stop_id": "J27",
+        "to_stop_id": "L22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J28": {
+        "from_stop_id": "J28",
+        "to_stop_id": "J28",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J29": {
+        "from_stop_id": "J29",
+        "to_stop_id": "J29",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J30": {
+        "from_stop_id": "J30",
+        "to_stop_id": "J30",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "J31": {
+        "from_stop_id": "J31",
+        "to_stop_id": "J31",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L01": {
+        "from_stop_id": "L01",
+        "to_stop_id": "L01",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L02": {
+        "from_stop_id": "L02",
+        "to_stop_id": "L02",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L03": {
+        "from_stop_id": "L03",
+        "to_stop_id": "R20",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L05": {
+        "from_stop_id": "L05",
+        "to_stop_id": "L05",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L06": {
+        "from_stop_id": "L06",
+        "to_stop_id": "L06",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L08": {
+        "from_stop_id": "L08",
+        "to_stop_id": "L08",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L10": {
+        "from_stop_id": "L10",
+        "to_stop_id": "L10",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L11": {
+        "from_stop_id": "L11",
+        "to_stop_id": "L11",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L12": {
+        "from_stop_id": "L12",
+        "to_stop_id": "L12",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L13": {
+        "from_stop_id": "L13",
+        "to_stop_id": "L13",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L14": {
+        "from_stop_id": "L14",
+        "to_stop_id": "L14",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L15": {
+        "from_stop_id": "L15",
+        "to_stop_id": "L15",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L16": {
+        "from_stop_id": "L16",
+        "to_stop_id": "L16",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L17": {
+        "from_stop_id": "L17",
+        "to_stop_id": "M08",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L19": {
+        "from_stop_id": "L19",
+        "to_stop_id": "L19",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L20": {
+        "from_stop_id": "L20",
+        "to_stop_id": "L20",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L21": {
+        "from_stop_id": "L21",
+        "to_stop_id": "L21",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L22": {
+        "from_stop_id": "L22",
+        "to_stop_id": "L22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L24": {
+        "from_stop_id": "L24",
+        "to_stop_id": "L24",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L25": {
+        "from_stop_id": "L25",
+        "to_stop_id": "L25",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L26": {
+        "from_stop_id": "L26",
+        "to_stop_id": "L26",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L27": {
+        "from_stop_id": "L27",
+        "to_stop_id": "L27",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L28": {
+        "from_stop_id": "L28",
+        "to_stop_id": "L28",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "L29": {
+        "from_stop_id": "L29",
+        "to_stop_id": "L29",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M01": {
+        "from_stop_id": "M01",
+        "to_stop_id": "M01",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M04": {
+        "from_stop_id": "M04",
+        "to_stop_id": "M04",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M05": {
+        "from_stop_id": "M05",
+        "to_stop_id": "M05",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M06": {
+        "from_stop_id": "M06",
+        "to_stop_id": "M06",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M08": {
+        "from_stop_id": "M08",
+        "to_stop_id": "M08",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M09": {
+        "from_stop_id": "M09",
+        "to_stop_id": "M09",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M10": {
+        "from_stop_id": "M10",
+        "to_stop_id": "M10",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M11": {
+        "from_stop_id": "M11",
+        "to_stop_id": "M11",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "M12": {
+        "from_stop_id": "M12",
+        "to_stop_id": "M12",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M13": {
+        "from_stop_id": "M13",
+        "to_stop_id": "M13",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M14": {
+        "from_stop_id": "M14",
+        "to_stop_id": "M14",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M16": {
+        "from_stop_id": "M16",
+        "to_stop_id": "M16",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "M18": {
+        "from_stop_id": "M18",
+        "to_stop_id": "M18",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M19": {
+        "from_stop_id": "M19",
+        "to_stop_id": "M19",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M20": {
+        "from_stop_id": "M20",
+        "to_stop_id": "R23",
+        "transfer_type": "2",
+        "min_transfer_time": "300"
+    },
+    "M21": {
+        "from_stop_id": "M21",
+        "to_stop_id": "M21",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M22": {
+        "from_stop_id": "M22",
+        "to_stop_id": "M22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "M23": {
+        "from_stop_id": "M23",
+        "to_stop_id": "M23",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "N02": {
+        "from_stop_id": "N02",
+        "to_stop_id": "N02",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "N03": {
+        "from_stop_id": "N03",
+        "to_stop_id": "N03",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "N04": {
+        "from_stop_id": "N04",
+        "to_stop_id": "N04",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "N05": {
+        "from_stop_id": "N05",
+        "to_stop_id": "N05",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "N06": {
+        "from_stop_id": "N06",
+        "to_stop_id": "N06",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "N07": {
+        "from_stop_id": "N07",
+        "to_stop_id": "N07",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "N08": {
+        "from_stop_id": "N08",
+        "to_stop_id": "N08",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "N09": {
+        "from_stop_id": "N09",
+        "to_stop_id": "N09",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "N10": {
+        "from_stop_id": "N10",
+        "to_stop_id": "N10",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "Q01": {
+        "from_stop_id": "Q01",
+        "to_stop_id": "R23",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R01": {
+        "from_stop_id": "R01",
+        "to_stop_id": "R01",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R03": {
+        "from_stop_id": "R03",
+        "to_stop_id": "R03",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "R04": {
+        "from_stop_id": "R04",
+        "to_stop_id": "R04",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R05": {
+        "from_stop_id": "R05",
+        "to_stop_id": "R05",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R06": {
+        "from_stop_id": "R06",
+        "to_stop_id": "R06",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R08": {
+        "from_stop_id": "R08",
+        "to_stop_id": "R08",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R09": {
+        "from_stop_id": "R09",
+        "to_stop_id": "R09",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R11": {
+        "from_stop_id": "R11",
+        "to_stop_id": "R11",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "R13": {
+        "from_stop_id": "R13",
+        "to_stop_id": "R13",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R14": {
+        "from_stop_id": "R14",
+        "to_stop_id": "R14",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R15": {
+        "from_stop_id": "R15",
+        "to_stop_id": "R15",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R16": {
+        "from_stop_id": "R16",
+        "to_stop_id": "R16",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "R17": {
+        "from_stop_id": "R17",
+        "to_stop_id": "R17",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "R18": {
+        "from_stop_id": "R18",
+        "to_stop_id": "R18",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R19": {
+        "from_stop_id": "R19",
+        "to_stop_id": "R19",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R20": {
+        "from_stop_id": "R20",
+        "to_stop_id": "R20",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "R21": {
+        "from_stop_id": "R21",
+        "to_stop_id": "R21",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R22": {
+        "from_stop_id": "R22",
+        "to_stop_id": "R22",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R23": {
+        "from_stop_id": "R23",
+        "to_stop_id": "R23",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R24": {
+        "from_stop_id": "R24",
+        "to_stop_id": "R24",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R25": {
+        "from_stop_id": "R25",
+        "to_stop_id": "228",
+        "transfer_type": "2",
+        "min_transfer_time": "420"
+    },
+    "R26": {
+        "from_stop_id": "R26",
+        "to_stop_id": "R26",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R27": {
+        "from_stop_id": "R27",
+        "to_stop_id": "140",
+        "transfer_type": "2",
+        "min_transfer_time": "120"
+    },
+    "R28": {
+        "from_stop_id": "R28",
+        "to_stop_id": "R28",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R29": {
+        "from_stop_id": "R29",
+        "to_stop_id": "A41",
+        "transfer_type": "2",
+        "min_transfer_time": "90"
+    },
+    "R30": {
+        "from_stop_id": "R30",
+        "to_stop_id": "R30",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R31": {
+        "from_stop_id": "R31",
+        "to_stop_id": "R31",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "R32": {
+        "from_stop_id": "R32",
+        "to_stop_id": "R32",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R33": {
+        "from_stop_id": "R33",
+        "to_stop_id": "R33",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R34": {
+        "from_stop_id": "R34",
+        "to_stop_id": "R34",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R35": {
+        "from_stop_id": "R35",
+        "to_stop_id": "R35",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R36": {
+        "from_stop_id": "R36",
+        "to_stop_id": "R36",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "R39": {
+        "from_stop_id": "R39",
+        "to_stop_id": "R39",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R40": {
+        "from_stop_id": "R40",
+        "to_stop_id": "R40",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R41": {
+        "from_stop_id": "R41",
+        "to_stop_id": "R41",
+        "transfer_type": "2",
+        "min_transfer_time": "0"
+    },
+    "R42": {
+        "from_stop_id": "R42",
+        "to_stop_id": "R42",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R43": {
+        "from_stop_id": "R43",
+        "to_stop_id": "R43",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R44": {
+        "from_stop_id": "R44",
+        "to_stop_id": "R44",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "R45": {
+        "from_stop_id": "R45",
+        "to_stop_id": "R45",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "S01": {
+        "from_stop_id": "S01",
+        "to_stop_id": "S01",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "S03": {
+        "from_stop_id": "S03",
+        "to_stop_id": "S03",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    },
+    "S04": {
+        "from_stop_id": "S04",
+        "to_stop_id": "S04",
+        "transfer_type": "2",
+        "min_transfer_time": "180"
+    }
+}
