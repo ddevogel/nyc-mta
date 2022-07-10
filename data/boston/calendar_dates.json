@@ -1,0 +1,410 @@
+{
+    "SPR22-N-Sa-1": {
+        "service_id": "SPR22-N-Sa-1",
+        "date": "20220702",
+        "exception_type": "1",
+        "holiday_name": ""
+    },
+    "SPR22-N-Sa-1-S6d": {
+        "service_id": "SPR22-N-Sa-1-S6d",
+        "date": "20220723",
+        "exception_type": "1",
+        "holiday_name": ""
+    },
+    "SPR22-N-Sa-1-S72": {
+        "service_id": "SPR22-N-Sa-1-S72",
+        "date": "20220723",
+        "exception_type": "1",
+        "holiday_name": ""
+    },
+    "SPR22-N-Sa-1-S9f": {
+        "service_id": "SPR22-N-Sa-1-S9f",
+        "date": "20220702",
+        "exception_type": "1",
+        "holiday_name": ""
+    },
+    "SPR22-N-Su-1": {
+        "service_id": "SPR22-N-Su-1",
+        "date": "20220703",
+        "exception_type": "1",
+        "holiday_name": ""
+    },
+    "SPR22-N-Su-1-S6d": {
+        "service_id": "SPR22-N-Su-1-S6d",
+        "date": "20220724",
+        "exception_type": "1",
+        "holiday_name": ""
+    },
+    "SPR22-N-Su-1-S72": {
+        "service_id": "SPR22-N-Su-1-S72",
+        "date": "20220724",
+        "exception_type": "1",
+        "holiday_name": ""
+    },
+    "SPR22-N-Su-1-S9f": {
+        "service_id": "SPR22-N-Su-1-S9f",
+        "date": "20220703",
+        "exception_type": "1",
+        "holiday_name": ""
+    },
+    "BUS322-1-Wdy-02": {
+        "service_id": "BUS322-1-Wdy-02",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-2-Wdy-02": {
+        "service_id": "BUS322-2-Wdy-02",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-5-Su-02": {
+        "service_id": "BUS322-5-Su-02",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-6-Wdy-02": {
+        "service_id": "BUS322-6-Wdy-02",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-9-Su-02": {
+        "service_id": "BUS322-9-Su-02",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-A-Wdy-02": {
+        "service_id": "BUS322-A-Wdy-02",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-B-Wdy-02": {
+        "service_id": "BUS322-B-Wdy-02",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-E-Su-02": {
+        "service_id": "BUS322-E-Su-02",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-F-Wdy-02": {
+        "service_id": "BUS322-F-Wdy-02",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-I-Su-02": {
+        "service_id": "BUS322-I-Su-02",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-J-Wdy-02": {
+        "service_id": "BUS322-J-Wdy-02",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-M-Su-02": {
+        "service_id": "BUS322-M-Su-02",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-N-Wdy-02": {
+        "service_id": "BUS322-N-Wdy-02",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-Q-Su-02": {
+        "service_id": "BUS322-Q-Su-02",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-R-Wdy-02": {
+        "service_id": "BUS322-R-Wdy-02",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "BUS322-U-Su-02": {
+        "service_id": "BUS322-U-Su-02",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "Boat-F1-SuFull-Smr-22": {
+        "service_id": "Boat-F1-SuFull-Smr-22",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "Boat-F1-WdyFull-Smr-22": {
+        "service_id": "Boat-F1-WdyFull-Smr-22",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "Boat-F4-Su-Smr-22": {
+        "service_id": "Boat-F4-Su-Smr-22",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "Boat-F4-Wdy-Smr-22": {
+        "service_id": "Boat-F4-Wdy-Smr-22",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "IndependenceDay": {
+        "service_id": "IndependenceDay",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "LRV322-4-Wdy-01": {
+        "service_id": "LRV322-4-Wdy-01",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "LRV322-5-Wdy-01": {
+        "service_id": "LRV322-5-Wdy-01",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "LRV322-8-Wdy-01": {
+        "service_id": "LRV322-8-Wdy-01",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "PRIV322-1-Wdy-01": {
+        "service_id": "PRIV322-1-Wdy-01",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "PRIV322-3-Wdy-01": {
+        "service_id": "PRIV322-3-Wdy-01",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "PRIV322-5-Su-01": {
+        "service_id": "PRIV322-5-Su-01",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "PRIV322-6-Wdy-01": {
+        "service_id": "PRIV322-6-Wdy-01",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "PRIV322-9-Su-01": {
+        "service_id": "PRIV322-9-Su-01",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "RTL322-3-Wdy-01": {
+        "service_id": "RTL322-3-Wdy-01",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "RTL322-4-Sa-01": {
+        "service_id": "RTL322-4-Sa-01",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "RTL322-7-Wdy-01": {
+        "service_id": "RTL322-7-Wdy-01",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "RTL322-8-Sa-01": {
+        "service_id": "RTL322-8-Sa-01",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "RTL322-B-Wdy-01": {
+        "service_id": "RTL322-B-Wdy-01",
+        "date": "20220704",
+        "exception_type": "1",
+        "holiday_name": "Independence Day"
+    },
+    "RTL322-C-Sa-01": {
+        "service_id": "RTL322-C-Sa-01",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "SPR22-N-Wdy-1": {
+        "service_id": "SPR22-N-Wdy-1",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "SPR22-N-Wdy-1-S6d": {
+        "service_id": "SPR22-N-Wdy-1-S6d",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "SPR22-N-Wdy-1-S72": {
+        "service_id": "SPR22-N-Wdy-1-S72",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "SPR22-N-Wdy-1-S9f": {
+        "service_id": "SPR22-N-Wdy-1-S9f",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "SPR22-S-Wdy-1": {
+        "service_id": "SPR22-S-Wdy-1",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "SPR22-S-Wdy-1-S86": {
+        "service_id": "SPR22-S-Wdy-1-S86",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "SPR22-S-Wdy-1-S8f": {
+        "service_id": "SPR22-S-Wdy-1-S8f",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "SPR22-S-Wdy-1-Sb6": {
+        "service_id": "SPR22-S-Wdy-1-Sb6",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "SPR22-S-Wdy-1-Sc0": {
+        "service_id": "SPR22-S-Wdy-1-Sc0",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "SPR22-S-Wdy-1-Sc5": {
+        "service_id": "SPR22-S-Wdy-1-Sc5",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "SPR22-S-Wdy-6": {
+        "service_id": "SPR22-S-Wdy-6",
+        "date": "20220704",
+        "exception_type": "2",
+        "holiday_name": "Independence Day"
+    },
+    "LRV322-1-Wdy-01": {
+        "service_id": "LRV322-1-Wdy-01",
+        "date": "20220708",
+        "exception_type": "1",
+        "holiday_name": ""
+    },
+    "SPR22-S-Su-C1-S49": {
+        "service_id": "SPR22-S-Su-C1-S49",
+        "date": "20220705",
+        "exception_type": "1",
+        "holiday_name": ""
+    },
+    "RTL322-9-Sa-01": {
+        "service_id": "RTL322-9-Sa-01",
+        "date": "20220723",
+        "exception_type": "2",
+        "holiday_name": ""
+    },
+    "SPR22-S-Sa-1": {
+        "service_id": "SPR22-S-Sa-1",
+        "date": "20220709",
+        "exception_type": "2",
+        "holiday_name": ""
+    },
+    "RTL322-6-Su-01": {
+        "service_id": "RTL322-6-Su-01",
+        "date": "20220710",
+        "exception_type": "2",
+        "holiday_name": ""
+    },
+    "RTL322-A-Su-01": {
+        "service_id": "RTL322-A-Su-01",
+        "date": "20220724",
+        "exception_type": "2",
+        "holiday_name": ""
+    },
+    "SPR22-S-Su-1": {
+        "service_id": "SPR22-S-Su-1",
+        "date": "20220710",
+        "exception_type": "2",
+        "holiday_name": ""
+    },
+    "LRV322-2-Sa-01": {
+        "service_id": "LRV322-2-Sa-01",
+        "date": "20220716",
+        "exception_type": "2",
+        "holiday_name": ""
+    },
+    "LRV322-3-Su-01": {
+        "service_id": "LRV322-3-Su-01",
+        "date": "20220717",
+        "exception_type": "2",
+        "holiday_name": ""
+    },
+    "CR-1-AndersonJulyShuttle-Std": {
+        "service_id": "CR-1-AndersonJulyShuttle-Std",
+        "date": "20220723",
+        "exception_type": "2",
+        "holiday_name": ""
+    },
+    "SPR22-N-Sa-11-S6d": {
+        "service_id": "SPR22-N-Sa-11-S6d",
+        "date": "20220723",
+        "exception_type": "2",
+        "holiday_name": ""
+    },
+    "SPR22-N-Sa-11-S72": {
+        "service_id": "SPR22-N-Sa-11-S72",
+        "date": "20220723",
+        "exception_type": "2",
+        "holiday_name": ""
+    },
+    "SPR22-N-Su-11-S6d": {
+        "service_id": "SPR22-N-Su-11-S6d",
+        "date": "20220724",
+        "exception_type": "2",
+        "holiday_name": ""
+    },
+    "SPR22-N-Su-11-S72": {
+        "service_id": "SPR22-N-Su-11-S72",
+        "date": "20220724",
+        "exception_type": "2",
+        "holiday_name": ""
+    }
+}

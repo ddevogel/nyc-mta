@@ -1,0 +1,263 @@
+{
+    "1": {
+        "route_id": "1",
+        "service_id": "ASP22GEN-1091-Weekday-00",
+        "trip_id": "ASP22GEN-1091-Weekday-00_149900_1..N03R",
+        "trip_headsign": "Van Cortlandt Park-242 St",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "1..N03R"
+    },
+    "2": {
+        "route_id": "2",
+        "service_id": "ASP22GEN-2099-Weekday-00",
+        "trip_id": "ASP22GEN-2099-Weekday-00_155350_2..N08R",
+        "trip_headsign": "Wakefield-241 St",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "2..N08R"
+    },
+    "3": {
+        "route_id": "3",
+        "service_id": "ASP22GEN-3091-Weekday-00",
+        "trip_id": "ASP22GEN-3091-Weekday-00_146300_3..N42R",
+        "trip_headsign": "Harlem-148 St",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "3..N42R"
+    },
+    "4": {
+        "route_id": "4",
+        "service_id": "ASP22GEN-4101-Weekday-00",
+        "trip_id": "ASP22GEN-4101-Weekday-00_152700_4..N13R",
+        "trip_headsign": "Woodlawn",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "4..N13R"
+    },
+    "5": {
+        "route_id": "5",
+        "service_id": "ASP22GEN-5111-Weekday-00",
+        "trip_id": "ASP22GEN-5111-Weekday-00_144400_5..N32R",
+        "trip_headsign": "Eastchester-Dyre Av",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "5..N32R"
+    },
+    "6": {
+        "route_id": "6",
+        "service_id": "ASP22GEN-6089-Weekday-00",
+        "trip_id": "ASP22GEN-6089-Weekday-00_150300_6..N01R",
+        "trip_headsign": "Pelham Bay Park",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "6..N01R"
+    },
+    "6X": {
+        "route_id": "6X",
+        "service_id": "ASP22GEN-6089-Weekday-00",
+        "trip_id": "ASP22GEN-6089-Weekday-00_121600_6..N02R",
+        "trip_headsign": "Pelham Bay Park",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "6..N02R"
+    },
+    "7": {
+        "route_id": "7",
+        "service_id": "ASP22GEN-7062-Weekday-00",
+        "trip_id": "ASP22GEN-7062-Weekday-00_148850_7..N97R",
+        "trip_headsign": "Flushing-Main St",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "7..N97R"
+    },
+    "7X": {
+        "route_id": "7X",
+        "service_id": "ASP22GEN-7062-Weekday-00",
+        "trip_id": "ASP22GEN-7062-Weekday-00_130050_7..N95R",
+        "trip_headsign": "Flushing-Main St",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "7..N95R"
+    },
+    "GS": {
+        "route_id": "GS",
+        "service_id": "ASP22GEN-GS022-Weekday-00",
+        "trip_id": "ASP22GEN-GS022-Weekday-00_143850_GS.S04R",
+        "trip_headsign": "Grand Central-42 St",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "GS.S04R"
+    },
+    "A": {
+        "route_id": "A",
+        "service_id": "BSP22GEN-A084-Weekday-00",
+        "trip_id": "BSP22GEN-A084-Weekday-00_156200_A..N09R",
+        "trip_headsign": "Inwood-207 St",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "A..N09R"
+    },
+    "B": {
+        "route_id": "B",
+        "service_id": "BSP22GEN-B083-Weekday-00",
+        "trip_id": "BSP22GEN-B083-Weekday-00_127500_B..S46R",
+        "trip_headsign": "Brighton Beach",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "B..S46R"
+    },
+    "C": {
+        "route_id": "C",
+        "service_id": "BSP22GEN-C054-Weekday-00",
+        "trip_id": "BSP22GEN-C054-Weekday-00_133850_C..N04R",
+        "trip_headsign": "168 St",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "C..N04R"
+    },
+    "D": {
+        "route_id": "D",
+        "service_id": "BSP22GEN-D079-Weekday-00",
+        "trip_id": "BSP22GEN-D079-Weekday-00_153750_D..N05R",
+        "trip_headsign": "Norwood-205 St",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "D..N05R"
+    },
+    "E": {
+        "route_id": "E",
+        "service_id": "BSP22GEN-E073-Weekday-00",
+        "trip_id": "BSP22GEN-E073-Weekday-00_150850_E..N05R",
+        "trip_headsign": "Jamaica Center-Parsons/Archer",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "E..N05R"
+    },
+    "F": {
+        "route_id": "F",
+        "service_id": "BSP22GEN-F076-Weekday-00",
+        "trip_id": "BSP22GEN-F076-Weekday-00_154150_F..N69R",
+        "trip_headsign": "Jamaica-179 St",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "F..N69R"
+    },
+    "FX": {
+        "route_id": "FX",
+        "service_id": "BSP22GEN-F076-Weekday-00",
+        "trip_id": "BSP22GEN-F076-Weekday-00_101700_F..S72R",
+        "trip_headsign": "Coney Island-Stillwell Av",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "F..S72R"
+    },
+    "FS": {
+        "route_id": "FS",
+        "service_id": "BSP22GEN-FS012-Sunday-00",
+        "trip_id": "BSP22GEN-FS012-Sunday-00_142950_FS.N01R",
+        "trip_headsign": "Franklin Av",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "FS.N01R"
+    },
+    "G": {
+        "route_id": "G",
+        "service_id": "BSP22GEN-G052-Weekday-00",
+        "trip_id": "BSP22GEN-G052-Weekday-00_148950_G..N14R",
+        "trip_headsign": "Court Sq",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "G..N14R"
+    },
+    "H": {
+        "route_id": "H",
+        "service_id": "BSP22GEN-H041-Weekday-00",
+        "trip_id": "BSP22GEN-H041-Weekday-00_146000_H..N21R",
+        "trip_headsign": "Broad Channel",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "H..N21R"
+    },
+    "J": {
+        "route_id": "J",
+        "service_id": "BSP22GEN-J052-Weekday-00",
+        "trip_id": "BSP22GEN-J052-Weekday-00_149500_J..N41R",
+        "trip_headsign": "Jamaica Center-Parsons/Archer",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "J..N41R"
+    },
+    "Z": {
+        "route_id": "Z",
+        "service_id": "BSP22GEN-J052-Weekday-00",
+        "trip_id": "BSP22GEN-J052-Weekday-00_106500_J..N47R",
+        "trip_headsign": "Jamaica Center-Parsons/Archer",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "J..N47R"
+    },
+    "L": {
+        "route_id": "L",
+        "service_id": "BSP22GEN-L045-Weekday-00",
+        "trip_id": "BSP22GEN-L045-Weekday-00_148200_L..S01R",
+        "trip_headsign": "Canarsie-Rockaway Pkwy",
+        "direction_id": "1",
+        "block_id": "",
+        "shape_id": "L..S01R"
+    },
+    "M": {
+        "route_id": "M",
+        "service_id": "BSP22GEN-M089-Weekday-00",
+        "trip_id": "BSP22GEN-M089-Weekday-00_144600_M..N30R",
+        "trip_headsign": "Myrtle Av",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "M..N30R"
+    },
+    "N": {
+        "route_id": "N",
+        "service_id": "BSP22GEN-N096-Weekday-00",
+        "trip_id": "BSP22GEN-N096-Weekday-00_153700_N..N20R",
+        "trip_headsign": "Astoria-Ditmars Blvd",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "N..N20R"
+    },
+    "Q": {
+        "route_id": "Q",
+        "service_id": "BSP22GEN-Q065-Weekday-00",
+        "trip_id": "BSP22GEN-Q065-Weekday-00_152100_Q..N19R",
+        "trip_headsign": "96 St",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "Q..N19R"
+    },
+    "W": {
+        "route_id": "W",
+        "service_id": "BSP22GEN-N096-Weekday-00",
+        "trip_id": "BSP22GEN-N096-Weekday-00_133400_N..N72R",
+        "trip_headsign": "Astoria-Ditmars Blvd",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "N..N72R"
+    },
+    "R": {
+        "route_id": "R",
+        "service_id": "BSP22GEN-R092-Weekday-00",
+        "trip_id": "BSP22GEN-R092-Weekday-00_148600_R..N27R",
+        "trip_headsign": "Whitehall St-South Ferry",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "R..N27R"
+    },
+    "SI": {
+        "route_id": "SI",
+        "service_id": "SIR-SP2018-SI017-Sunday-00",
+        "trip_id": "SIR-SP2018-SI017-Sunday-00_147100_SI..N03R",
+        "trip_headsign": "St George",
+        "direction_id": "0",
+        "block_id": "",
+        "shape_id": "SI..N03R"
+    }
+}

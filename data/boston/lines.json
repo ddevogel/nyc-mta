@@ -1,0 +1,1392 @@
+{
+    "line-Red": {
+        "line_id": "line-Red",
+        "line_short_name": "",
+        "line_long_name": "Red Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "DA291C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "10010"
+    },
+    "line-Mattapan": {
+        "line_id": "line-Mattapan",
+        "line_short_name": "",
+        "line_long_name": "Mattapan Trolley",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "DA291C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "10011"
+    },
+    "line-Orange": {
+        "line_id": "line-Orange",
+        "line_short_name": "",
+        "line_long_name": "Orange Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "ED8B00",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "10020"
+    },
+    "line-Green": {
+        "line_id": "line-Green",
+        "line_short_name": "",
+        "line_long_name": "Green Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "00843D",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "10032"
+    },
+    "line-Blue": {
+        "line_id": "line-Blue",
+        "line_short_name": "",
+        "line_long_name": "Blue Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "003DA5",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "10040"
+    },
+    "line-SLWaterfront": {
+        "line_id": "line-SLWaterfront",
+        "line_short_name": "",
+        "line_long_name": "Silver Line SL1/SL2/SL3",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "7C878E",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "10051"
+    },
+    "line-SLWashington": {
+        "line_id": "line-SLWashington",
+        "line_short_name": "",
+        "line_long_name": "Silver Line SL4/SL5",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "7C878E",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "10055"
+    },
+    "line-Fairmount": {
+        "line_id": "line-Fairmount",
+        "line_short_name": "",
+        "line_long_name": "Fairmount Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20001"
+    },
+    "line-Fitchburg": {
+        "line_id": "line-Fitchburg",
+        "line_short_name": "",
+        "line_long_name": "Fitchburg Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20002"
+    },
+    "line-Worcester": {
+        "line_id": "line-Worcester",
+        "line_short_name": "",
+        "line_long_name": "Framingham/Worcester Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20003"
+    },
+    "line-Franklin": {
+        "line_id": "line-Franklin",
+        "line_short_name": "",
+        "line_long_name": "Franklin/Foxboro Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20004"
+    },
+    "line-Greenbush": {
+        "line_id": "line-Greenbush",
+        "line_short_name": "",
+        "line_long_name": "Greenbush Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20005"
+    },
+    "line-Haverhill": {
+        "line_id": "line-Haverhill",
+        "line_short_name": "",
+        "line_long_name": "Haverhill Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20006"
+    },
+    "line-Kingston": {
+        "line_id": "line-Kingston",
+        "line_short_name": "",
+        "line_long_name": "Kingston Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20007"
+    },
+    "line-Lowell": {
+        "line_id": "line-Lowell",
+        "line_short_name": "",
+        "line_long_name": "Lowell Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20008"
+    },
+    "line-Middleborough": {
+        "line_id": "line-Middleborough",
+        "line_short_name": "",
+        "line_long_name": "Middleborough/Lakeville Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20009"
+    },
+    "line-Needham": {
+        "line_id": "line-Needham",
+        "line_short_name": "",
+        "line_long_name": "Needham Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20010"
+    },
+    "line-Newburyport": {
+        "line_id": "line-Newburyport",
+        "line_short_name": "",
+        "line_long_name": "Newburyport/Rockport Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20011"
+    },
+    "line-Providence": {
+        "line_id": "line-Providence",
+        "line_short_name": "",
+        "line_long_name": "Providence/Stoughton Line",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20012"
+    },
+    "line-Foxboro": {
+        "line_id": "line-Foxboro",
+        "line_short_name": "",
+        "line_long_name": "Foxboro Event Service",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "80276C",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "20013"
+    },
+    "line-CapeFlyer": {
+        "line_id": "line-CapeFlyer",
+        "line_short_name": "",
+        "line_long_name": "CapeFlyer",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "006595",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "21000"
+    },
+    "line-Boat-F4": {
+        "line_id": "line-Boat-F4",
+        "line_short_name": "",
+        "line_long_name": "Charlestown Ferry",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "008EAA",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "30001"
+    },
+    "line-Boat-F1": {
+        "line_id": "line-Boat-F1",
+        "line_short_name": "",
+        "line_long_name": "Hingham/Hull Ferry",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "008EAA",
+        "line_text_color": "FFFFFF",
+        "line_sort_order": "30002"
+    },
+    "line-1": {
+        "line_id": "line-1",
+        "line_short_name": "1",
+        "line_long_name": "Harvard - Nubian via Massachusetts Avenue",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "40010"
+    },
+    "line-747": {
+        "line_id": "line-747",
+        "line_short_name": "CT2",
+        "line_long_name": "Sullivan - Ruggles",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "40020"
+    },
+    "line-171708": {
+        "line_id": "line-171708",
+        "line_short_name": "CT3/171",
+        "line_long_name": "Beth Israel Deaconess, Boston Medical Center, or Nubian - Andrew or Logan Airport",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "40030"
+    },
+    "line-4": {
+        "line_id": "line-4",
+        "line_short_name": "4",
+        "line_long_name": "North Station - Tide Street",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50040"
+    },
+    "line-10": {
+        "line_id": "line-10",
+        "line_short_name": "10",
+        "line_long_name": "City Point - Copley",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50050"
+    },
+    "line-7": {
+        "line_id": "line-7",
+        "line_short_name": "7",
+        "line_long_name": "City Point - Downtown Boston",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50070"
+    },
+    "line-8": {
+        "line_id": "line-8",
+        "line_short_name": "8",
+        "line_long_name": "Harbor Point/UMass - Kenmore",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50080"
+    },
+    "line-9": {
+        "line_id": "line-9",
+        "line_short_name": "9",
+        "line_long_name": "City Point - Copley via Broadway Station",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50090"
+    },
+    "line-11": {
+        "line_id": "line-11",
+        "line_short_name": "11",
+        "line_long_name": "City Point - Downtown Boston",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50110"
+    },
+    "line-14": {
+        "line_id": "line-14",
+        "line_short_name": "14",
+        "line_long_name": "Roslindale Square - Heath Street",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50140"
+    },
+    "line-15": {
+        "line_id": "line-15",
+        "line_short_name": "15",
+        "line_long_name": "Kane Square - Ruggles",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50150"
+    },
+    "line-16": {
+        "line_id": "line-16",
+        "line_short_name": "16",
+        "line_long_name": "Forest Hills - Andrew or UMass",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50160"
+    },
+    "line-1719": {
+        "line_id": "line-1719",
+        "line_short_name": "17/19",
+        "line_long_name": "Fields Corner - Kenmore, Ruggles, or Andrew",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50170"
+    },
+    "line-18": {
+        "line_id": "line-18",
+        "line_short_name": "18",
+        "line_long_name": "Ashmont - Andrew",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50180"
+    },
+    "line-21": {
+        "line_id": "line-21",
+        "line_short_name": "21",
+        "line_long_name": "Ashmont - Forest Hills",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50210"
+    },
+    "line-22": {
+        "line_id": "line-22",
+        "line_short_name": "22",
+        "line_long_name": "Ashmont - Ruggles via Jackson Square",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50220"
+    },
+    "line-23": {
+        "line_id": "line-23",
+        "line_short_name": "23",
+        "line_long_name": "Ashmont - Ruggles via Washington Street",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50230"
+    },
+    "line-242733": {
+        "line_id": "line-242733",
+        "line_short_name": "24/27/33",
+        "line_long_name": "Wakefield Avenue or Dedham - Mattapan - Ashmont",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50240"
+    },
+    "line-26": {
+        "line_id": "line-26",
+        "line_short_name": "26",
+        "line_long_name": "Ashmont - Gallivan Boulevard",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50260"
+    },
+    "line-28": {
+        "line_id": "line-28",
+        "line_short_name": "28",
+        "line_long_name": "Mattapan - Ruggles",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50280"
+    },
+    "line-29": {
+        "line_id": "line-29",
+        "line_short_name": "29",
+        "line_long_name": "Mattapan - Jackson Square",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50290"
+    },
+    "line-30": {
+        "line_id": "line-30",
+        "line_short_name": "30",
+        "line_long_name": "Mattapan - Forest Hills via Roslindale Square",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50300"
+    },
+    "line-31": {
+        "line_id": "line-31",
+        "line_short_name": "31",
+        "line_long_name": "Mattapan - Forest Hills via Morton Street",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50310"
+    },
+    "line-32": {
+        "line_id": "line-32",
+        "line_short_name": "32",
+        "line_long_name": "Wolcott Square - Forest Hills",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50320"
+    },
+    "line-3434E": {
+        "line_id": "line-3434E",
+        "line_short_name": "34/34E",
+        "line_long_name": "Walpole or Dedham Square - Forest Hills",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50340"
+    },
+    "line-35": {
+        "line_id": "line-35",
+        "line_short_name": "35",
+        "line_long_name": "Dedham Mall - Forest Hills",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50350"
+    },
+    "line-36": {
+        "line_id": "line-36",
+        "line_short_name": "36",
+        "line_long_name": "Charles River Loop - Forest Hills",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50360"
+    },
+    "line-37": {
+        "line_id": "line-37",
+        "line_short_name": "37",
+        "line_long_name": "Baker Street & Vermont Street - Forest Hills",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50370"
+    },
+    "line-38": {
+        "line_id": "line-38",
+        "line_short_name": "38",
+        "line_long_name": "Wren Street - Forest Hills",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50371"
+    },
+    "line-39": {
+        "line_id": "line-39",
+        "line_short_name": "39",
+        "line_long_name": "Forest Hills - Back Bay Station",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50390"
+    },
+    "line-4050": {
+        "line_id": "line-4050",
+        "line_short_name": "40",
+        "line_long_name": "Cleary Square or Georgetowne - Forest Hills",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50400"
+    },
+    "line-41": {
+        "line_id": "line-41",
+        "line_short_name": "41",
+        "line_long_name": "Centre Street & Eliot Street - JFK/UMass Station",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50410"
+    },
+    "line-42": {
+        "line_id": "line-42",
+        "line_short_name": "42",
+        "line_long_name": "Forest Hills - Nubian",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50420"
+    },
+    "line-43": {
+        "line_id": "line-43",
+        "line_short_name": "43",
+        "line_long_name": "Ruggles - Downtown Boston",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50430"
+    },
+    "line-44": {
+        "line_id": "line-44",
+        "line_short_name": "44",
+        "line_long_name": "Jackson Square - Ruggles",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50440"
+    },
+    "line-45": {
+        "line_id": "line-45",
+        "line_short_name": "45",
+        "line_long_name": "Franklin Park - Ruggles",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50450"
+    },
+    "line-47": {
+        "line_id": "line-47",
+        "line_short_name": "47",
+        "line_long_name": "Central Square, Cambridge - Broadway Station",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50470"
+    },
+    "line-51": {
+        "line_id": "line-51",
+        "line_short_name": "51",
+        "line_long_name": "Reservoir - Forest Hills",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50510"
+    },
+    "line-5259": {
+        "line_id": "line-5259",
+        "line_short_name": "52/59",
+        "line_long_name": "Needham Junction or Dedham Mall - Watertown",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50520"
+    },
+    "line-55": {
+        "line_id": "line-55",
+        "line_short_name": "55",
+        "line_long_name": "Jersey Street & Queensberry Street - Copley",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50550"
+    },
+    "line-5757A": {
+        "line_id": "line-5757A",
+        "line_short_name": "57/57A",
+        "line_long_name": "Watertown Yard or Oak Square - Kenmore",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50570"
+    },
+    "line-6065": {
+        "line_id": "line-6065",
+        "line_short_name": "60/65",
+        "line_long_name": "Chestnut Hill or Brighton - Kenmore",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50600"
+    },
+    "line-6170170": {
+        "line_id": "line-6170170",
+        "line_short_name": "61/70/170",
+        "line_long_name": "Waltham - Central Square, Cambridge",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50610"
+    },
+    "line-6276": {
+        "line_id": "line-6276",
+        "line_short_name": "62/76",
+        "line_long_name": "Bedford VA - Alewife via Hanscom Airport",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50620"
+    },
+    "line-6468": {
+        "line_id": "line-6468",
+        "line_short_name": "64/68",
+        "line_long_name": "Oak Square or Harvard - University Park or Kendall/MIT",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50640"
+    },
+    "line-66": {
+        "line_id": "line-66",
+        "line_short_name": "66",
+        "line_long_name": "Harvard - Nubian via Allston",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50660"
+    },
+    "line-6779": {
+        "line_id": "line-6779",
+        "line_short_name": "67/79",
+        "line_long_name": "Turkey Hill or Arlington Heights - Alewife",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50670"
+    },
+    "line-69": {
+        "line_id": "line-69",
+        "line_short_name": "69",
+        "line_long_name": "Harvard - Lechmere",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50690"
+    },
+    "line-71": {
+        "line_id": "line-71",
+        "line_short_name": "71",
+        "line_long_name": "Watertown Square - Harvard",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50710"
+    },
+    "line-727475": {
+        "line_id": "line-727475",
+        "line_short_name": "72/74/75",
+        "line_long_name": "Belmont Center or Huron Avenue - Harvard",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50720"
+    },
+    "line-73": {
+        "line_id": "line-73",
+        "line_short_name": "73",
+        "line_long_name": "Waverley Square - Harvard",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50730"
+    },
+    "line-77": {
+        "line_id": "line-77",
+        "line_short_name": "77",
+        "line_long_name": "Arlington Heights - Harvard",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50770"
+    },
+    "line-7884": {
+        "line_id": "line-7884",
+        "line_short_name": "78/84",
+        "line_long_name": "Arlmont Village - Harvard",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50780"
+    },
+    "line-80": {
+        "line_id": "line-80",
+        "line_short_name": "80",
+        "line_long_name": "Arlington Center - Lechmere",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50800"
+    },
+    "line-83": {
+        "line_id": "line-83",
+        "line_short_name": "83",
+        "line_long_name": "Rindge Avenue - Central Square, Cambridge",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50830"
+    },
+    "line-85": {
+        "line_id": "line-85",
+        "line_short_name": "85",
+        "line_long_name": "Spring Hill - Kendall/MIT",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50850"
+    },
+    "line-86": {
+        "line_id": "line-86",
+        "line_short_name": "86",
+        "line_long_name": "Sullivan - Reservoir",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50860"
+    },
+    "line-87": {
+        "line_id": "line-87",
+        "line_short_name": "87",
+        "line_long_name": "Clarendon Hill or Arlington Center - Lechmere via Somerville Avenue",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50870"
+    },
+    "line-88": {
+        "line_id": "line-88",
+        "line_short_name": "88",
+        "line_long_name": "Clarendon Hill - Lechmere via Highland Avenue",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50880"
+    },
+    "line-89": {
+        "line_id": "line-89",
+        "line_short_name": "89",
+        "line_long_name": "Clarendon Hill or Davis - Sullivan",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50890"
+    },
+    "line-90": {
+        "line_id": "line-90",
+        "line_short_name": "90",
+        "line_long_name": "Davis - Wellington",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50900"
+    },
+    "line-91": {
+        "line_id": "line-91",
+        "line_short_name": "91",
+        "line_long_name": "Sullivan - Central Square, Cambridge",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50910"
+    },
+    "line-92": {
+        "line_id": "line-92",
+        "line_short_name": "92",
+        "line_long_name": "Assembly - Downtown Boston",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50920"
+    },
+    "line-93": {
+        "line_id": "line-93",
+        "line_short_name": "93",
+        "line_long_name": "Sullivan - Downtown Boston",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50930"
+    },
+    "line-94": {
+        "line_id": "line-94",
+        "line_short_name": "94",
+        "line_long_name": "Medford Square - Davis",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50940"
+    },
+    "line-95": {
+        "line_id": "line-95",
+        "line_short_name": "95",
+        "line_long_name": "West Medford - Sullivan via Mystic Avenue",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50950"
+    },
+    "line-96": {
+        "line_id": "line-96",
+        "line_short_name": "96",
+        "line_long_name": "Medford Square - Harvard",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50960"
+    },
+    "line-97": {
+        "line_id": "line-97",
+        "line_short_name": "97",
+        "line_long_name": "Malden Center - Wellington",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50970"
+    },
+    "line-99": {
+        "line_id": "line-99",
+        "line_short_name": "99",
+        "line_long_name": "Woodland Road, Stoneham - Wellington",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "50990"
+    },
+    "line-100": {
+        "line_id": "line-100",
+        "line_short_name": "100",
+        "line_long_name": "Elm Street - Wellington",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51000"
+    },
+    "line-101": {
+        "line_id": "line-101",
+        "line_short_name": "101",
+        "line_long_name": "Malden Center - Sullivan via Winter Hill",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51010"
+    },
+    "line-104109": {
+        "line_id": "line-104109",
+        "line_short_name": "104/109",
+        "line_long_name": "Linden Square or Malden Center - Sullivan",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51040"
+    },
+    "line-105": {
+        "line_id": "line-105",
+        "line_short_name": "105",
+        "line_long_name": "Malden Center - Sullivan via Newland Street Housing",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51050"
+    },
+    "line-106": {
+        "line_id": "line-106",
+        "line_short_name": "106",
+        "line_long_name": "Lebanon Street, Malden - Wellington",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51060"
+    },
+    "line-108": {
+        "line_id": "line-108",
+        "line_short_name": "108",
+        "line_long_name": "Linden Square - Wellington",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51080"
+    },
+    "line-110": {
+        "line_id": "line-110",
+        "line_short_name": "110",
+        "line_long_name": "Wonderland - Wellington",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51100"
+    },
+    "line-111": {
+        "line_id": "line-111",
+        "line_short_name": "111",
+        "line_long_name": "Everett, Revere, or Chelsea - Haymarket",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51110"
+    },
+    "line-112": {
+        "line_id": "line-112",
+        "line_short_name": "112",
+        "line_long_name": "Wellington - Wood Island",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51120"
+    },
+    "line-114116117": {
+        "line_id": "line-114116117",
+        "line_short_name": "114/116/117",
+        "line_long_name": "Wonderland or Chelsea - Maverick",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51140"
+    },
+    "line-119": {
+        "line_id": "line-119",
+        "line_short_name": "119",
+        "line_long_name": "Northgate Shopping Center - Beachmont",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51190"
+    },
+    "line-120121": {
+        "line_id": "line-120121",
+        "line_short_name": "120/121",
+        "line_long_name": "Orient Heights or Wood Island - Maverick",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51200"
+    },
+    "line-131132": {
+        "line_id": "line-131132",
+        "line_short_name": "131/132",
+        "line_long_name": "Melrose Highlands or Redstone - Oak Grove or Malden Center",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51310"
+    },
+    "line-134": {
+        "line_id": "line-134",
+        "line_short_name": "134",
+        "line_long_name": "North Woburn - Wellington",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51340"
+    },
+    "line-136137": {
+        "line_id": "line-136137",
+        "line_short_name": "136/137",
+        "line_long_name": "Reading Depot - Malden Center",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51360"
+    },
+    "line-195": {
+        "line_id": "line-195",
+        "line_short_name": "195",
+        "line_long_name": "Shattuck Hospital - Downtown Boston",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "51950"
+    },
+    "line-201202": {
+        "line_id": "line-201202",
+        "line_short_name": "201/202",
+        "line_long_name": "Fields Corner Loop",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "52010"
+    },
+    "line-210211212": {
+        "line_id": "line-210211212",
+        "line_short_name": "210/211/212",
+        "line_long_name": "Quincy Center - Fields Corner, Squantum, or North Quincy",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "52100"
+    },
+    "line-214216": {
+        "line_id": "line-214216",
+        "line_short_name": "214/216",
+        "line_long_name": "Germantown or Houghs Neck - Quincy Center",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "52140"
+    },
+    "line-215": {
+        "line_id": "line-215",
+        "line_short_name": "215",
+        "line_long_name": "Quincy Center - Ashmont via West Quincy",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "52150"
+    },
+    "line-217245": {
+        "line_id": "line-217245",
+        "line_short_name": "217/245",
+        "line_long_name": "Quincy Center - Ashmont or Mattapan",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "52170"
+    },
+    "line-220221222": {
+        "line_id": "line-220221222",
+        "line_short_name": "220/221/222",
+        "line_long_name": "East Weymouth, Hingham Depot, or Fort Point - Quincy Center",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "52200"
+    },
+    "line-225226": {
+        "line_id": "line-225226",
+        "line_short_name": "225/226",
+        "line_long_name": "Weymouth Landing or Columbian Square - Quincy Center or Braintree",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "52250"
+    },
+    "line-230": {
+        "line_id": "line-230",
+        "line_short_name": "230",
+        "line_long_name": "Montello Commuter Rail Station - Quincy Center",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "52300"
+    },
+    "line-236": {
+        "line_id": "line-236",
+        "line_short_name": "236",
+        "line_long_name": "South Shore Plaza - Quincy Center",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "52360"
+    },
+    "line-238": {
+        "line_id": "line-238",
+        "line_short_name": "238",
+        "line_long_name": "Holbrook/Randolph Commuter Rail Station - Quincy Center",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "52380"
+    },
+    "line-240": {
+        "line_id": "line-240",
+        "line_short_name": "240",
+        "line_long_name": "Avon Square - Ashmont",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "52400"
+    },
+    "line-325326": {
+        "line_id": "line-325326",
+        "line_short_name": "325/326",
+        "line_long_name": "West Medford or Elm Street - Haymarket",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "53250"
+    },
+    "line-350351": {
+        "line_id": "line-350351",
+        "line_short_name": "350/351",
+        "line_long_name": "North Burlington - Alewife",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "53500"
+    },
+    "line-352": {
+        "line_id": "line-352",
+        "line_short_name": "352",
+        "line_long_name": "North Burlington - Downtown Boston",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "53520"
+    },
+    "line-354": {
+        "line_id": "line-354",
+        "line_short_name": "354",
+        "line_long_name": "North Burlington - Downtown Boston",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "53540"
+    },
+    "line-411430": {
+        "line_id": "line-411430",
+        "line_short_name": "411/430",
+        "line_long_name": "Saugus Center or Jack Satter House, Revere - Malden Center",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "54110"
+    },
+    "line-424450456": {
+        "line_id": "line-424450456",
+        "line_short_name": "424/450/456",
+        "line_long_name": "Salem Depot or Eastern Avenue & Essex Street - Haymarket or Wonderland",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "54240"
+    },
+    "line-426428": {
+        "line_id": "line-426428",
+        "line_short_name": "426/428",
+        "line_long_name": "Central Square, Lynn - Haymarket or Wonderland",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "54260"
+    },
+    "line-429": {
+        "line_id": "line-429",
+        "line_short_name": "429",
+        "line_long_name": "Northgate Shopping Center - Central Square, Lynn",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "54290"
+    },
+    "line-434435436": {
+        "line_id": "line-434435436",
+        "line_short_name": "434/435/436",
+        "line_long_name": "Liberty Tree Mall or Peabody - Central Square, Lynn or Neptune Towers",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "54340"
+    },
+    "line-439441442": {
+        "line_id": "line-439441442",
+        "line_short_name": "439/441/442",
+        "line_long_name": "Marblehead or Bass Point, Nahant - Wonderland or Central Square, Lynn",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "54390"
+    },
+    "line-451465": {
+        "line_id": "line-451465",
+        "line_short_name": "451/465",
+        "line_long_name": "Danvers Square - Salem Depot",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "54510"
+    },
+    "line-455": {
+        "line_id": "line-455",
+        "line_short_name": "455",
+        "line_long_name": "Salem Depot - Wonderland",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "54550"
+    },
+    "line-501503": {
+        "line_id": "line-501503",
+        "line_short_name": "501/503",
+        "line_long_name": "Brighton - Downtown Boston via Copley",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "55010"
+    },
+    "line-502504": {
+        "line_id": "line-502504",
+        "line_short_name": "502/504",
+        "line_long_name": "Watertown Yard - Downtown Boston via Copley",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "55020"
+    },
+    "line-505553554": {
+        "line_id": "line-505553554",
+        "line_short_name": "505/553/554",
+        "line_long_name": "Roberts, Waltham Center, or Waverley - Newton Corner",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "55050"
+    },
+    "line-556558": {
+        "line_id": "line-556558",
+        "line_short_name": "556/558",
+        "line_long_name": "Riverside or Waltham Highlands - Newton Corner",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "55560"
+    },
+    "line-710": {
+        "line_id": "line-710",
+        "line_short_name": "710",
+        "line_long_name": "North Medford - Medford Square, Meadow Glen Mall, or Wellington",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "57100"
+    },
+    "line-712713": {
+        "line_id": "line-712713",
+        "line_short_name": "712/713",
+        "line_long_name": "Winthrop - Orient Heights",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "57120"
+    },
+    "line-714": {
+        "line_id": "line-714",
+        "line_short_name": "714",
+        "line_long_name": "Pemberton Point, Hull - Hingham",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "57140"
+    },
+    "line-716": {
+        "line_id": "line-716",
+        "line_short_name": "716",
+        "line_long_name": "Cobbs Corner - Mattapan",
+        "line_desc": "",
+        "line_url": "",
+        "line_color": "FFC72C",
+        "line_text_color": "000000",
+        "line_sort_order": "57160"
+    }
+}

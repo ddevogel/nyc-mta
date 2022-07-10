@@ -1,0 +1,2458 @@
+{
+    "1010m": {
+        "checkpoint_id": "1010m",
+        "checkpoint_name": "1010 Massachusetts Avenue @ Magazine Street"
+    },
+    "400cp": {
+        "checkpoint_id": "400cp",
+        "checkpoint_name": "400 West Cummings Park"
+    },
+    "abase": {
+        "checkpoint_id": "abase",
+        "checkpoint_name": "Air Base"
+    },
+    "abmta": {
+        "checkpoint_id": "abmta",
+        "checkpoint_name": "Aberdeen & Mount Auburn"
+    },
+    "acorn": {
+        "checkpoint_id": "acorn",
+        "checkpoint_name": "Acorn Park Drive @ Route 2"
+    },
+    "adgal": {
+        "checkpoint_id": "adgal",
+        "checkpoint_name": "Adams & Gallivan Boulevard"
+    },
+    "admhl": {
+        "checkpoint_id": "admhl",
+        "checkpoint_name": "Admiral's Hill @ Commandants Way"
+    },
+    "airbs": {
+        "checkpoint_id": "airbs",
+        "checkpoint_name": "Airport Station Busway"
+    },
+    "alban": {
+        "checkpoint_id": "alban",
+        "checkpoint_name": "Albany Garage"
+    },
+    "alewf": {
+        "checkpoint_id": "alewf",
+        "checkpoint_name": "Alewife Station"
+    },
+    "aleyn": {
+        "checkpoint_id": "aleyn",
+        "checkpoint_name": "Adams @ Alleyne"
+    },
+    "alfcl": {
+        "checkpoint_id": "alfcl",
+        "checkpoint_name": "Alewife"
+    },
+    "almnt": {
+        "checkpoint_id": "almnt",
+        "checkpoint_name": "Arlmont Village"
+    },
+    "alrmp": {
+        "checkpoint_id": "alrmp",
+        "checkpoint_name": "Allston Trpk Ramps"
+    },
+    "alsgr": {
+        "checkpoint_id": "alsgr",
+        "checkpoint_name": "Allston Street"
+    },
+    "alwpk": {
+        "checkpoint_id": "alwpk",
+        "checkpoint_name": "Alewife Brook Parkway"
+    },
+    "amall": {
+        "checkpoint_id": "amall",
+        "checkpoint_name": "Assembly Mall & Row"
+    },
+    "amory": {
+        "checkpoint_id": "amory",
+        "checkpoint_name": "Amory Street"
+    },
+    "andrw": {
+        "checkpoint_id": "andrw",
+        "checkpoint_name": "Andrew"
+    },
+    "aport": {
+        "checkpoint_id": "aport",
+        "checkpoint_name": "Airport"
+    },
+    "appma": {
+        "checkpoint_id": "appma",
+        "checkpoint_name": "Appleton Street & Massachusetts Avenue"
+    },
+    "aqucl": {
+        "checkpoint_id": "aqucl",
+        "checkpoint_name": "Aquarium"
+    },
+    "arlct": {
+        "checkpoint_id": "arlct",
+        "checkpoint_name": "Arlington Center"
+    },
+    "arlht": {
+        "checkpoint_id": "arlht",
+        "checkpoint_name": "Arlington Heights"
+    },
+    "arlwi": {
+        "checkpoint_id": "arlwi",
+        "checkpoint_name": "Arlington/Winchester Line"
+    },
+    "armnl": {
+        "checkpoint_id": "armnl",
+        "checkpoint_name": "Arlington"
+    },
+    "ashmt": {
+        "checkpoint_id": "ashmt",
+        "checkpoint_name": "Ashmont Terminal"
+    },
+    "asmnl": {
+        "checkpoint_id": "asmnl",
+        "checkpoint_name": "Ashmont"
+    },
+    "astao": {
+        "checkpoint_id": "astao",
+        "checkpoint_name": "Assembly"
+    },
+    "atlst": {
+        "checkpoint_id": "atlst",
+        "checkpoint_name": "Atlantic & State Streets"
+    },
+    "aubnd": {
+        "checkpoint_id": "aubnd",
+        "checkpoint_name": "Auburndale"
+    },
+    "avnsq": {
+        "checkpoint_id": "avnsq",
+        "checkpoint_name": "Avon Square"
+    },
+    "babck": {
+        "checkpoint_id": "babck",
+        "checkpoint_name": "Babcock Street"
+    },
+    "baker": {
+        "checkpoint_id": "baker",
+        "checkpoint_name": "Baker & Vermont Streets"
+    },
+    "bally": {
+        "checkpoint_id": "bally",
+        "checkpoint_name": "Harvard Bus Tunnels"
+    },
+    "baspt": {
+        "checkpoint_id": "baspt",
+        "checkpoint_name": "Bass Point (Nahant)"
+    },
+    "bauck": {
+        "checkpoint_id": "bauck",
+        "checkpoint_name": "Bay Street @ Auckland Street"
+    },
+    "bbsta": {
+        "checkpoint_id": "bbsta",
+        "checkpoint_name": "Back Bay"
+    },
+    "bcec": {
+        "checkpoint_id": "bcec",
+        "checkpoint_name": "Boston Convention Center"
+    },
+    "bchmt": {
+        "checkpoint_id": "bchmt",
+        "checkpoint_name": "Beachmont"
+    },
+    "bchmw": {
+        "checkpoint_id": "bchmw",
+        "checkpoint_name": "Beachmont West"
+    },
+    "bckhl": {
+        "checkpoint_id": "bckhl",
+        "checkpoint_name": "Back of the Hill"
+    },
+    "bcnfd": {
+        "checkpoint_id": "bcnfd",
+        "checkpoint_name": "Beaconsfield"
+    },
+    "bcnwa": {
+        "checkpoint_id": "bcnwa",
+        "checkpoint_name": "Washington Square"
+    },
+    "bdfch": {
+        "checkpoint_id": "bdfch",
+        "checkpoint_name": "Bedford & Chauncy Streets"
+    },
+    "bdfrd": {
+        "checkpoint_id": "bdfrd",
+        "checkpoint_name": "Bedford Center"
+    },
+    "bdfwd": {
+        "checkpoint_id": "bdfwd",
+        "checkpoint_name": "Bedford Woods"
+    },
+    "bdoin": {
+        "checkpoint_id": "bdoin",
+        "checkpoint_name": "Bowdoin Street"
+    },
+    "belco": {
+        "checkpoint_id": "belco",
+        "checkpoint_name": "Belgrade & Corinth Streets (Roslindale Square)"
+    },
+    "bell": {
+        "checkpoint_id": "bell",
+        "checkpoint_name": "Bell Circle"
+    },
+    "belsq": {
+        "checkpoint_id": "belsq",
+        "checkpoint_name": "Bellingham Square (Chelsea)"
+    },
+    "bethi": {
+        "checkpoint_id": "bethi",
+        "checkpoint_name": "Beth Israel Hospital @ Fenway"
+    },
+    "bevsq": {
+        "checkpoint_id": "bevsq",
+        "checkpoint_name": "Beverly Square"
+    },
+    "bhdud": {
+        "checkpoint_id": "bhdud",
+        "checkpoint_name": "Blue Hill Avenue @ Dudley Street"
+    },
+    "bhqui": {
+        "checkpoint_id": "bhqui",
+        "checkpoint_name": "Blue Hill Avenue @ Quincy Street"
+    },
+    "bilng": {
+        "checkpoint_id": "bilng",
+        "checkpoint_name": "Billing's Road @ Beach Street"
+    },
+    "bknsq": {
+        "checkpoint_id": "bknsq",
+        "checkpoint_name": "Bicknell Square"
+    },
+    "bland": {
+        "checkpoint_id": "bland",
+        "checkpoint_name": "Blandford Street"
+    },
+    "blcon": {
+        "checkpoint_id": "blcon",
+        "checkpoint_name": "Blanchard & Concord"
+    },
+    "blsqs": {
+        "checkpoint_id": "blsqs",
+        "checkpoint_name": "Bellingham Square"
+    },
+    "bltal": {
+        "checkpoint_id": "bltal",
+        "checkpoint_name": "Blue Hill Avenue @ Talbot Avenue"
+    },
+    "bmall": {
+        "checkpoint_id": "bmall",
+        "checkpoint_name": "Burlington Mall"
+    },
+    "bmipk": {
+        "checkpoint_id": "bmipk",
+        "checkpoint_name": "Northern Avenue @ Tide Street"
+    },
+    "bmmnl": {
+        "checkpoint_id": "bmmnl",
+        "checkpoint_name": "Beachmont"
+    },
+    "bndhl": {
+        "checkpoint_id": "bndhl",
+        "checkpoint_name": "Brandon Hall"
+    },
+    "bntns": {
+        "checkpoint_id": "bntns",
+        "checkpoint_name": "Benton Square"
+    },
+    "bocnh": {
+        "checkpoint_id": "bocnh",
+        "checkpoint_name": "Boylston @ Chestnut Hill Avenue"
+    },
+    "boham": {
+        "checkpoint_id": "boham",
+        "checkpoint_name": "Boylston @ Hammond"
+    },
+    "bomnl": {
+        "checkpoint_id": "bomnl",
+        "checkpoint_name": "Bowdoin"
+    },
+    "boshi": {
+        "checkpoint_id": "boshi",
+        "checkpoint_name": "Boston Street @ High Street"
+    },
+    "botul": {
+        "checkpoint_id": "botul",
+        "checkpoint_name": "Boylston @ Tully"
+    },
+    "bowin": {
+        "checkpoint_id": "bowin",
+        "checkpoint_name": "Boston Street @ Winthrop Street"
+    },
+    "boxds": {
+        "checkpoint_id": "boxds",
+        "checkpoint_name": "Box District"
+    },
+    "boyls": {
+        "checkpoint_id": "boyls",
+        "checkpoint_name": "Boylston"
+    },
+    "brcom": {
+        "checkpoint_id": "brcom",
+        "checkpoint_name": "Brighton & Commonwealth Avenue"
+    },
+    "brctr": {
+        "checkpoint_id": "brctr",
+        "checkpoint_name": "Brighton Center"
+    },
+    "brdwy": {
+        "checkpoint_id": "brdwy",
+        "checkpoint_name": "Broadway"
+    },
+    "brghm": {
+        "checkpoint_id": "brghm",
+        "checkpoint_name": "Brigham Circle (Bus)"
+    },
+    "brhlb": {
+        "checkpoint_id": "brhlb",
+        "checkpoint_name": "Brockton/Holbrook Line"
+    },
+    "brico": {
+        "checkpoint_id": "brico",
+        "checkpoint_name": "Packard's Corner"
+    },
+    "brkcn": {
+        "checkpoint_id": "brkcn",
+        "checkpoint_name": "Brook Road @ Central Avenue"
+    },
+    "brkhl": {
+        "checkpoint_id": "brkhl",
+        "checkpoint_name": "Brookline Hills"
+    },
+    "brkpk": {
+        "checkpoint_id": "brkpk",
+        "checkpoint_name": "Brookline Avenue @ Park Drive"
+    },
+    "brkvl": {
+        "checkpoint_id": "brkvl",
+        "checkpoint_name": "Brookline Village"
+    },
+    "brlng": {
+        "checkpoint_id": "brlng",
+        "checkpoint_name": "Brookline & Longwood Avenues"
+    },
+    "brmdl": {
+        "checkpoint_id": "brmdl",
+        "checkpoint_name": "Broad Street @ Middle Street"
+    },
+    "brmnl": {
+        "checkpoint_id": "brmnl",
+        "checkpoint_name": "Brigham Circle"
+    },
+    "brnst": {
+        "checkpoint_id": "brnst",
+        "checkpoint_name": "Braintree Station"
+    },
+    "brntn": {
+        "checkpoint_id": "brntn",
+        "checkpoint_name": "Braintree"
+    },
+    "brown": {
+        "checkpoint_id": "brown",
+        "checkpoint_name": "Brown Circle"
+    },
+    "brway": {
+        "checkpoint_id": "brway",
+        "checkpoint_name": "Broadway Station"
+    },
+    "brypl": {
+        "checkpoint_id": "brypl",
+        "checkpoint_name": "Broadway Plaza @ Broadway"
+    },
+    "bryup": {
+        "checkpoint_id": "bryup",
+        "checkpoint_name": "Bryant Avenue & Upton Street (West Quincy)"
+    },
+    "bubrg": {
+        "checkpoint_id": "bubrg",
+        "checkpoint_name": "Commonwealth Avenue @ BU Bridge"
+    },
+    "bucen": {
+        "checkpoint_id": "bucen",
+        "checkpoint_name": "Boston University Central"
+    },
+    "buchb": {
+        "checkpoint_id": "buchb",
+        "checkpoint_name": "Buchanan Circle (East Lynn)"
+    },
+    "buest": {
+        "checkpoint_id": "buest",
+        "checkpoint_name": "Boston University East"
+    },
+    "bumed": {
+        "checkpoint_id": "bumed",
+        "checkpoint_name": "BU Medical Campus"
+    },
+    "burlc": {
+        "checkpoint_id": "burlc",
+        "checkpoint_name": "Burlington Center"
+    },
+    "butlr": {
+        "checkpoint_id": "butlr",
+        "checkpoint_name": "Butler"
+    },
+    "bvmnl": {
+        "checkpoint_id": "bvmnl",
+        "checkpoint_name": "Brookline Village"
+    },
+    "bwcen": {
+        "checkpoint_id": "bwcen",
+        "checkpoint_name": "Broadway & Central (Revere)"
+    },
+    "bwybc": {
+        "checkpoint_id": "bwybc",
+        "checkpoint_name": "Broadway & Beacon"
+    },
+    "bwypk": {
+        "checkpoint_id": "bwypk",
+        "checkpoint_name": "Broadway & Park (Revere)"
+    },
+    "bwysq": {
+        "checkpoint_id": "bwysq",
+        "checkpoint_name": "Broadway Square @ Salem Street"
+    },
+    "cabgr": {
+        "checkpoint_id": "cabgr",
+        "checkpoint_name": "C @ Cabot Garage"
+    },
+    "cacom": {
+        "checkpoint_id": "cacom",
+        "checkpoint_name": "Causeway Street & Commercial Street"
+    },
+    "camar": {
+        "checkpoint_id": "camar",
+        "checkpoint_name": "Cambridge Street @ Arlington Road"
+    },
+    "camwd": {
+        "checkpoint_id": "camwd",
+        "checkpoint_name": "Cambridge Street @ Windsor Street"
+    },
+    "cancr": {
+        "checkpoint_id": "cancr",
+        "checkpoint_name": "Canton Center"
+    },
+    "capst": {
+        "checkpoint_id": "capst",
+        "checkpoint_name": "Capen Street"
+    },
+    "ccmnl": {
+        "checkpoint_id": "ccmnl",
+        "checkpoint_name": "Community College"
+    },
+    "cdrwd": {
+        "checkpoint_id": "cdrwd",
+        "checkpoint_name": "Cedarwood"
+    },
+    "cedgr": {
+        "checkpoint_id": "cedgr",
+        "checkpoint_name": "Cedar Grove"
+    },
+    "cenav": {
+        "checkpoint_id": "cenav",
+        "checkpoint_name": "Central Avenue"
+    },
+    "cenpk": {
+        "checkpoint_id": "cenpk",
+        "checkpoint_name": "Centennial Park (Peabody)"
+    },
+    "censq": {
+        "checkpoint_id": "censq",
+        "checkpoint_name": "Central Square, Lynn (Busway)"
+    },
+    "chest": {
+        "checkpoint_id": "chest",
+        "checkpoint_name": "Chestnut Street & Western Avenue (Lynn)"
+    },
+    "chhil": {
+        "checkpoint_id": "chhil",
+        "checkpoint_name": "Chestnut Hill"
+    },
+    "child": {
+        "checkpoint_id": "child",
+        "checkpoint_name": "Boston Children's Hospital on Longwood Avenue"
+    },
+    "chill": {
+        "checkpoint_id": "chill",
+        "checkpoint_name": "Chestnut Hill Avenue"
+    },
+    "chlst": {
+        "checkpoint_id": "chlst",
+        "checkpoint_name": "Chelsea"
+    },
+    "chmnl": {
+        "checkpoint_id": "chmnl",
+        "checkpoint_name": "Charles/MGH"
+    },
+    "chncl": {
+        "checkpoint_id": "chncl",
+        "checkpoint_name": "Chinatown"
+    },
+    "chnut": {
+        "checkpoint_id": "chnut",
+        "checkpoint_name": "Chestnut Avenue (Burlington)"
+    },
+    "chswk": {
+        "checkpoint_id": "chswk",
+        "checkpoint_name": "Chiswick Road"
+    },
+    "clarh": {
+        "checkpoint_id": "clarh",
+        "checkpoint_name": "Clarendon Hill"
+    },
+    "clift": {
+        "checkpoint_id": "clift",
+        "checkpoint_name": "Cliftondale Square (Saugus)"
+    },
+    "clmnl": {
+        "checkpoint_id": "clmnl",
+        "checkpoint_name": "Cleveland Circle"
+    },
+    "cloop": {
+        "checkpoint_id": "cloop",
+        "checkpoint_name": "Charles River Loop"
+    },
+    "clsq": {
+        "checkpoint_id": "clsq",
+        "checkpoint_name": "Cleary Square"
+    },
+    "cmaml": {
+        "checkpoint_id": "cmaml",
+        "checkpoint_name": "Cummins Highway @ American Legion Highway"
+    },
+    "cmhwy": {
+        "checkpoint_id": "cmhwy",
+        "checkpoint_name": "Cummins Highway"
+    },
+    "cnhlm": {
+        "checkpoint_id": "cnhlm",
+        "checkpoint_name": "Chestnut Hill Mall"
+    },
+    "cntle": {
+        "checkpoint_id": "cntle",
+        "checkpoint_name": "Central Square (East Boston)"
+    },
+    "cntrl": {
+        "checkpoint_id": "cntrl",
+        "checkpoint_name": "Central Avenue Station"
+    },
+    "cntsq": {
+        "checkpoint_id": "cntsq",
+        "checkpoint_name": "Central Square (Cambridge)"
+    },
+    "cobcr": {
+        "checkpoint_id": "cobcr",
+        "checkpoint_name": "Cobbs Corner (Canton)"
+    },
+    "codmn": {
+        "checkpoint_id": "codmn",
+        "checkpoint_name": "Codman Square"
+    },
+    "codwd": {
+        "checkpoint_id": "codwd",
+        "checkpoint_name": "Coddington Street @ Woodward Avenue (Quincy High School)"
+    },
+    "coecl": {
+        "checkpoint_id": "coecl",
+        "checkpoint_name": "Copley"
+    },
+    "coldt": {
+        "checkpoint_id": "coldt",
+        "checkpoint_name": "Columbia Road @ Dorchester Avenue"
+    },
+    "colsq": {
+        "checkpoint_id": "colsq",
+        "checkpoint_name": "Columbian Square"
+    },
+    "compk": {
+        "checkpoint_id": "compk",
+        "checkpoint_name": "Common Park"
+    },
+    "compm": {
+        "checkpoint_id": "compm",
+        "checkpoint_name": "Commonwealth Avenue @ Pamela Court"
+    },
+    "conbr": {
+        "checkpoint_id": "conbr",
+        "checkpoint_name": "Concord Avenue @ Bright Road"
+    },
+    "conle": {
+        "checkpoint_id": "conle",
+        "checkpoint_name": "Belmont Center Station"
+    },
+    "conrd": {
+        "checkpoint_id": "conrd",
+        "checkpoint_name": "Silver Line Way"
+    },
+    "const": {
+        "checkpoint_id": "const",
+        "checkpoint_name": "Congress Street @ State Street"
+    },
+    "cool": {
+        "checkpoint_id": "cool",
+        "checkpoint_name": "Coolidge Corner"
+    },
+    "coold": {
+        "checkpoint_id": "coold",
+        "checkpoint_name": "Adams & Cooledge"
+    },
+    "copsq": {
+        "checkpoint_id": "copsq",
+        "checkpoint_name": "Copley Square @ Stuart Street"
+    },
+    "copst": {
+        "checkpoint_id": "copst",
+        "checkpoint_name": "Copley (Bus)"
+    },
+    "coqui": {
+        "checkpoint_id": "coqui",
+        "checkpoint_name": "Columbia Road @ Quincy Street"
+    },
+    "cowas": {
+        "checkpoint_id": "cowas",
+        "checkpoint_name": "Columbia Road @ Washington Street"
+    },
+    "crclg": {
+        "checkpoint_id": "crclg",
+        "checkpoint_name": "Curry College (Milton)"
+    },
+    "crtst": {
+        "checkpoint_id": "crtst",
+        "checkpoint_name": "Courthouse"
+    },
+    "crwsq": {
+        "checkpoint_id": "crwsq",
+        "checkpoint_name": "Crawford Square (Randolph)"
+    },
+    "ctrwe": {
+        "checkpoint_id": "ctrwe",
+        "checkpoint_name": "Centre Street @ Weld Street"
+    },
+    "ctypt": {
+        "checkpoint_id": "ctypt",
+        "checkpoint_name": "City Point"
+    },
+    "ctysq": {
+        "checkpoint_id": "ctysq",
+        "checkpoint_name": "City Square"
+    },
+    "cumpk": {
+        "checkpoint_id": "cumpk",
+        "checkpoint_name": "Cummings Center"
+    },
+    "cypbo": {
+        "checkpoint_id": "cypbo",
+        "checkpoint_name": "Cypress @ Boylston"
+    },
+    "davis": {
+        "checkpoint_id": "davis",
+        "checkpoint_name": "Davis"
+    },
+    "dayo": {
+        "checkpoint_id": "dayo",
+        "checkpoint_name": "Day Boulevard & O Street"
+    },
+    "dedsq": {
+        "checkpoint_id": "dedsq",
+        "checkpoint_name": "Dedham Square"
+    },
+    "denrd": {
+        "checkpoint_id": "denrd",
+        "checkpoint_name": "Dean Road"
+    },
+    "dhgrt": {
+        "checkpoint_id": "dhgrt",
+        "checkpoint_name": "Dedham Parkway @ Georgetowne Drive"
+    },
+    "dline": {
+        "checkpoint_id": "dline",
+        "checkpoint_name": "Dedham Line (Washington Street)"
+    },
+    "dmall": {
+        "checkpoint_id": "dmall",
+        "checkpoint_name": "Dedham Mall"
+    },
+    "dodge": {
+        "checkpoint_id": "dodge",
+        "checkpoint_name": "Dodge Street @ Cabot Street"
+    },
+    "dotav": {
+        "checkpoint_id": "dotav",
+        "checkpoint_name": "Dorchester Avenue & Park Street"
+    },
+    "dotga": {
+        "checkpoint_id": "dotga",
+        "checkpoint_name": "Dorchester Avenue @ Gallivan Boulevard"
+    },
+    "dotst": {
+        "checkpoint_id": "dotst",
+        "checkpoint_name": "Dorchester Street & 8th Street"
+    },
+    "drdck": {
+        "checkpoint_id": "drdck",
+        "checkpoint_name": "Drydock Avenue @ Design Center Place"
+    },
+    "dvsta": {
+        "checkpoint_id": "dvsta",
+        "checkpoint_name": "Devonshire Street @ State Street"
+    },
+    "dwnxg": {
+        "checkpoint_id": "dwnxg",
+        "checkpoint_name": "Downtown Crossing"
+    },
+    "eagle": {
+        "checkpoint_id": "eagle",
+        "checkpoint_name": "Eagle Square (East Boston)"
+    },
+    "edevt": {
+        "checkpoint_id": "edevt",
+        "checkpoint_name": "Edward Everett Square Columbia @ Massachusetts Avenue"
+    },
+    "egles": {
+        "checkpoint_id": "egles",
+        "checkpoint_name": "Egleston Square"
+    },
+    "eliot": {
+        "checkpoint_id": "eliot",
+        "checkpoint_name": "Eliot"
+    },
+    "ellch": {
+        "checkpoint_id": "ellch",
+        "checkpoint_name": "Elliot Street @ Charles"
+    },
+    "elm": {
+        "checkpoint_id": "elm",
+        "checkpoint_name": "Elm & Fells"
+    },
+    "emdsr": {
+        "checkpoint_id": "emdsr",
+        "checkpoint_name": "EMD Serono Research Center"
+    },
+    "emlsq": {
+        "checkpoint_id": "emlsq",
+        "checkpoint_name": "East Milton Square"
+    },
+    "engav": {
+        "checkpoint_id": "engav",
+        "checkpoint_name": "Englewood Avenue"
+    },
+    "esaug": {
+        "checkpoint_id": "esaug",
+        "checkpoint_name": "East Saugus"
+    },
+    "esavs": {
+        "checkpoint_id": "esavs",
+        "checkpoint_name": "Eastern Avenue"
+    },
+    "esqnb": {
+        "checkpoint_id": "esqnb",
+        "checkpoint_name": "East Squantum Street @ Newbury Avenue (North Quincy High School)"
+    },
+    "essex": {
+        "checkpoint_id": "essex",
+        "checkpoint_name": "Essex Street @ Eastern Avenue"
+    },
+    "estws": {
+        "checkpoint_id": "estws",
+        "checkpoint_name": "Eastern Avenue @ Western Avenue"
+    },
+    "esxat": {
+        "checkpoint_id": "esxat",
+        "checkpoint_name": "Essex & Atlantic Avenue (South Station)"
+    },
+    "eubrw": {
+        "checkpoint_id": "eubrw",
+        "checkpoint_name": "Euclid & Broadway"
+    },
+    "evrtc": {
+        "checkpoint_id": "evrtc",
+        "checkpoint_name": "Everett Square"
+    },
+    "ewalp": {
+        "checkpoint_id": "ewalp",
+        "checkpoint_name": "East Walpole"
+    },
+    "ewymt": {
+        "checkpoint_id": "ewymt",
+        "checkpoint_name": "East Weymouth (Bus)"
+    },
+    "fahsp": {
+        "checkpoint_id": "fahsp",
+        "checkpoint_name": "Centre Street @ Faulkner Hospital"
+    },
+    "fbkst": {
+        "checkpoint_id": "fbkst",
+        "checkpoint_name": "Fairbanks Street"
+    },
+    "fedfr": {
+        "checkpoint_id": "fedfr",
+        "checkpoint_name": "Federal & Franklin"
+    },
+    "fells": {
+        "checkpoint_id": "fells",
+        "checkpoint_name": "Front of Fellsway Garage on street"
+    },
+    "felwy": {
+        "checkpoint_id": "felwy",
+        "checkpoint_name": "Fellsway @ Salem/Pleasant"
+    },
+    "fenwd": {
+        "checkpoint_id": "fenwd",
+        "checkpoint_name": "Fenwood Road"
+    },
+    "fenwy": {
+        "checkpoint_id": "fenwy",
+        "checkpoint_name": "Fenway Station"
+    },
+    "fercr": {
+        "checkpoint_id": "fercr",
+        "checkpoint_name": "Ferry Street @ Cross Street"
+    },
+    "feriv": {
+        "checkpoint_id": "feriv",
+        "checkpoint_name": "Fells & Riverside"
+    },
+    "fhill": {
+        "checkpoint_id": "fhill",
+        "checkpoint_name": "Forest Hills Busway"
+    },
+    "field": {
+        "checkpoint_id": "field",
+        "checkpoint_name": "Franklin Field Housing"
+    },
+    "five": {
+        "checkpoint_id": "five",
+        "checkpoint_name": "Braintree Five Corners"
+    },
+    "fklin": {
+        "checkpoint_id": "fklin",
+        "checkpoint_name": "Franklin Square"
+    },
+    "fldcr": {
+        "checkpoint_id": "fldcr",
+        "checkpoint_name": "Fields Corner"
+    },
+    "fnypk": {
+        "checkpoint_id": "fnypk",
+        "checkpoint_name": "Fenway Park"
+    },
+    "focor": {
+        "checkpoint_id": "focor",
+        "checkpoint_name": "Four Corners (Woburn)"
+    },
+    "forhl": {
+        "checkpoint_id": "forhl",
+        "checkpoint_name": "Forest Hills"
+    },
+    "forvr": {
+        "checkpoint_id": "forvr",
+        "checkpoint_name": "Fore River Shipyard"
+    },
+    "fourc": {
+        "checkpoint_id": "fourc",
+        "checkpoint_name": "Four Corners (Dorchester)"
+    },
+    "fpond": {
+        "checkpoint_id": "fpond",
+        "checkpoint_name": "Fresh Pond Parkway @ Concord Street"
+    },
+    "frkwa": {
+        "checkpoint_id": "frkwa",
+        "checkpoint_name": "Franklin Street @ Water Street"
+    },
+    "frnpk": {
+        "checkpoint_id": "frnpk",
+        "checkpoint_name": "Franklin Park"
+    },
+    "frpky": {
+        "checkpoint_id": "frpky",
+        "checkpoint_name": "Fresh Pond Parkway"
+    },
+    "fvfrk": {
+        "checkpoint_id": "fvfrk",
+        "checkpoint_name": "Five Forks"
+    },
+    "galli": {
+        "checkpoint_id": "galli",
+        "checkpoint_name": "Gallivan Boulevard @ Washington Street"
+    },
+    "garfi": {
+        "checkpoint_id": "garfi",
+        "checkpoint_name": "Garfield Avenue & Clyde"
+    },
+    "genbo": {
+        "checkpoint_id": "genbo",
+        "checkpoint_name": "Geneva Avenue @ Bowdoin Street"
+    },
+    "genco": {
+        "checkpoint_id": "genco",
+        "checkpoint_name": "Geneva Avenue @ Columbia Road"
+    },
+    "ghall": {
+        "checkpoint_id": "ghall",
+        "checkpoint_name": "Grove Hall"
+    },
+    "glndl": {
+        "checkpoint_id": "glndl",
+        "checkpoint_name": "Glendale Square"
+    },
+    "glnpk": {
+        "checkpoint_id": "glnpk",
+        "checkpoint_name": "Elm Street @ Ferry Street (Glendale Park)"
+    },
+    "glrdg": {
+        "checkpoint_id": "glrdg",
+        "checkpoint_name": "Glen Ridge Nursing Home"
+    },
+    "goodw": {
+        "checkpoint_id": "goodw",
+        "checkpoint_name": "Goodwins Circle"
+    },
+    "gover": {
+        "checkpoint_id": "gover",
+        "checkpoint_name": "Government Center"
+    },
+    "govpk": {
+        "checkpoint_id": "govpk",
+        "checkpoint_name": "Governor's Park"
+    },
+    "grana": {
+        "checkpoint_id": "grana",
+        "checkpoint_name": "Kennedy Dr (Granada)"
+    },
+    "grcpl": {
+        "checkpoint_id": "grcpl",
+        "checkpoint_name": "Granite & Copeland"
+    },
+    "green": {
+        "checkpoint_id": "green",
+        "checkpoint_name": "Greenwood & Hyde Park"
+    },
+    "grigg": {
+        "checkpoint_id": "grigg",
+        "checkpoint_name": "Griggs Street"
+    },
+    "grmnt": {
+        "checkpoint_id": "grmnt",
+        "checkpoint_name": "Germantown"
+    },
+    "grnst": {
+        "checkpoint_id": "grnst",
+        "checkpoint_name": "Green Street"
+    },
+    "grnwd": {
+        "checkpoint_id": "grnwd",
+        "checkpoint_name": "Greenwood Commuter Rail"
+    },
+    "gtown": {
+        "checkpoint_id": "gtown",
+        "checkpoint_name": "Georgetowne"
+    },
+    "guild": {
+        "checkpoint_id": "guild",
+        "checkpoint_name": "Guild Street (Norwood)"
+    },
+    "haecl": {
+        "checkpoint_id": "haecl",
+        "checkpoint_name": "Haymarket"
+    },
+    "hanbe": {
+        "checkpoint_id": "hanbe",
+        "checkpoint_name": "Hancock @ Beale/Beach"
+    },
+    "harsq": {
+        "checkpoint_id": "harsq",
+        "checkpoint_name": "Harvard"
+    },
+    "harvd": {
+        "checkpoint_id": "harvd",
+        "checkpoint_name": "Harvard Avenue"
+    },
+    "hayms": {
+        "checkpoint_id": "hayms",
+        "checkpoint_name": "Haymarket"
+    },
+    "heath": {
+        "checkpoint_id": "heath",
+        "checkpoint_name": "Heath Street Loop"
+    },
+    "hhgat": {
+        "checkpoint_id": "hhgat",
+        "checkpoint_name": "Harvard"
+    },
+    "hihar": {
+        "checkpoint_id": "hihar",
+        "checkpoint_name": "High Street @ Harvard Avenue"
+    },
+    "hlbsq": {
+        "checkpoint_id": "hlbsq",
+        "checkpoint_name": "Holbrook Square"
+    },
+    "hlcdr": {
+        "checkpoint_id": "hlcdr",
+        "checkpoint_name": "Highland Avenue @ Cedar Street"
+    },
+    "hlong": {
+        "checkpoint_id": "hlong",
+        "checkpoint_name": "Huntington Avenue & Longwood Avenue"
+    },
+    "hloop": {
+        "checkpoint_id": "hloop",
+        "checkpoint_name": "Cambridge Common Loop"
+    },
+    "hlscl": {
+        "checkpoint_id": "hlscl",
+        "checkpoint_name": "Highland Avenue @ School Street (Somerville High School)"
+    },
+    "hltsq": {
+        "checkpoint_id": "hltsq",
+        "checkpoint_name": "Hallett Square"
+    },
+    "hncot": {
+        "checkpoint_id": "hncot",
+        "checkpoint_name": "Hancock Street @ Cottage Avenue"
+    },
+    "hngdpt": {
+        "checkpoint_id": "hngdpt",
+        "checkpoint_name": "Hingham Depot"
+    },
+    "hnglf": {
+        "checkpoint_id": "hnglf",
+        "checkpoint_name": "Hancock Street @ Greenleaf Street (Central Middle School)"
+    },
+    "hnock": {
+        "checkpoint_id": "hnock",
+        "checkpoint_name": "Hancock Street (Quincy)"
+    },
+    "hpaml": {
+        "checkpoint_id": "hpaml",
+        "checkpoint_name": "Hyde Park Avenue @ American Legion Highway"
+    },
+    "hpave": {
+        "checkpoint_id": "hpave",
+        "checkpoint_name": "Hyde Park Avenue @ Cummins Highway"
+    },
+    "hrand": {
+        "checkpoint_id": "hrand",
+        "checkpoint_name": "Holbrook/Randolph Commuter Rail Depot"
+    },
+    "hrtwl": {
+        "checkpoint_id": "hrtwl",
+        "checkpoint_name": "Bedford Street @ Hartwell Avenue"
+    },
+    "hrugg": {
+        "checkpoint_id": "hrugg",
+        "checkpoint_name": "Huntington & Ruggles"
+    },
+    "hsmnl": {
+        "checkpoint_id": "hsmnl",
+        "checkpoint_name": "Heath Street"
+    },
+    "hsnck": {
+        "checkpoint_id": "hsnck",
+        "checkpoint_name": "Houghs Neck"
+    },
+    "hunbv": {
+        "checkpoint_id": "hunbv",
+        "checkpoint_name": "Huntington Avenue & Belvidere Street"
+    },
+    "huron": {
+        "checkpoint_id": "huron",
+        "checkpoint_name": "Huron Avenue"
+    },
+    "hvdcm": {
+        "checkpoint_id": "hvdcm",
+        "checkpoint_name": "Harvard Avenue & Commonwealth Avenue"
+    },
+    "hwsst": {
+        "checkpoint_id": "hwsst",
+        "checkpoint_name": "Hawes Street"
+    },
+    "hymnl": {
+        "checkpoint_id": "hymnl",
+        "checkpoint_name": "Hynes Convention Center"
+    },
+    "hynes": {
+        "checkpoint_id": "hynes",
+        "checkpoint_name": "Hynes Station"
+    },
+    "indwr": {
+        "checkpoint_id": "indwr",
+        "checkpoint_name": "Industrial Park (West Roxbury) near VA Rivermoor"
+    },
+    "indws": {
+        "checkpoint_id": "indws",
+        "checkpoint_name": "Independence Avenue @ Washington Street (Braintree)"
+    },
+    "inman": {
+        "checkpoint_id": "inman",
+        "checkpoint_name": "Inman Square"
+    },
+    "isabl": {
+        "checkpoint_id": "isabl",
+        "checkpoint_name": "Isabell Circle"
+    },
+    "islng": {
+        "checkpoint_id": "islng",
+        "checkpoint_name": "Islington Post Office"
+    },
+    "jaksn": {
+        "checkpoint_id": "jaksn",
+        "checkpoint_name": "Jackson Square"
+    },
+    "jasst": {
+        "checkpoint_id": "jasst",
+        "checkpoint_name": "Jackson Square Station"
+    },
+    "jefpt": {
+        "checkpoint_id": "jefpt",
+        "checkpoint_name": "Jeffries Point Loop @ Maverick Street"
+    },
+    "jfk": {
+        "checkpoint_id": "jfk",
+        "checkpoint_name": "JFK/UMass"
+    },
+    "jpctr": {
+        "checkpoint_id": "jpctr",
+        "checkpoint_name": "Jamaica Plain Center (Monument)"
+    },
+    "jqnsb": {
+        "checkpoint_id": "jqnsb",
+        "checkpoint_name": "Jersey & Queensberry"
+    },
+    "kane": {
+        "checkpoint_id": "kane",
+        "checkpoint_name": "Kane Square"
+    },
+    "kenbs": {
+        "checkpoint_id": "kenbs",
+        "checkpoint_name": "Kenmore (Busway)"
+    },
+    "kencl": {
+        "checkpoint_id": "kencl",
+        "checkpoint_name": "Kenmore"
+    },
+    "keyst": {
+        "checkpoint_id": "keyst",
+        "checkpoint_name": "Keystone Apartments"
+    },
+    "kings": {
+        "checkpoint_id": "kings",
+        "checkpoint_name": "O'Callaghan Way & Kings"
+    },
+    "kndl": {
+        "checkpoint_id": "kndl",
+        "checkpoint_name": "Kendall Station (Busway)"
+    },
+    "kneel": {
+        "checkpoint_id": "kneel",
+        "checkpoint_name": "Kneeland Street"
+    },
+    "knncl": {
+        "checkpoint_id": "knncl",
+        "checkpoint_name": "Kendall/MIT"
+    },
+    "kntst": {
+        "checkpoint_id": "kntst",
+        "checkpoint_name": "Kent Street"
+    },
+    "lake": {
+        "checkpoint_id": "lake",
+        "checkpoint_name": "Boston College"
+    },
+    "latac": {
+        "checkpoint_id": "latac",
+        "checkpoint_name": "Warren Street @ Boston Latin Academy"
+    },
+    "lbrwy": {
+        "checkpoint_id": "lbrwy",
+        "checkpoint_name": "L Street @ Broadway"
+    },
+    "lchmr": {
+        "checkpoint_id": "lchmr",
+        "checkpoint_name": "Lechmere Station"
+    },
+    "leban": {
+        "checkpoint_id": "leban",
+        "checkpoint_name": "Lebanon Street"
+    },
+    "lech": {
+        "checkpoint_id": "lech",
+        "checkpoint_name": "Lechmere"
+    },
+    "lexrv": {
+        "checkpoint_id": "lexrv",
+        "checkpoint_name": "Lexington Street @ River Street"
+    },
+    "libtr": {
+        "checkpoint_id": "libtr",
+        "checkpoint_name": "Liberty Tree Mall"
+    },
+    "lindn": {
+        "checkpoint_id": "lindn",
+        "checkpoint_name": "Linden Square (Malden)"
+    },
+    "linsh": {
+        "checkpoint_id": "linsh",
+        "checkpoint_name": "Lincoln Street @ Silver Hill Lane"
+    },
+    "lngmd": {
+        "checkpoint_id": "lngmd",
+        "checkpoint_name": "Longwood Medical Area"
+    },
+    "lnlab": {
+        "checkpoint_id": "lnlab",
+        "checkpoint_name": "Lincoln Lab"
+    },
+    "logan": {
+        "checkpoint_id": "logan",
+        "checkpoint_name": "Logan Square (Hyde Park)"
+    },
+    "longw": {
+        "checkpoint_id": "longw",
+        "checkpoint_name": "Longwood"
+    },
+    "louis": {
+        "checkpoint_id": "louis",
+        "checkpoint_name": "Avenue Louis Pasteur (Boston Latin School)"
+    },
+    "ltnah": {
+        "checkpoint_id": "ltnah",
+        "checkpoint_name": "Little Nahant Road"
+    },
+    "lxcnt": {
+        "checkpoint_id": "lxcnt",
+        "checkpoint_name": "Lexington Center"
+    },
+    "maboy": {
+        "checkpoint_id": "maboy",
+        "checkpoint_name": "Massachusetts Avenue & Boylston Street"
+    },
+    "make": {
+        "checkpoint_id": "make",
+        "checkpoint_name": "Massachusetts Avenue @ Lake Street"
+    },
+    "malst": {
+        "checkpoint_id": "malst",
+        "checkpoint_name": "Malden Center Station"
+    },
+    "maput": {
+        "checkpoint_id": "maput",
+        "checkpoint_name": "Massachusetts Avenue & Putnam Avenue"
+    },
+    "marbl": {
+        "checkpoint_id": "marbl",
+        "checkpoint_name": "Marblehead"
+    },
+    "maspl": {
+        "checkpoint_id": "maspl",
+        "checkpoint_name": "Massachusetts Avenue @ Pleasant Street"
+    },
+    "mass": {
+        "checkpoint_id": "mass",
+        "checkpoint_name": "Massachusetts Avenue & Huntington Avenue"
+    },
+    "masta": {
+        "checkpoint_id": "masta",
+        "checkpoint_name": "Massachusetts Avenue (Orange Line)"
+    },
+    "matpn": {
+        "checkpoint_id": "matpn",
+        "checkpoint_name": "Mattapan Station"
+    },
+    "matt": {
+        "checkpoint_id": "matt",
+        "checkpoint_name": "Mattapan"
+    },
+    "mavck": {
+        "checkpoint_id": "mavck",
+        "checkpoint_name": "Maverick Square (East Boston)"
+    },
+    "mavj": {
+        "checkpoint_id": "mavj",
+        "checkpoint_name": "Maverick to Jeffries"
+    },
+    "mcgsm": {
+        "checkpoint_id": "mcgsm",
+        "checkpoint_name": "McGrath Highway @ Somerville Avenue"
+    },
+    "mdgln": {
+        "checkpoint_id": "mdgln",
+        "checkpoint_name": "Locust @ Riverside (Meadow Glen Mall)"
+    },
+    "mdlsc": {
+        "checkpoint_id": "mdlsc",
+        "checkpoint_name": "Middlesex @ Second Streets (Medford)"
+    },
+    "mdscl": {
+        "checkpoint_id": "mdscl",
+        "checkpoint_name": "Medford Street @ School Street (Somerville High School)"
+    },
+    "mdyca": {
+        "checkpoint_id": "mdyca",
+        "checkpoint_name": "Moody & Carter Streets (Central Square, Waltham)"
+    },
+    "medfd": {
+        "checkpoint_id": "medfd",
+        "checkpoint_name": "Medford Square"
+    },
+    "melwa": {
+        "checkpoint_id": "melwa",
+        "checkpoint_name": "Melnea Cass Boulevard @ Washington Street"
+    },
+    "mfa": {
+        "checkpoint_id": "mfa",
+        "checkpoint_name": "Museum of Fine Arts"
+    },
+    "mfdmn": {
+        "checkpoint_id": "mfdmn",
+        "checkpoint_name": "Medford Street @ Main Street"
+    },
+    "mfran": {
+        "checkpoint_id": "mfran",
+        "checkpoint_name": "North Main Street @ Francis Drive"
+    },
+    "mglen": {
+        "checkpoint_id": "mglen",
+        "checkpoint_name": "Main Street @ Glenwood Street"
+    },
+    "mgnsq": {
+        "checkpoint_id": "mgnsq",
+        "checkpoint_name": "Magoun Square"
+    },
+    "mgrov": {
+        "checkpoint_id": "mgrov",
+        "checkpoint_name": "Main & Grove"
+    },
+    "mgrwa": {
+        "checkpoint_id": "mgrwa",
+        "checkpoint_name": "McGrath Highway @ Washington Street"
+    },
+    "mhosp": {
+        "checkpoint_id": "mhosp",
+        "checkpoint_name": "Milton Hospital"
+    },
+    "midl": {
+        "checkpoint_id": "midl",
+        "checkpoint_name": "Middle Street (Braintree)"
+    },
+    "milk": {
+        "checkpoint_id": "milk",
+        "checkpoint_name": "Milk & Devonshire Street"
+    },
+    "miltn": {
+        "checkpoint_id": "miltn",
+        "checkpoint_name": "River & Milton Streets"
+    },
+    "miltt": {
+        "checkpoint_id": "miltt",
+        "checkpoint_name": "Milton"
+    },
+    "mispk": {
+        "checkpoint_id": "mispk",
+        "checkpoint_name": "Mission Park"
+    },
+    "mit": {
+        "checkpoint_id": "mit",
+        "checkpoint_name": "MIT @ Massachusetts Avenue"
+    },
+    "mkpld": {
+        "checkpoint_id": "mkpld",
+        "checkpoint_name": "Market Place Drive (Waltham)"
+    },
+    "mkrmk": {
+        "checkpoint_id": "mkrmk",
+        "checkpoint_name": "McCormack Housing"
+    },
+    "mktsq": {
+        "checkpoint_id": "mktsq",
+        "checkpoint_name": "Market Square (Lynn)"
+    },
+    "mktwe": {
+        "checkpoint_id": "mktwe",
+        "checkpoint_name": "Market & Western"
+    },
+    "mlmnl": {
+        "checkpoint_id": "mlmnl",
+        "checkpoint_name": "Malden Center"
+    },
+    "mnbnk": {
+        "checkpoint_id": "mnbnk",
+        "checkpoint_name": "Main Street @ Bunker Hill Street"
+    },
+    "mncrs": {
+        "checkpoint_id": "mncrs",
+        "checkpoint_name": "Main Street @ Cross Street"
+    },
+    "mngrg": {
+        "checkpoint_id": "mngrg",
+        "checkpoint_name": "Main Street @ George Street (Medford)"
+    },
+    "mntlo": {
+        "checkpoint_id": "mntlo",
+        "checkpoint_name": "Montello Commuter Rail Station"
+    },
+    "mntvl": {
+        "checkpoint_id": "mntvl",
+        "checkpoint_name": "Montvale & I-93"
+    },
+    "morse": {
+        "checkpoint_id": "morse",
+        "checkpoint_name": "Washington @ Morse"
+    },
+    "mort": {
+        "checkpoint_id": "mort",
+        "checkpoint_name": "Morton @ Gallivan"
+    },
+    "mortn": {
+        "checkpoint_id": "mortn",
+        "checkpoint_name": "Morton Street @ Blue Hill Avenue"
+    },
+    "mount": {
+        "checkpoint_id": "mount",
+        "checkpoint_name": "Mountfort Street @ Commonwealth Avenue"
+    },
+    "mpark": {
+        "checkpoint_id": "mpark",
+        "checkpoint_name": "Millennium Park"
+    },
+    "mport": {
+        "checkpoint_id": "mport",
+        "checkpoint_name": "Main & Porter"
+    },
+    "mrose": {
+        "checkpoint_id": "mrose",
+        "checkpoint_name": "Melrose Highlands"
+    },
+    "mspnr": {
+        "checkpoint_id": "mspnr",
+        "checkpoint_name": "Royall St & Trailside Museum"
+    },
+    "mtalv": {
+        "checkpoint_id": "mtalv",
+        "checkpoint_name": "Mount Alvernia Academy"
+    },
+    "mtaub": {
+        "checkpoint_id": "mtaub",
+        "checkpoint_name": "Mount Auburn Bridge"
+    },
+    "mthsp": {
+        "checkpoint_id": "mthsp",
+        "checkpoint_name": "Mount Auburn Hospital"
+    },
+    "mtsty": {
+        "checkpoint_id": "mtsty",
+        "checkpoint_name": "Mount Auburn @ Story Street"
+    },
+    "mvbcl": {
+        "checkpoint_id": "mvbcl",
+        "checkpoint_name": "Maverick"
+    },
+    "mwood": {
+        "checkpoint_id": "mwood",
+        "checkpoint_name": "Maplewood Square"
+    },
+    "mysml": {
+        "checkpoint_id": "mysml",
+        "checkpoint_name": "Market Basket (former Mystic Mall)"
+    },
+    "nbway": {
+        "checkpoint_id": "nbway",
+        "checkpoint_name": "North Broadway (Malden)"
+    },
+    "ncsta": {
+        "checkpoint_id": "ncsta",
+        "checkpoint_name": "North Cambridge Station"
+    },
+    "ndhts": {
+        "checkpoint_id": "ndhts",
+        "checkpoint_name": "Needham Heights"
+    },
+    "nedhm": {
+        "checkpoint_id": "nedhm",
+        "checkpoint_name": "Needham Street @ Columbia Street"
+    },
+    "needj": {
+        "checkpoint_id": "needj",
+        "checkpoint_name": "Needham Junction"
+    },
+    "nepad": {
+        "checkpoint_id": "nepad",
+        "checkpoint_name": "Neponset Avenue @ Adams Street"
+    },
+    "nepon": {
+        "checkpoint_id": "nepon",
+        "checkpoint_name": "Neponset Circle"
+    },
+    "neptw": {
+        "checkpoint_id": "neptw",
+        "checkpoint_name": "Neptune Towers"
+    },
+    "newbl": {
+        "checkpoint_id": "newbl",
+        "checkpoint_name": "Newport Avenue @ Beale Street (Wollaston Station)"
+    },
+    "newct": {
+        "checkpoint_id": "newct",
+        "checkpoint_name": "Newton Centre"
+    },
+    "newoc": {
+        "checkpoint_id": "newoc",
+        "checkpoint_name": "New Ocean Street & Eastern Avenue"
+    },
+    "newtn": {
+        "checkpoint_id": "newtn",
+        "checkpoint_name": "Newton Highlands"
+    },
+    "newto": {
+        "checkpoint_id": "newto",
+        "checkpoint_name": "Newton Centre"
+    },
+    "ngate": {
+        "checkpoint_id": "ngate",
+        "checkpoint_name": "Northgate Shopping Center"
+    },
+    "nhvws": {
+        "checkpoint_id": "nhvws",
+        "checkpoint_name": "North Harvard & Western"
+    },
+    "nobev": {
+        "checkpoint_id": "nobev",
+        "checkpoint_name": "North Beverly"
+    },
+    "north": {
+        "checkpoint_id": "north",
+        "checkpoint_name": "North Station"
+    },
+    "nostr": {
+        "checkpoint_id": "nostr",
+        "checkpoint_name": "North Street"
+    },
+    "nqncy": {
+        "checkpoint_id": "nqncy",
+        "checkpoint_name": "North Quincy"
+    },
+    "nrand": {
+        "checkpoint_id": "nrand",
+        "checkpoint_name": "North Randolph"
+    },
+    "nshor": {
+        "checkpoint_id": "nshor",
+        "checkpoint_name": "Northshore Mall"
+    },
+    "nubn": {
+        "checkpoint_id": "nubn",
+        "checkpoint_name": "Nubian Station"
+    },
+    "nuniv": {
+        "checkpoint_id": "nuniv",
+        "checkpoint_name": "Northeastern University"
+    },
+    "nwbhl": {
+        "checkpoint_id": "nwbhl",
+        "checkpoint_name": "Newbury Avenue @ Hollis Avenue (Atlantic Middle School)"
+    },
+    "nwcor": {
+        "checkpoint_id": "nwcor",
+        "checkpoint_name": "Newton Corner (Bus)"
+    },
+    "nwobn": {
+        "checkpoint_id": "nwobn",
+        "checkpoint_name": "North Woburn"
+    },
+    "nwthl": {
+        "checkpoint_id": "nwthl",
+        "checkpoint_name": "Newton Highlands"
+    },
+    "nwtup": {
+        "checkpoint_id": "nwtup",
+        "checkpoint_name": "Newton Upper Falls"
+    },
+    "nwtvl": {
+        "checkpoint_id": "nwtvl",
+        "checkpoint_name": "Newtonville"
+    },
+    "oak": {
+        "checkpoint_id": "oak",
+        "checkpoint_name": "Oak Hill (Newton)"
+    },
+    "oakpk": {
+        "checkpoint_id": "oakpk",
+        "checkpoint_name": "Oak Park (Bedford)"
+    },
+    "oaksq": {
+        "checkpoint_id": "oaksq",
+        "checkpoint_name": "Oak Square"
+    },
+    "oakvl": {
+        "checkpoint_id": "oakvl",
+        "checkpoint_name": "Oaklandvale"
+    },
+    "ogmnl": {
+        "checkpoint_id": "ogmnl",
+        "checkpoint_name": "Oak Grove"
+    },
+    "okgrv": {
+        "checkpoint_id": "okgrv",
+        "checkpoint_name": "Oak Grove Station"
+    },
+    "orhgt": {
+        "checkpoint_id": "orhgt",
+        "checkpoint_name": "Orient Heights Station"
+    },
+    "orhte": {
+        "checkpoint_id": "orhte",
+        "checkpoint_name": "Orient Heights"
+    },
+    "orhw": {
+        "checkpoint_id": "orhw",
+        "checkpoint_name": "Orient Heights to Waldemar"
+    },
+    "otdow": {
+        "checkpoint_id": "otdow",
+        "checkpoint_name": "Otis Street & Downer Avenue"
+    },
+    "otsum": {
+        "checkpoint_id": "otsum",
+        "checkpoint_name": "Otis & Summer Streets"
+    },
+    "parkc": {
+        "checkpoint_id": "parkc",
+        "checkpoint_name": "Park Circle"
+    },
+    "pckrd": {
+        "checkpoint_id": "pckrd",
+        "checkpoint_name": "Granite Street @ Packards Lane"
+    },
+    "pebdy": {
+        "checkpoint_id": "pebdy",
+        "checkpoint_name": "Peabody Square (Peabody)"
+    },
+    "perks": {
+        "checkpoint_id": "perks",
+        "checkpoint_name": "Perkins Square (Dorchester) @ Broadway (Southbound)"
+    },
+    "peter": {
+        "checkpoint_id": "peter",
+        "checkpoint_name": "Saint Peter's Square (Dorchester)"
+    },
+    "philp": {
+        "checkpoint_id": "philp",
+        "checkpoint_name": "Phillips Beach (Swampscott)"
+    },
+    "pierc": {
+        "checkpoint_id": "pierc",
+        "checkpoint_name": "Pierce Square"
+    },
+    "pines": {
+        "checkpoint_id": "pines",
+        "checkpoint_name": "Point of Pines"
+    },
+    "pktrm": {
+        "checkpoint_id": "pktrm",
+        "checkpoint_name": "Park Street"
+    },
+    "pkwy": {
+        "checkpoint_id": "pkwy",
+        "checkpoint_name": "West Roxbury Parkway @ Centre"
+    },
+    "plast": {
+        "checkpoint_id": "plast",
+        "checkpoint_name": "Playstead Road"
+    },
+    "plsmn": {
+        "checkpoint_id": "plsmn",
+        "checkpoint_name": "Pleasant Street @ Main Street"
+    },
+    "plsnt": {
+        "checkpoint_id": "plsnt",
+        "checkpoint_name": "Pleasant Street"
+    },
+    "plwas": {
+        "checkpoint_id": "plwas",
+        "checkpoint_name": "Pleasant & Washington (Weymouth)"
+    },
+    "pmall": {
+        "checkpoint_id": "pmall",
+        "checkpoint_name": "Puritan Mall"
+    },
+    "pomet": {
+        "checkpoint_id": "pomet",
+        "checkpoint_name": "Poplar Street @ Metropolitan Avenue"
+    },
+    "portr": {
+        "checkpoint_id": "portr",
+        "checkpoint_name": "Porter Square"
+    },
+    "powdr": {
+        "checkpoint_id": "powdr",
+        "checkpoint_name": "Powder House"
+    },
+    "ppth": {
+        "checkpoint_id": "ppth",
+        "checkpoint_name": "Pemberton Point (Hull)"
+    },
+    "prkbn": {
+        "checkpoint_id": "prkbn",
+        "checkpoint_name": "Park Drive @ Beacon Street"
+    },
+    "prksq": {
+        "checkpoint_id": "prksq",
+        "checkpoint_name": "Park Square (Charles Street)"
+    },
+    "prkwl": {
+        "checkpoint_id": "prkwl",
+        "checkpoint_name": "Parker Street @ Wheeler"
+    },
+    "prlcg": {
+        "checkpoint_id": "prlcg",
+        "checkpoint_name": "Pearl Street @ Congress Street"
+    },
+    "prmnl": {
+        "checkpoint_id": "prmnl",
+        "checkpoint_name": "Prudential"
+    },
+    "proby": {
+        "checkpoint_id": "proby",
+        "checkpoint_name": "Prospect Street @ Broadway"
+    },
+    "prpct": {
+        "checkpoint_id": "prpct",
+        "checkpoint_name": "Broadway @ Prospect Street"
+    },
+    "prplz": {
+        "checkpoint_id": "prplz",
+        "checkpoint_name": "President Plaza"
+    },
+    "prsgc": {
+        "checkpoint_id": "prsgc",
+        "checkpoint_name": "Presidents Golf Course"
+    },
+    "pshly": {
+        "checkpoint_id": "pshly",
+        "checkpoint_name": "Point Shirley"
+    },
+    "qadam": {
+        "checkpoint_id": "qadam",
+        "checkpoint_name": "Quincy Adams Station (Busway)"
+    },
+    "qamnl": {
+        "checkpoint_id": "qamnl",
+        "checkpoint_name": "Quincy Adams"
+    },
+    "qctrr": {
+        "checkpoint_id": "qctrr",
+        "checkpoint_name": "Quincy Center Station (Rear)"
+    },
+    "qnctr": {
+        "checkpoint_id": "qnctr",
+        "checkpoint_name": "Quincy Center"
+    },
+    "quncy": {
+        "checkpoint_id": "quncy",
+        "checkpoint_name": "Quincy Bus Garage"
+    },
+    "rbmnl": {
+        "checkpoint_id": "rbmnl",
+        "checkpoint_name": "Revere Beach"
+    },
+    "rbrts": {
+        "checkpoint_id": "rbrts",
+        "checkpoint_name": "Roberts"
+    },
+    "rcith": {
+        "checkpoint_id": "rcith",
+        "checkpoint_name": "Revere City Hall"
+    },
+    "rcmnl": {
+        "checkpoint_id": "rcmnl",
+        "checkpoint_name": "Roxbury Crossing"
+    },
+    "rdran": {
+        "checkpoint_id": "rdran",
+        "checkpoint_name": "Reedsdale Road @ Randolph Avenue"
+    },
+    "rdstn": {
+        "checkpoint_id": "rdstn",
+        "checkpoint_name": "Redstone Shopping Plaza"
+    },
+    "readc": {
+        "checkpoint_id": "readc",
+        "checkpoint_name": "Reading Commuter Rail Depot"
+    },
+    "readv": {
+        "checkpoint_id": "readv",
+        "checkpoint_name": "Readville Station"
+    },
+    "resbu": {
+        "checkpoint_id": "resbu",
+        "checkpoint_name": "Reservoir Busway"
+    },
+    "revhs": {
+        "checkpoint_id": "revhs",
+        "checkpoint_name": "Revere House"
+    },
+    "rindg": {
+        "checkpoint_id": "rindg",
+        "checkpoint_name": "Rindge Avenue"
+    },
+    "rivcm": {
+        "checkpoint_id": "rivcm",
+        "checkpoint_name": "River Street @ Cummins Highway"
+    },
+    "river": {
+        "checkpoint_id": "river",
+        "checkpoint_name": "Riverside"
+    },
+    "rivsd": {
+        "checkpoint_id": "rivsd",
+        "checkpoint_name": "Riverside"
+    },
+    "rosec": {
+        "checkpoint_id": "rosec",
+        "checkpoint_name": "Roosevelt Circle"
+    },
+    "rossq": {
+        "checkpoint_id": "rossq",
+        "checkpoint_name": "Roslindale Square"
+    },
+    "roxbs": {
+        "checkpoint_id": "roxbs",
+        "checkpoint_name": "Roxbury Crossing Station (Bus)"
+    },
+    "rsmnl": {
+        "checkpoint_id": "rsmnl",
+        "checkpoint_name": "Reservoir"
+    },
+    "rugg": {
+        "checkpoint_id": "rugg",
+        "checkpoint_name": "Ruggles"
+    },
+    "rvcen": {
+        "checkpoint_id": "rvcen",
+        "checkpoint_name": "River Street @ Central Avenue"
+    },
+    "rvmcg": {
+        "checkpoint_id": "rvmcg",
+        "checkpoint_name": "River Street @ McGrath Way"
+    },
+    "rvrwy": {
+        "checkpoint_id": "rvrwy",
+        "checkpoint_name": "Riverway"
+    },
+    "salem": {
+        "checkpoint_id": "salem",
+        "checkpoint_name": "Salem Center"
+    },
+    "saug": {
+        "checkpoint_id": "saug",
+        "checkpoint_name": "Saugus Center"
+    },
+    "saugpl": {
+        "checkpoint_id": "saugpl",
+        "checkpoint_name": "Saugus Plaza"
+    },
+    "sbmnl": {
+        "checkpoint_id": "sbmnl",
+        "checkpoint_name": "Stony Brook"
+    },
+    "sbpfd": {
+        "checkpoint_id": "sbpfd",
+        "checkpoint_name": "Sawmill Brook Pkwy"
+    },
+    "sdmnl": {
+        "checkpoint_id": "sdmnl",
+        "checkpoint_name": "Suffolk Downs"
+    },
+    "seasl": {
+        "checkpoint_id": "seasl",
+        "checkpoint_name": "Seaport Boulevard @ Sleeper Street"
+    },
+    "seast": {
+        "checkpoint_id": "seast",
+        "checkpoint_name": "Sea Street @ Palmer Street"
+    },
+    "shmnl": {
+        "checkpoint_id": "shmnl",
+        "checkpoint_name": "Savin Hill"
+    },
+    "shosp": {
+        "checkpoint_id": "shosp",
+        "checkpoint_name": "Shattuck Hospital"
+    },
+    "shpyd": {
+        "checkpoint_id": "shpyd",
+        "checkpoint_name": "Hingham Shipyard"
+    },
+    "shtpk": {
+        "checkpoint_id": "shtpk",
+        "checkpoint_name": "Shetland Park (Salem)"
+    },
+    "shunt": {
+        "checkpoint_id": "shunt",
+        "checkpoint_name": "Centre Street & South Huntington Avenue"
+    },
+    "slmct": {
+        "checkpoint_id": "slmct",
+        "checkpoint_name": "Salem Center"
+    },
+    "slmhp": {
+        "checkpoint_id": "slmhp",
+        "checkpoint_name": "Salem & Humphrey (Swampscott)"
+    },
+    "slvwa": {
+        "checkpoint_id": "slvwa",
+        "checkpoint_name": "Silver Line @ Washington Street"
+    },
+    "smary": {
+        "checkpoint_id": "smary",
+        "checkpoint_name": "Saint Mary's Street"
+    },
+    "smhsp": {
+        "checkpoint_id": "smhsp",
+        "checkpoint_name": "Salem Hospital"
+    },
+    "smmnl": {
+        "checkpoint_id": "smmnl",
+        "checkpoint_name": "Shawmut"
+    },
+    "smore": {
+        "checkpoint_id": "smore",
+        "checkpoint_name": "Sagamore & Washington"
+    },
+    "smvpk": {
+        "checkpoint_id": "smvpk",
+        "checkpoint_name": "Somerville Avenue @ Park Street"
+    },
+    "snctr": {
+        "checkpoint_id": "snctr",
+        "checkpoint_name": "Memorial Senior Center"
+    },
+    "sobay": {
+        "checkpoint_id": "sobay",
+        "checkpoint_name": "South Bay Mall"
+    },
+    "sosea": {
+        "checkpoint_id": "sosea",
+        "checkpoint_name": "Southern Artery @ Sea Street"
+    },
+    "sosta": {
+        "checkpoint_id": "sosta",
+        "checkpoint_name": "South Station"
+    },
+    "sougr": {
+        "checkpoint_id": "sougr",
+        "checkpoint_name": "South Street"
+    },
+    "soust": {
+        "checkpoint_id": "soust",
+        "checkpoint_name": "South Station (Silver Line)"
+    },
+    "south": {
+        "checkpoint_id": "south",
+        "checkpoint_name": "Grove & South Streets"
+    },
+    "spmnl": {
+        "checkpoint_id": "spmnl",
+        "checkpoint_name": "Science Park/West End"
+    },
+    "sprhl": {
+        "checkpoint_id": "sprhl",
+        "checkpoint_name": "Spring Hill"
+    },
+    "sqntm": {
+        "checkpoint_id": "sqntm",
+        "checkpoint_name": "Squantum"
+    },
+    "sqone": {
+        "checkpoint_id": "sqone",
+        "checkpoint_name": "Sqaure One Mall"
+    },
+    "sring": {
+        "checkpoint_id": "sring",
+        "checkpoint_name": "Spring Street @ Centre Street"
+    },
+    "ssplz": {
+        "checkpoint_id": "ssplz",
+        "checkpoint_name": "South Shore Plaza"
+    },
+    "sstat": {
+        "checkpoint_id": "sstat",
+        "checkpoint_name": "South Station"
+    },
+    "state": {
+        "checkpoint_id": "state",
+        "checkpoint_name": "State"
+    },
+    "statx": {
+        "checkpoint_id": "statx",
+        "checkpoint_name": "State (Express Bus)"
+    },
+    "sthld": {
+        "checkpoint_id": "sthld",
+        "checkpoint_name": "Sutherland Road"
+    },
+    "stims": {
+        "checkpoint_id": "stims",
+        "checkpoint_name": "Stimson Street @ Washington Street"
+    },
+    "stjim": {
+        "checkpoint_id": "stjim",
+        "checkpoint_name": "Saint James Avenue @ Dartmouth Street"
+    },
+    "stone": {
+        "checkpoint_id": "stone",
+        "checkpoint_name": "Stoneham Square"
+    },
+    "stpul": {
+        "checkpoint_id": "stpul",
+        "checkpoint_name": "Saint Paul Street"
+    },
+    "sull": {
+        "checkpoint_id": "sull",
+        "checkpoint_name": "Sullivan Square"
+    },
+    "sumav": {
+        "checkpoint_id": "sumav",
+        "checkpoint_name": "Summit Avenue"
+    },
+    "sunms": {
+        "checkpoint_id": "sunms",
+        "checkpoint_name": "Network Drive (old Sun Microsystems)"
+    },
+    "svrhm": {
+        "checkpoint_id": "svrhm",
+        "checkpoint_name": "Seaver & Humboldt"
+    },
+    "sweet": {
+        "checkpoint_id": "sweet",
+        "checkpoint_name": "Sweester Circle"
+    },
+    "symcl": {
+        "checkpoint_id": "symcl",
+        "checkpoint_name": "Symphony"
+    },
+    "tapst": {
+        "checkpoint_id": "tapst",
+        "checkpoint_name": "Tappan Street"
+    },
+    "tc128": {
+        "checkpoint_id": "tc128",
+        "checkpoint_name": "TradeCenter 128"
+    },
+    "teele": {
+        "checkpoint_id": "teele",
+        "checkpoint_name": "Teele Square @ Broadway"
+    },
+    "templ": {
+        "checkpoint_id": "templ",
+        "checkpoint_name": "Temple Street @ Tremont Street"
+    },
+    "terma": {
+        "checkpoint_id": "terma",
+        "checkpoint_name": "Terminal A (Logan Airport)"
+    },
+    "termc": {
+        "checkpoint_id": "termc",
+        "checkpoint_name": "Terminal C (Logan Airport)"
+    },
+    "terme": {
+        "checkpoint_id": "terme",
+        "checkpoint_name": "Terminal E (Logan Airport)"
+    },
+    "thche": {
+        "checkpoint_id": "thche",
+        "checkpoint_name": "Third Street @ Chestnut Street"
+    },
+    "thosa": {
+        "checkpoint_id": "thosa",
+        "checkpoint_name": "1000 Southern Artery"
+    },
+    "thrdb": {
+        "checkpoint_id": "thrdb",
+        "checkpoint_name": "Third Avenue (Burlington)"
+    },
+    "tmslw": {
+        "checkpoint_id": "tmslw",
+        "checkpoint_name": "Tomasello Way"
+    },
+    "tomsu": {
+        "checkpoint_id": "tomsu",
+        "checkpoint_name": "Tomlin & Summit"
+    },
+    "towhm": {
+        "checkpoint_id": "towhm",
+        "checkpoint_name": "Townsend Street @ Humboldt Avenue (Latin Academy)"
+    },
+    "tozer": {
+        "checkpoint_id": "tozer",
+        "checkpoint_name": "Tozer Road (Beverly)"
+    },
+    "tpthd": {
+        "checkpoint_id": "tpthd",
+        "checkpoint_name": "Totten Pond Road @ Third Avenue"
+    },
+    "trade": {
+        "checkpoint_id": "trade",
+        "checkpoint_name": "World Trade Center"
+    },
+    "tred": {
+        "checkpoint_id": "tred",
+        "checkpoint_name": "Tremont Street @ Darthmouth/West Dedham Streets"
+    },
+    "trkhl": {
+        "checkpoint_id": "trkhl",
+        "checkpoint_name": "Turkey Hill Loop"
+    },
+    "trmas": {
+        "checkpoint_id": "trmas",
+        "checkpoint_name": "Tremont & Massachusetts Avenue"
+    },
+    "trmb1": {
+        "checkpoint_id": "trmb1",
+        "checkpoint_name": "Terminal B Stop 1 (Logan Airport)"
+    },
+    "trmb2": {
+        "checkpoint_id": "trmb2",
+        "checkpoint_name": "Terminal B Stop 2 (Logan Airport)"
+    },
+    "trmcd": {
+        "checkpoint_id": "trmcd",
+        "checkpoint_name": "Terminal C (formerly D) (Logan Airport)"
+    },
+    "tufts": {
+        "checkpoint_id": "tufts",
+        "checkpoint_name": "Tufts Square"
+    },
+    "tumed": {
+        "checkpoint_id": "tumed",
+        "checkpoint_name": "Washington Street @ Tufts Medical Center"
+    },
+    "tumnl": {
+        "checkpoint_id": "tumnl",
+        "checkpoint_name": "Tufts Medical Center"
+    },
+    "umass": {
+        "checkpoint_id": "umass",
+        "checkpoint_name": "University of Massachusetts, Boston"
+    },
+    "union": {
+        "checkpoint_id": "union",
+        "checkpoint_name": "Union Square"
+    },
+    "unsqu": {
+        "checkpoint_id": "unsqu",
+        "checkpoint_name": "Union Square"
+    },
+    "unvpk": {
+        "checkpoint_id": "unvpk",
+        "checkpoint_name": "University Park (Cambridge)"
+    },
+    "upham": {
+        "checkpoint_id": "upham",
+        "checkpoint_name": "Uphams Corner"
+    },
+    "uphgh": {
+        "checkpoint_id": "uphgh",
+        "checkpoint_name": "Upper Highland"
+    },
+    "upwav": {
+        "checkpoint_id": "upwav",
+        "checkpoint_name": "Upham & Waverly"
+    },
+    "vaded": {
+        "checkpoint_id": "vaded",
+        "checkpoint_name": "VA Hospital (Dedham)"
+    },
+    "vahsp": {
+        "checkpoint_id": "vahsp",
+        "checkpoint_name": "VA Hospital"
+    },
+    "valrd": {
+        "checkpoint_id": "valrd",
+        "checkpoint_name": "Valley Road"
+    },
+    "vasma": {
+        "checkpoint_id": "vasma",
+        "checkpoint_name": "Vassar @ Massachusetts Avenue"
+    },
+    "vasme": {
+        "checkpoint_id": "vasme",
+        "checkpoint_name": "Vassar @ Memorial Drive"
+    },
+    "vfcor": {
+        "checkpoint_id": "vfcor",
+        "checkpoint_name": "VFW Parkway @ Corey Street"
+    },
+    "vinsq": {
+        "checkpoint_id": "vinsq",
+        "checkpoint_name": "Vinnin Square"
+    },
+    "waban": {
+        "checkpoint_id": "waban",
+        "checkpoint_name": "Waban"
+    },
+    "wacol": {
+        "checkpoint_id": "wacol",
+        "checkpoint_name": "Washington Street & Columbia Road"
+    },
+    "wacry": {
+        "checkpoint_id": "wacry",
+        "checkpoint_name": "Washington & Cary"
+    },
+    "wadsw": {
+        "checkpoint_id": "wadsw",
+        "checkpoint_name": "Wadsworth Road"
+    },
+    "waher": {
+        "checkpoint_id": "waher",
+        "checkpoint_name": "Washington Street @ Herald Street"
+    },
+    "wakav": {
+        "checkpoint_id": "wakav",
+        "checkpoint_name": "Wakefield Avenue"
+    },
+    "wakef": {
+        "checkpoint_id": "wakef",
+        "checkpoint_name": "Wakefield Square"
+    },
+    "walag": {
+        "checkpoint_id": "walag",
+        "checkpoint_name": "Washington Street @ LaGrange Street"
+    },
+    "walth": {
+        "checkpoint_id": "walth",
+        "checkpoint_name": "Central Square (Waltham)"
+    },
+    "wamet": {
+        "checkpoint_id": "wamet",
+        "checkpoint_name": "Washington Street @ Metropolitan Avenue"
+    },
+    "wamid": {
+        "checkpoint_id": "wamid",
+        "checkpoint_name": "Washington & Middle Streets"
+    },
+    "warbp": {
+        "checkpoint_id": "warbp",
+        "checkpoint_name": "Washington Avenue @ Revere Beach Parkway"
+    },
+    "warrd": {
+        "checkpoint_id": "warrd",
+        "checkpoint_name": "Washington Street @ Railroad Avenue"
+    },
+    "warwl": {
+        "checkpoint_id": "warwl",
+        "checkpoint_name": "Warren Street @ Walnut Avenue"
+    },
+    "wascm": {
+        "checkpoint_id": "wascm",
+        "checkpoint_name": "Washington Street"
+    },
+    "wasgr": {
+        "checkpoint_id": "wasgr",
+        "checkpoint_name": "Washington Street @ Green Street"
+    },
+    "wasma": {
+        "checkpoint_id": "wasma",
+        "checkpoint_name": "Massachusetts Avenue @ Washington"
+    },
+    "wassa": {
+        "checkpoint_id": "wassa",
+        "checkpoint_name": "Washington Street @ Southern Artery"
+    },
+    "wasum": {
+        "checkpoint_id": "wasum",
+        "checkpoint_name": "Western Avenue & Burns Street (Swing Off)"
+    },
+    "waver": {
+        "checkpoint_id": "waver",
+        "checkpoint_name": "Waverley Street"
+    },
+    "wavsq": {
+        "checkpoint_id": "wavsq",
+        "checkpoint_name": "Waverley Square"
+    },
+    "wawbw": {
+        "checkpoint_id": "wawbw",
+        "checkpoint_name": "Washington Street @ West Boundary Road"
+    },
+    "wdfst": {
+        "checkpoint_id": "wdfst",
+        "checkpoint_name": "West @ Deforest Street"
+    },
+    "webrk": {
+        "checkpoint_id": "webrk",
+        "checkpoint_name": "Washington & East Berkeley"
+    },
+    "webst": {
+        "checkpoint_id": "webst",
+        "checkpoint_name": "Broadway & Webster"
+    },
+    "wellh": {
+        "checkpoint_id": "wellh",
+        "checkpoint_name": "Wellington Hill"
+    },
+    "welln": {
+        "checkpoint_id": "welln",
+        "checkpoint_name": "Wellington"
+    },
+    "welnd": {
+        "checkpoint_id": "welnd",
+        "checkpoint_name": "Weymouth Landing"
+    },
+    "welst": {
+        "checkpoint_id": "welst",
+        "checkpoint_name": "Wellington Station"
+    },
+    "weswa": {
+        "checkpoint_id": "weswa",
+        "checkpoint_name": "Washington Street @ Western Avenue"
+    },
+    "weyln": {
+        "checkpoint_id": "weyln",
+        "checkpoint_name": "Weymouth Landing"
+    },
+    "whill": {
+        "checkpoint_id": "whill",
+        "checkpoint_name": "Winter Hill"
+    },
+    "wicir": {
+        "checkpoint_id": "wicir",
+        "checkpoint_name": "Winthrop Circle"
+    },
+    "wimnl": {
+        "checkpoint_id": "wimnl",
+        "checkpoint_name": "Wood Island"
+    },
+    "winpst": {
+        "checkpoint_id": "winpst",
+        "checkpoint_name": "Winthrop Police Station"
+    },
+    "winsq": {
+        "checkpoint_id": "winsq",
+        "checkpoint_name": "Winchester Square"
+    },
+    "wldcp": {
+        "checkpoint_id": "wldcp",
+        "checkpoint_name": "Willard Street @ Copeland Street"
+    },
+    "wlsta": {
+        "checkpoint_id": "wlsta",
+        "checkpoint_name": "Wollaston"
+    },
+    "wlynn": {
+        "checkpoint_id": "wlynn",
+        "checkpoint_name": "Lynn Garage"
+    },
+    "wnbch": {
+        "checkpoint_id": "wnbch",
+        "checkpoint_name": "Winthrop Beach (Paul Revere)"
+    },
+    "wnhvd": {
+        "checkpoint_id": "wnhvd",
+        "checkpoint_name": "Western Avenue @ North Harvard"
+    },
+    "wnshp": {
+        "checkpoint_id": "wnshp",
+        "checkpoint_name": "Winship Street"
+    },
+    "wnwtn": {
+        "checkpoint_id": "wnwtn",
+        "checkpoint_name": "West Newton"
+    },
+    "wobch": {
+        "checkpoint_id": "wobch",
+        "checkpoint_name": "Wollaston Beach"
+    },
+    "wobsq": {
+        "checkpoint_id": "wobsq",
+        "checkpoint_name": "Woburn Square"
+    },
+    "wobur": {
+        "checkpoint_id": "wobur",
+        "checkpoint_name": "Woburn Line"
+    },
+    "wolsq": {
+        "checkpoint_id": "wolsq",
+        "checkpoint_name": "Wolcott Square"
+    },
+    "wondl": {
+        "checkpoint_id": "wondl",
+        "checkpoint_name": "Wonderland"
+    },
+    "wondw": {
+        "checkpoint_id": "wondw",
+        "checkpoint_name": "Wonderland Station West"
+    },
+    "woodc": {
+        "checkpoint_id": "woodc",
+        "checkpoint_name": "Woodlawn"
+    },
+    "woodi": {
+        "checkpoint_id": "woodi",
+        "checkpoint_name": "Wood Island Station"
+    },
+    "woodl": {
+        "checkpoint_id": "woodl",
+        "checkpoint_name": "Woodland"
+    },
+    "wowin": {
+        "checkpoint_id": "wowin",
+        "checkpoint_name": "Woburn/Winchester Line"
+    },
+    "wren": {
+        "checkpoint_id": "wren",
+        "checkpoint_name": "Wren Street"
+    },
+    "wrnst": {
+        "checkpoint_id": "wrnst",
+        "checkpoint_name": "Warren Street"
+    },
+    "wrox": {
+        "checkpoint_id": "wrox",
+        "checkpoint_name": "Centre & LaGrange (West Roxbury)"
+    },
+    "wshso": {
+        "checkpoint_id": "wshso",
+        "checkpoint_name": "Washington & South Streets"
+    },
+    "wtcst": {
+        "checkpoint_id": "wtcst",
+        "checkpoint_name": "World Trade Center"
+    },
+    "wtrhs": {
+        "checkpoint_id": "wtrhs",
+        "checkpoint_name": "Watertown High School"
+    },
+    "wtrsq": {
+        "checkpoint_id": "wtrsq",
+        "checkpoint_name": "Watertown Square"
+    },
+    "wtrwm": {
+        "checkpoint_id": "wtrwm",
+        "checkpoint_name": "Watertown/Waltham Line"
+    },
+    "wtryd": {
+        "checkpoint_id": "wtryd",
+        "checkpoint_name": "Watertown Yard"
+    },
+    "wwlrd": {
+        "checkpoint_id": "wwlrd",
+        "checkpoint_name": "West & Willard Streets"
+    },
+    "wyoma": {
+        "checkpoint_id": "wyoma",
+        "checkpoint_name": "Wyoma Square"
+    },
+    "wyomc": {
+        "checkpoint_id": "wyomc",
+        "checkpoint_name": "Wyoming Square"
+    }
+}

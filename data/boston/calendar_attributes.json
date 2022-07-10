@@ -1,0 +1,982 @@
+{
+    "BUS322-1-Wdy-02": {
+        "service_id": "BUS322-1-Wdy-02",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-2-Wdy-02": {
+        "service_id": "BUS322-2-Wdy-02",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-5-Su-02": {
+        "service_id": "BUS322-5-Su-02",
+        "service_description": "Holiday (Sunday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-6-Wdy-02": {
+        "service_id": "BUS322-6-Wdy-02",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-9-Su-02": {
+        "service_id": "BUS322-9-Su-02",
+        "service_description": "Holiday (Sunday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-A-Wdy-02": {
+        "service_id": "BUS322-A-Wdy-02",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-B-Wdy-02": {
+        "service_id": "BUS322-B-Wdy-02",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-E-Su-02": {
+        "service_id": "BUS322-E-Su-02",
+        "service_description": "Holiday (Sunday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-F-Wdy-02": {
+        "service_id": "BUS322-F-Wdy-02",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-I-Su-02": {
+        "service_id": "BUS322-I-Su-02",
+        "service_description": "Holiday (Sunday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-J-Wdy-02": {
+        "service_id": "BUS322-J-Wdy-02",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-M-Su-02": {
+        "service_id": "BUS322-M-Su-02",
+        "service_description": "Holiday (Sunday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-N-Wdy-02": {
+        "service_id": "BUS322-N-Wdy-02",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-Q-Su-02": {
+        "service_id": "BUS322-Q-Su-02",
+        "service_description": "Holiday (Sunday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-R-Wdy-02": {
+        "service_id": "BUS322-R-Wdy-02",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "BUS322-U-Su-02": {
+        "service_id": "BUS322-U-Su-02",
+        "service_description": "Holiday (Sunday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "Boat-F1-SaFull-Smr-22": {
+        "service_id": "Boat-F1-SaFull-Smr-22",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Summer"
+    },
+    "Boat-F1-SuFull-Smr-22": {
+        "service_id": "Boat-F1-SuFull-Smr-22",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Summer"
+    },
+    "Boat-F1-WdyFull-Smr-22": {
+        "service_id": "Boat-F1-WdyFull-Smr-22",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Summer"
+    },
+    "Boat-F4-Sa-Smr-22": {
+        "service_id": "Boat-F4-Sa-Smr-22",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Summer"
+    },
+    "Boat-F4-Su-Smr-22": {
+        "service_id": "Boat-F4-Su-Smr-22",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Summer"
+    },
+    "Boat-F4-Wdy-Smr-22": {
+        "service_id": "Boat-F4-Wdy-Smr-22",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Summer"
+    },
+    "CR-1-AndersonJulyShuttle-Snd": {
+        "service_id": "CR-1-AndersonJulyShuttle-Snd",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "CR-1-AndersonJulyShuttle-Std": {
+        "service_id": "CR-1-AndersonJulyShuttle-Std",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "CR-2-WellingtonJulyShuttle-Snd": {
+        "service_id": "CR-2-WellingtonJulyShuttle-Snd",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "CR-2-WellingtonJulyShuttle-Std": {
+        "service_id": "CR-2-WellingtonJulyShuttle-Std",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "Green-B-JuneShuttle-Wkd": {
+        "service_id": "Green-B-JuneShuttle-Wkd",
+        "service_description": "Weekday schedule (GLTPS construction)",
+        "service_schedule_name": "Weekday (GLTPS construction)",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "IndependenceDay": {
+        "service_id": "IndependenceDay",
+        "service_description": "Saturday schedule (modified service)",
+        "service_schedule_name": "Saturday (modified service)",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "LRV322-1-Wdy-01": {
+        "service_id": "LRV322-1-Wdy-01",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "LRV322-1-Wdy-01-BCGvt": {
+        "service_id": "LRV322-1-Wdy-01-BCGvt",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "LRV322-1-Wdy-01-CldCrlKnr": {
+        "service_id": "LRV322-1-Wdy-01-CldCrlKnr",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "LRV322-2-Sa-01": {
+        "service_id": "LRV322-2-Sa-01",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "LRV322-2-Sa-01-CldCrlKnr": {
+        "service_id": "LRV322-2-Sa-01-CldCrlKnr",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "LRV322-3-Su-01": {
+        "service_id": "LRV322-3-Su-01",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "LRV322-3-Su-01-CldCrlKnr": {
+        "service_id": "LRV322-3-Su-01-CldCrlKnr",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "LRV322-4-Wdy-01": {
+        "service_id": "LRV322-4-Wdy-01",
+        "service_description": "Holiday (Weekday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "LRV322-5-Wdy-01": {
+        "service_id": "LRV322-5-Wdy-01",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "LRV322-8-Wdy-01": {
+        "service_id": "LRV322-8-Wdy-01",
+        "service_description": "Holiday (Weekday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "PRIV322-1-Wdy-01": {
+        "service_id": "PRIV322-1-Wdy-01",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "PRIV322-3-Wdy-01": {
+        "service_id": "PRIV322-3-Wdy-01",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "PRIV322-5-Su-01": {
+        "service_id": "PRIV322-5-Su-01",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "PRIV322-6-Wdy-01": {
+        "service_id": "PRIV322-6-Wdy-01",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "PRIV322-9-Su-01": {
+        "service_id": "PRIV322-9-Su-01",
+        "service_description": "Holiday (Sunday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-3-Wdy-01": {
+        "service_id": "RTL322-3-Wdy-01",
+        "service_description": "Holiday (Weekday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-4-Sa-01": {
+        "service_id": "RTL322-4-Sa-01",
+        "service_description": "Weekday schedule (reduced service)",
+        "service_schedule_name": "Weekday (reduced service)",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "5",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-5-Sa-01": {
+        "service_id": "RTL322-5-Sa-01",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-5-Sa-01-OkGrvWln": {
+        "service_id": "RTL322-5-Sa-01-OkGrvWln",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-6-Su-01": {
+        "service_id": "RTL322-6-Su-01",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-6-Su-01-NrhStnRgsSsd": {
+        "service_id": "RTL322-6-Su-01-NrhStnRgsSsd",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-6-Su-01-OkGrvWln": {
+        "service_id": "RTL322-6-Su-01-OkGrvWln",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-7-Wdy-01": {
+        "service_id": "RTL322-7-Wdy-01",
+        "service_description": "Holiday (Weekday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-8-Sa-01": {
+        "service_id": "RTL322-8-Sa-01",
+        "service_description": "Weekday schedule (reduced service)",
+        "service_schedule_name": "Weekday (reduced service)",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "5",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-8-Sa-01-OkGrvWln": {
+        "service_id": "RTL322-8-Sa-01-OkGrvWln",
+        "service_description": "Weekday schedule (reduced service)",
+        "service_schedule_name": "Weekday (reduced service)",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-9-Sa-01": {
+        "service_id": "RTL322-9-Sa-01",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-9-Sa-01-AlfHrd": {
+        "service_id": "RTL322-9-Sa-01-AlfHrd",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-9-Sa-01-AlfKnl": {
+        "service_id": "RTL322-9-Sa-01-AlfKnl",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-A-Su-01": {
+        "service_id": "RTL322-A-Su-01",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-A-Su-01-AlfHrd": {
+        "service_id": "RTL322-A-Su-01-AlfHrd",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-A-Su-01-AlfKnl": {
+        "service_id": "RTL322-A-Su-01-AlfKnl",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-B-Wdy-01": {
+        "service_id": "RTL322-B-Wdy-01",
+        "service_description": "Holiday (Weekday schedule)",
+        "service_schedule_name": "Holiday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "3",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "RTL322-C-Sa-01": {
+        "service_id": "RTL322-C-Sa-01",
+        "service_description": "Weekday schedule (reduced service)",
+        "service_schedule_name": "Weekday (reduced service)",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "5",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "SPR22-N-Sa-1": {
+        "service_id": "SPR22-N-Sa-1",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Sa-1-S6d": {
+        "service_id": "SPR22-N-Sa-1-S6d",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Sa-1-S72": {
+        "service_id": "SPR22-N-Sa-1-S72",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Sa-1-S9f": {
+        "service_id": "SPR22-N-Sa-1-S9f",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Sa-11": {
+        "service_id": "SPR22-N-Sa-11",
+        "service_description": "Saturday schedule (modified service)",
+        "service_schedule_name": "Saturday (modified service)",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Sa-11-S6d": {
+        "service_id": "SPR22-N-Sa-11-S6d",
+        "service_description": "Saturday schedule (modified service)",
+        "service_schedule_name": "Saturday (modified service)",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Sa-11-S72": {
+        "service_id": "SPR22-N-Sa-11-S72",
+        "service_description": "Saturday schedule (modified service)",
+        "service_schedule_name": "Saturday (modified service)",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Sa-11-S9f": {
+        "service_id": "SPR22-N-Sa-11-S9f",
+        "service_description": "Saturday schedule (modified service)",
+        "service_schedule_name": "Saturday (modified service)",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Su-1": {
+        "service_id": "SPR22-N-Su-1",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Su-1-S6d": {
+        "service_id": "SPR22-N-Su-1-S6d",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Su-1-S72": {
+        "service_id": "SPR22-N-Su-1-S72",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Su-1-S9f": {
+        "service_id": "SPR22-N-Su-1-S9f",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Su-11": {
+        "service_id": "SPR22-N-Su-11",
+        "service_description": "Sunday schedule (modified service)",
+        "service_schedule_name": "Sunday (modified service)",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Su-11-S6d": {
+        "service_id": "SPR22-N-Su-11-S6d",
+        "service_description": "Sunday schedule (modified service)",
+        "service_schedule_name": "Sunday (modified service)",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Su-11-S72": {
+        "service_id": "SPR22-N-Su-11-S72",
+        "service_description": "Sunday schedule (modified service)",
+        "service_schedule_name": "Sunday (modified service)",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Su-11-S9f": {
+        "service_id": "SPR22-N-Su-11-S9f",
+        "service_description": "Sunday schedule (modified service)",
+        "service_schedule_name": "Sunday (modified service)",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Wdy-1": {
+        "service_id": "SPR22-N-Wdy-1",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Wdy-1-S6d": {
+        "service_id": "SPR22-N-Wdy-1-S6d",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Wdy-1-S72": {
+        "service_id": "SPR22-N-Wdy-1-S72",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-N-Wdy-1-S9f": {
+        "service_id": "SPR22-N-Wdy-1-S9f",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Sa-1": {
+        "service_id": "SPR22-S-Sa-1",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Sa-1-RdlSthStnFMT": {
+        "service_id": "SPR22-S-Sa-1-RdlSthStnFMT",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Su-1": {
+        "service_id": "SPR22-S-Su-1",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Su-1-RdlSthStnFMT": {
+        "service_id": "SPR22-S-Su-1-RdlSthStnFMT",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Su-C1-S49": {
+        "service_id": "SPR22-S-Su-C1-S49",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Wdy-1": {
+        "service_id": "SPR22-S-Wdy-1",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Wdy-1-S86": {
+        "service_id": "SPR22-S-Wdy-1-S86",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Wdy-1-S8f": {
+        "service_id": "SPR22-S-Wdy-1-S8f",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Wdy-1-Sb6": {
+        "service_id": "SPR22-S-Wdy-1-Sb6",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Wdy-1-Sc0": {
+        "service_id": "SPR22-S-Wdy-1-Sc0",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Wdy-1-Sc5": {
+        "service_id": "SPR22-S-Wdy-1-Sc5",
+        "service_description": "Weekday schedule",
+        "service_schedule_name": "Weekday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Wdy-6": {
+        "service_id": "SPR22-S-Wdy-6",
+        "service_description": "Weekday schedule (modified service)",
+        "service_schedule_name": "Weekday (modified service)",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "4",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SPR22-S-Wdy-C1-S49": {
+        "service_id": "SPR22-S-Wdy-C1-S49",
+        "service_description": "Friday schedule",
+        "service_schedule_name": "Friday",
+        "service_schedule_type": "Weekday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "Spring/SummerSaturday": {
+        "service_id": "Spring/SummerSaturday",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "Spring/SummerSunday": {
+        "service_id": "Spring/SummerSunday",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220523",
+        "rating_end_date": "",
+        "rating_description": "Spring/Summer"
+    },
+    "SummerSaturday": {
+        "service_id": "SummerSaturday",
+        "service_description": "Saturday schedule",
+        "service_schedule_name": "Saturday",
+        "service_schedule_type": "Saturday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    },
+    "SummerSunday": {
+        "service_id": "SummerSunday",
+        "service_description": "Sunday schedule",
+        "service_schedule_name": "Sunday",
+        "service_schedule_type": "Sunday",
+        "service_schedule_typicality": "1",
+        "rating_start_date": "20220619",
+        "rating_end_date": "20220827",
+        "rating_description": "Summer"
+    }
+}

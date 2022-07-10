@@ -1,0 +1,90 @@
+{
+    "32": {
+        "added_route_id": "32",
+        "trip_id": "51936550"
+    },
+    "33": {
+        "added_route_id": "33",
+        "trip_id": "51936550"
+    },
+    "40": {
+        "added_route_id": "40",
+        "trip_id": "52071401"
+    },
+    "50": {
+        "added_route_id": "50",
+        "trip_id": "52071401"
+    },
+    "441": {
+        "added_route_id": "441",
+        "trip_id": "52047075"
+    },
+    "442": {
+        "added_route_id": "442",
+        "trip_id": "52047075"
+    },
+    "62": {
+        "added_route_id": "62",
+        "trip_id": "51729225"
+    },
+    "76": {
+        "added_route_id": "76",
+        "trip_id": "51729225"
+    },
+    "741": {
+        "added_route_id": "741",
+        "trip_id": "52314362"
+    },
+    "742": {
+        "added_route_id": "742",
+        "trip_id": "52314362"
+    },
+    "743": {
+        "added_route_id": "743",
+        "trip_id": "52314362"
+    },
+    "89": {
+        "added_route_id": "89",
+        "trip_id": "52255607"
+    },
+    "93": {
+        "added_route_id": "93",
+        "trip_id": "52255607"
+    },
+    "CR-Kingston": {
+        "added_route_id": "CR-Kingston",
+        "trip_id": "CR-528677-031"
+    },
+    "CR-Needham": {
+        "added_route_id": "CR-Needham",
+        "trip_id": "CR-524810-839"
+    },
+    "CR-Fairmount": {
+        "added_route_id": "CR-Fairmount",
+        "trip_id": "CR-524569-2924-ReadvilleSouthStationFMT1"
+    },
+    "Green-B": {
+        "added_route_id": "Green-B",
+        "trip_id": "Green-B-JuneShuttle-Weekday-1-24:15:00"
+    },
+    "CR-Newburyport": {
+        "added_route_id": "CR-Newburyport",
+        "trip_id": "CR-WellingtonJulyShuttle-Sunday-Exp-1-22:42:00"
+    },
+    "CR-Lowell": {
+        "added_route_id": "CR-Lowell",
+        "trip_id": "CR-AndersonJulyShuttle-Sunday-Exp-1-21:54:00"
+    },
+    "Red": {
+        "added_route_id": "Red",
+        "trip_id": "51849573-AlewifeHarvard1"
+    },
+    "Green-C": {
+        "added_route_id": "Green-C",
+        "trip_id": "52144573-ClevelandCircleKenmore1"
+    },
+    "Orange": {
+        "added_route_id": "Orange",
+        "trip_id": "51721111-OakGroveWellington1"
+    }
+}

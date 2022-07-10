@@ -1,0 +1,23 @@
+{
+    "https://cdn.mbta.com/realtime/TripUpdates.pb": {
+        "url": "https://cdn.mbta.com/realtime/TripUpdates.pb",
+        "trip_updates": "1",
+        "vehicle_positions": "0",
+        "service_alerts": "0",
+        "authentication_type": "0"
+    },
+    "https://cdn.mbta.com/realtime/VehiclePositions.pb": {
+        "url": "https://cdn.mbta.com/realtime/VehiclePositions.pb",
+        "trip_updates": "0",
+        "vehicle_positions": "1",
+        "service_alerts": "0",
+        "authentication_type": "0"
+    },
+    "https://cdn.mbta.com/realtime/Alerts.pb": {
+        "url": "https://cdn.mbta.com/realtime/Alerts.pb",
+        "trip_updates": "0",
+        "vehicle_positions": "0",
+        "service_alerts": "1",
+        "authentication_type": "0"
+    }
+}

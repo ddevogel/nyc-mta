@@ -1,0 +1,18 @@
+{
+    "3": {
+        "agency_id": "3",
+        "agency_name": "Cape Cod Regional Transit Authority",
+        "agency_url": "http://www.capecodrta.org/",
+        "agency_timezone": "America/New_York",
+        "agency_lang": "EN",
+        "agency_phone": "800-352-7155"
+    },
+    "1": {
+        "agency_id": "1",
+        "agency_name": "MBTA",
+        "agency_url": "http://www.mbta.com",
+        "agency_timezone": "America/New_York",
+        "agency_lang": "EN",
+        "agency_phone": "617-222-3200"
+    }
+}

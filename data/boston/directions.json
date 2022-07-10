@@ -1,0 +1,1244 @@
+{
+    "Red": {
+        "route_id": "Red",
+        "direction_id": "1",
+        "direction": "North",
+        "direction_destination": "Alewife"
+    },
+    "Mattapan": {
+        "route_id": "Mattapan",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ashmont"
+    },
+    "Orange": {
+        "route_id": "Orange",
+        "direction_id": "1",
+        "direction": "North",
+        "direction_destination": "Oak Grove"
+    },
+    "Green-B": {
+        "route_id": "Green-B",
+        "direction_id": "1",
+        "direction": "East",
+        "direction_destination": "Government Center"
+    },
+    "Green-C": {
+        "route_id": "Green-C",
+        "direction_id": "1",
+        "direction": "East",
+        "direction_destination": "Government Center"
+    },
+    "Green-D": {
+        "route_id": "Green-D",
+        "direction_id": "1",
+        "direction": "East",
+        "direction_destination": "North Station"
+    },
+    "Green-E": {
+        "route_id": "Green-E",
+        "direction_id": "1",
+        "direction": "East",
+        "direction_destination": "Union Square"
+    },
+    "Blue": {
+        "route_id": "Blue",
+        "direction_id": "1",
+        "direction": "East",
+        "direction_destination": "Wonderland"
+    },
+    "741": {
+        "route_id": "741",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "742": {
+        "route_id": "742",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "743": {
+        "route_id": "743",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "751": {
+        "route_id": "751",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "749": {
+        "route_id": "749",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Temple Place"
+    },
+    "746": {
+        "route_id": "746",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "CR-Fairmount": {
+        "route_id": "CR-Fairmount",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "CR-Fitchburg": {
+        "route_id": "CR-Fitchburg",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "North Station"
+    },
+    "CR-Worcester": {
+        "route_id": "CR-Worcester",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "CR-Franklin": {
+        "route_id": "CR-Franklin",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "CR-Greenbush": {
+        "route_id": "CR-Greenbush",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "CR-Haverhill": {
+        "route_id": "CR-Haverhill",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "North Station"
+    },
+    "CR-Kingston": {
+        "route_id": "CR-Kingston",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "CR-Lowell": {
+        "route_id": "CR-Lowell",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "North Station"
+    },
+    "CR-Middleborough": {
+        "route_id": "CR-Middleborough",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "CR-Needham": {
+        "route_id": "CR-Needham",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "CR-Newburyport": {
+        "route_id": "CR-Newburyport",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "North Station"
+    },
+    "CR-Providence": {
+        "route_id": "CR-Providence",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "CR-Foxboro": {
+        "route_id": "CR-Foxboro",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station or Foxboro"
+    },
+    "CapeFlyer": {
+        "route_id": "CapeFlyer",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    },
+    "Boat-F4": {
+        "route_id": "Boat-F4",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Long Wharf"
+    },
+    "Boat-F1": {
+        "route_id": "Boat-F1",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Long Wharf or Rowes Wharf"
+    },
+    "747": {
+        "route_id": "747",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ruggles Station"
+    },
+    "708": {
+        "route_id": "708",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Andrew Station"
+    },
+    "1": {
+        "route_id": "1",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Nubian Station"
+    },
+    "4": {
+        "route_id": "4",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Tide Street"
+    },
+    "7": {
+        "route_id": "7",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Otis Street & Summer Street"
+    },
+    "8": {
+        "route_id": "8",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Kenmore Station"
+    },
+    "9": {
+        "route_id": "9",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Copley Station"
+    },
+    "10": {
+        "route_id": "10",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Copley Square"
+    },
+    "11": {
+        "route_id": "11",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Chauncy Street & Summer Street"
+    },
+    "14": {
+        "route_id": "14",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Heath Street"
+    },
+    "15": {
+        "route_id": "15",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ruggles Station"
+    },
+    "16": {
+        "route_id": "16",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Andrew Station or Harbor Point"
+    },
+    "17": {
+        "route_id": "17",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Andrew Station"
+    },
+    "18": {
+        "route_id": "18",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Andrew Station"
+    },
+    "19": {
+        "route_id": "19",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Kenmore or Ruggles Station"
+    },
+    "21": {
+        "route_id": "21",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "22": {
+        "route_id": "22",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ruggles Station"
+    },
+    "23": {
+        "route_id": "23",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ruggles Station"
+    },
+    "24": {
+        "route_id": "24",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ashmont Station"
+    },
+    "26": {
+        "route_id": "26",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Norfolk Street Loop"
+    },
+    "28": {
+        "route_id": "28",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ruggles Station"
+    },
+    "29": {
+        "route_id": "29",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Jackson Square Station"
+    },
+    "30": {
+        "route_id": "30",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "31": {
+        "route_id": "31",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "32": {
+        "route_id": "32",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "3233": {
+        "route_id": "3233",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Mattapan Station"
+    },
+    "33": {
+        "route_id": "33",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Mattapan Station"
+    },
+    "34": {
+        "route_id": "34",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "34E": {
+        "route_id": "34E",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "35": {
+        "route_id": "35",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "36": {
+        "route_id": "36",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "37": {
+        "route_id": "37",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "38": {
+        "route_id": "38",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "39": {
+        "route_id": "39",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Back Bay Station"
+    },
+    "40": {
+        "route_id": "40",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "4050": {
+        "route_id": "4050",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "41": {
+        "route_id": "41",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "JFK/UMass Station"
+    },
+    "42": {
+        "route_id": "42",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Nubian Station"
+    },
+    "43": {
+        "route_id": "43",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Park Street Station"
+    },
+    "44": {
+        "route_id": "44",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ruggles Station"
+    },
+    "45": {
+        "route_id": "45",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ruggles Station"
+    },
+    "47": {
+        "route_id": "47",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Broadway Station"
+    },
+    "50": {
+        "route_id": "50",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "51": {
+        "route_id": "51",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Forest Hills Station"
+    },
+    "52": {
+        "route_id": "52",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Watertown Yard"
+    },
+    "55": {
+        "route_id": "55",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Copley Station"
+    },
+    "57": {
+        "route_id": "57",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Kenmore Station"
+    },
+    "59": {
+        "route_id": "59",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Watertown Square"
+    },
+    "60": {
+        "route_id": "60",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Kenmore Station"
+    },
+    "61": {
+        "route_id": "61",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Waltham Center"
+    },
+    "62": {
+        "route_id": "62",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Alewife Station"
+    },
+    "627": {
+        "route_id": "627",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Alewife Station"
+    },
+    "64": {
+        "route_id": "64",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "University Park or Kendall/MIT Station"
+    },
+    "65": {
+        "route_id": "65",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Kenmore Station"
+    },
+    "66": {
+        "route_id": "66",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Nubian Station"
+    },
+    "67": {
+        "route_id": "67",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Alewife Station"
+    },
+    "68": {
+        "route_id": "68",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Kendall/MIT Station"
+    },
+    "69": {
+        "route_id": "69",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Lechmere Station"
+    },
+    "70": {
+        "route_id": "70",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "University Park"
+    },
+    "71": {
+        "route_id": "71",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Harvard Station"
+    },
+    "72": {
+        "route_id": "72",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Harvard Station"
+    },
+    "73": {
+        "route_id": "73",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Harvard Station"
+    },
+    "74": {
+        "route_id": "74",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Harvard"
+    },
+    "75": {
+        "route_id": "75",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Harvard"
+    },
+    "76": {
+        "route_id": "76",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Alewife Station"
+    },
+    "77": {
+        "route_id": "77",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Harvard Station"
+    },
+    "78": {
+        "route_id": "78",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Harvard Station"
+    },
+    "79": {
+        "route_id": "79",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Alewife Station"
+    },
+    "80": {
+        "route_id": "80",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Lechmere Station"
+    },
+    "83": {
+        "route_id": "83",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Central Square, Cambridge"
+    },
+    "84": {
+        "route_id": "84",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Alewife Station"
+    },
+    "85": {
+        "route_id": "85",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Kendall/MIT Station"
+    },
+    "86": {
+        "route_id": "86",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Reservoir Station"
+    },
+    "87": {
+        "route_id": "87",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Lechmere Station"
+    },
+    "88": {
+        "route_id": "88",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Lechmere Station"
+    },
+    "89": {
+        "route_id": "89",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Sullivan Square Station"
+    },
+    "8993": {
+        "route_id": "8993",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Haymarket Station"
+    },
+    "90": {
+        "route_id": "90",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Assembly Row"
+    },
+    "91": {
+        "route_id": "91",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Central Square, Cambridge"
+    },
+    "92": {
+        "route_id": "92",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Downtown"
+    },
+    "93": {
+        "route_id": "93",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Downtown"
+    },
+    "94": {
+        "route_id": "94",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Davis Station"
+    },
+    "95": {
+        "route_id": "95",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Sullivan Square Station"
+    },
+    "96": {
+        "route_id": "96",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Harvard Station"
+    },
+    "97": {
+        "route_id": "97",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wellington Station"
+    },
+    "99": {
+        "route_id": "99",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wellington Station"
+    },
+    "100": {
+        "route_id": "100",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wellington Station"
+    },
+    "101": {
+        "route_id": "101",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Sullivan Square Station"
+    },
+    "104": {
+        "route_id": "104",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Sullivan Square Station"
+    },
+    "105": {
+        "route_id": "105",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Sullivan Square Station"
+    },
+    "106": {
+        "route_id": "106",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wellington Station"
+    },
+    "108": {
+        "route_id": "108",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wellington Station"
+    },
+    "109": {
+        "route_id": "109",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Sullivan Square Station"
+    },
+    "110": {
+        "route_id": "110",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wellington Station"
+    },
+    "111": {
+        "route_id": "111",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Haymarket Station"
+    },
+    "112": {
+        "route_id": "112",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wood Island Station"
+    },
+    "114": {
+        "route_id": "114",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Maverick Station"
+    },
+    "116": {
+        "route_id": "116",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Maverick Station"
+    },
+    "117": {
+        "route_id": "117",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Maverick Station"
+    },
+    "119": {
+        "route_id": "119",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Beachmont Station"
+    },
+    "120": {
+        "route_id": "120",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Jeffries Point"
+    },
+    "121": {
+        "route_id": "121",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Maverick Station"
+    },
+    "131": {
+        "route_id": "131",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Oak Grove or Malden Center Station"
+    },
+    "132": {
+        "route_id": "132",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Malden Center Station"
+    },
+    "134": {
+        "route_id": "134",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wellington Station"
+    },
+    "136": {
+        "route_id": "136",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Malden Center Station"
+    },
+    "137": {
+        "route_id": "137",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Malden Center Station"
+    },
+    "170": {
+        "route_id": "170",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Nubian Station"
+    },
+    "171": {
+        "route_id": "171",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Nubian Station"
+    },
+    "195": {
+        "route_id": "195",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Park Street & Tremont Street"
+    },
+    "201": {
+        "route_id": "201",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Fields Corner Loop"
+    },
+    "202": {
+        "route_id": "202",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Fields Corner Loop"
+    },
+    "210": {
+        "route_id": "210",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Fields Corner Station"
+    },
+    "211": {
+        "route_id": "211",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Squantum"
+    },
+    "212": {
+        "route_id": "212",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "North Quincy Station"
+    },
+    "214": {
+        "route_id": "214",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Quincy Center Station"
+    },
+    "215": {
+        "route_id": "215",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ashmont Station"
+    },
+    "216": {
+        "route_id": "216",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Quincy Center Station"
+    },
+    "217": {
+        "route_id": "217",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ashmont Station"
+    },
+    "220": {
+        "route_id": "220",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Quincy Center Station"
+    },
+    "221": {
+        "route_id": "221",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Quincy Center Station"
+    },
+    "222": {
+        "route_id": "222",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Quincy Center Station"
+    },
+    "225": {
+        "route_id": "225",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Quincy Center Station"
+    },
+    "226": {
+        "route_id": "226",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Braintree Station"
+    },
+    "230": {
+        "route_id": "230",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Quincy Center Station"
+    },
+    "236": {
+        "route_id": "236",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Quincy Center Station"
+    },
+    "238": {
+        "route_id": "238",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Quincy Center Station"
+    },
+    "240": {
+        "route_id": "240",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Ashmont Station"
+    },
+    "245": {
+        "route_id": "245",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Mattapan Station"
+    },
+    "325": {
+        "route_id": "325",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Haymarket Station"
+    },
+    "326": {
+        "route_id": "326",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Haymarket Station"
+    },
+    "350": {
+        "route_id": "350",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Alewife Station"
+    },
+    "351": {
+        "route_id": "351",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Third Avenue"
+    },
+    "352": {
+        "route_id": "352",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "State Street, Boston"
+    },
+    "354": {
+        "route_id": "354",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "State Street, Boston"
+    },
+    "411": {
+        "route_id": "411",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Malden Center Station"
+    },
+    "424": {
+        "route_id": "424",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wonderland Station"
+    },
+    "426": {
+        "route_id": "426",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Haymarket or Wonderland Station"
+    },
+    "428": {
+        "route_id": "428",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Haymarket Station"
+    },
+    "429": {
+        "route_id": "429",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Central Square, Lynn"
+    },
+    "430": {
+        "route_id": "430",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Malden Center Station"
+    },
+    "434": {
+        "route_id": "434",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Haymarket Station"
+    },
+    "435": {
+        "route_id": "435",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Central Square, Lynn"
+    },
+    "436": {
+        "route_id": "436",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Central Square, Lynn"
+    },
+    "439": {
+        "route_id": "439",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wonderland Station"
+    },
+    "441": {
+        "route_id": "441",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wonderland Station"
+    },
+    "441442": {
+        "route_id": "441442",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wonderland Station"
+    },
+    "442": {
+        "route_id": "442",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wonderland Station"
+    },
+    "450": {
+        "route_id": "450",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wonderland or Haymarket Station"
+    },
+    "451": {
+        "route_id": "451",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Salem Depot"
+    },
+    "455": {
+        "route_id": "455",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wonderland Station"
+    },
+    "456": {
+        "route_id": "456",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Central Square, Lynn"
+    },
+    "465": {
+        "route_id": "465",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Salem Depot"
+    },
+    "501": {
+        "route_id": "501",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Federal Street & Franklin Street"
+    },
+    "502": {
+        "route_id": "502",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Copley Station"
+    },
+    "503": {
+        "route_id": "503",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Copley Square"
+    },
+    "504": {
+        "route_id": "504",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Federal Street & Franklin Street"
+    },
+    "505": {
+        "route_id": "505",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Federal Street & Franklin Street"
+    },
+    "553": {
+        "route_id": "553",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Newton Corner"
+    },
+    "554": {
+        "route_id": "554",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Newton Corner"
+    },
+    "556": {
+        "route_id": "556",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Newton Corner"
+    },
+    "558": {
+        "route_id": "558",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Newton Corner"
+    },
+    "710": {
+        "route_id": "710",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Wellington Station"
+    },
+    "712": {
+        "route_id": "712",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Orient Heights Station"
+    },
+    "713": {
+        "route_id": "713",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Orient Heights Station"
+    },
+    "714": {
+        "route_id": "714",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Station Street, Hingham"
+    },
+    "716": {
+        "route_id": "716",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "Mattapan Station"
+    },
+    "Shuttle-AlewifeHarvard": {
+        "route_id": "Shuttle-AlewifeHarvard",
+        "direction_id": "1",
+        "direction": "North",
+        "direction_destination": "Alewife"
+    },
+    "Shuttle-AlewifeKendall": {
+        "route_id": "Shuttle-AlewifeKendall",
+        "direction_id": "1",
+        "direction": "North",
+        "direction_destination": "Alewife"
+    },
+    "Shuttle-AndersonWoburnNorthStationExpress": {
+        "route_id": "Shuttle-AndersonWoburnNorthStationExpress",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "North Station"
+    },
+    "Shuttle-AndersonWoburnNorthStationLocal": {
+        "route_id": "Shuttle-AndersonWoburnNorthStationLocal",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "North Station"
+    },
+    "Shuttle-BeverlyWellingtonExpress": {
+        "route_id": "Shuttle-BeverlyWellingtonExpress",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "North Station"
+    },
+    "Shuttle-BeverlyWellingtonLocal": {
+        "route_id": "Shuttle-BeverlyWellingtonLocal",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "North Station"
+    },
+    "Shuttle-BostonCollegeKenmore": {
+        "route_id": "Shuttle-BostonCollegeKenmore",
+        "direction_id": "1",
+        "direction": "East",
+        "direction_destination": "Park Street"
+    },
+    "Shuttle-ClevelandCircleKenmore": {
+        "route_id": "Shuttle-ClevelandCircleKenmore",
+        "direction_id": "1",
+        "direction": "East",
+        "direction_destination": "North Station"
+    },
+    "Shuttle-OakGroveWellington": {
+        "route_id": "Shuttle-OakGroveWellington",
+        "direction_id": "1",
+        "direction": "North",
+        "direction_destination": "Oak Grove"
+    },
+    "Shuttle-ReadvilleSouthStation": {
+        "route_id": "Shuttle-ReadvilleSouthStation",
+        "direction_id": "1",
+        "direction": "Inbound",
+        "direction_destination": "South Station"
+    }
+}

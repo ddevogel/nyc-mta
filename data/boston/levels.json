@@ -1,0 +1,434 @@
+{
+    "level_-4_alewife_platform": {
+        "level_id": "level_-4_alewife_platform",
+        "level_index": "-4.0000000",
+        "level_name": "Alewife platform",
+        "level_elevation": ""
+    },
+    "level_-3_red_platform": {
+        "level_id": "level_-3_red_platform",
+        "level_index": "-3.0000000",
+        "level_name": "Red Line platforms",
+        "level_elevation": ""
+    },
+    "level_-3_southbound_platform": {
+        "level_id": "level_-3_southbound_platform",
+        "level_index": "-3.0000000",
+        "level_name": "Ashmont/Braintree platform",
+        "level_elevation": ""
+    },
+    "level_-2_blue_platform": {
+        "level_id": "level_-2_blue_platform",
+        "level_index": "-2.0000000",
+        "level_name": "Blue Line platforms",
+        "level_elevation": ""
+    },
+    "level_-2_lobby": {
+        "level_id": "level_-2_lobby",
+        "level_index": "-2.0000000",
+        "level_name": "Lobby",
+        "level_elevation": ""
+    },
+    "level_-2_low_busway": {
+        "level_id": "level_-2_low_busway",
+        "level_index": "-2.0000000",
+        "level_name": "Lower Busway",
+        "level_elevation": ""
+    },
+    "level_-2_low_platform": {
+        "level_id": "level_-2_low_platform",
+        "level_index": "-2.0000000",
+        "level_name": "Lower platforms",
+        "level_elevation": ""
+    },
+    "level_-2_oak_grove_platform": {
+        "level_id": "level_-2_oak_grove_platform",
+        "level_index": "-2.0000000",
+        "level_name": "Oak Grove platform",
+        "level_elevation": ""
+    },
+    "level_-2_passageway": {
+        "level_id": "level_-2_passageway",
+        "level_index": "-2.0000000",
+        "level_name": "Passageway",
+        "level_elevation": ""
+    },
+    "level_-2_platform": {
+        "level_id": "level_-2_platform",
+        "level_index": "-2.0000000",
+        "level_name": "Platform",
+        "level_elevation": ""
+    },
+    "level_-2_red_platform": {
+        "level_id": "level_-2_red_platform",
+        "level_index": "-2.0000000",
+        "level_name": "Red Line platforms",
+        "level_elevation": ""
+    },
+    "level_-2_silver_platform": {
+        "level_id": "level_-2_silver_platform",
+        "level_index": "-2.0000000",
+        "level_name": "Silver Line platforms",
+        "level_elevation": ""
+    },
+    "level_-2_southbound_platform": {
+        "level_id": "level_-2_southbound_platform",
+        "level_index": "-2.0000000",
+        "level_name": "Ashmont/Braintree platform",
+        "level_elevation": ""
+    },
+    "level_-1.5_in_street": {
+        "level_id": "level_-1.5_in_street",
+        "level_index": "-1.5000000",
+        "level_name": "On street",
+        "level_elevation": ""
+    },
+    "level_-1.5_landing": {
+        "level_id": "level_-1.5_landing",
+        "level_index": "-1.5000000",
+        "level_name": "Landing",
+        "level_elevation": ""
+    },
+    "level_-1.5_lobby": {
+        "level_id": "level_-1.5_lobby",
+        "level_index": "-1.5000000",
+        "level_name": "Lobby",
+        "level_elevation": ""
+    },
+    "level_-1_alewife_platform": {
+        "level_id": "level_-1_alewife_platform",
+        "level_index": "-1.0000000",
+        "level_name": "Alewife platform",
+        "level_elevation": ""
+    },
+    "level_-1_concourse": {
+        "level_id": "level_-1_concourse",
+        "level_index": "-1.0000000",
+        "level_name": "Concourse",
+        "level_elevation": ""
+    },
+    "level_-1_cr_platform": {
+        "level_id": "level_-1_cr_platform",
+        "level_index": "-1.0000000",
+        "level_name": "Commuter Rail platform",
+        "level_elevation": ""
+    },
+    "level_-1_green_platform": {
+        "level_id": "level_-1_green_platform",
+        "level_index": "-1.0000000",
+        "level_name": "Green Line platforms",
+        "level_elevation": ""
+    },
+    "level_-1_ground": {
+        "level_id": "level_-1_ground",
+        "level_index": "-1.0000000",
+        "level_name": "Street",
+        "level_elevation": ""
+    },
+    "level_-1_in_street": {
+        "level_id": "level_-1_in_street",
+        "level_index": "-1.0000000",
+        "level_name": "On street",
+        "level_elevation": ""
+    },
+    "level_-1_landing": {
+        "level_id": "level_-1_landing",
+        "level_index": "-1.0000000",
+        "level_name": "Landing",
+        "level_elevation": ""
+    },
+    "level_-1_lechmere_platform": {
+        "level_id": "level_-1_lechmere_platform",
+        "level_index": "-1.0000000",
+        "level_name": "Lechmere platform",
+        "level_elevation": ""
+    },
+    "level_-1_lobby": {
+        "level_id": "level_-1_lobby",
+        "level_index": "-1.0000000",
+        "level_name": "Lobby",
+        "level_elevation": ""
+    },
+    "level_-1_orange_platform": {
+        "level_id": "level_-1_orange_platform",
+        "level_index": "-1.0000000",
+        "level_name": "Orange Line platforms",
+        "level_elevation": ""
+    },
+    "level_-1_passageway": {
+        "level_id": "level_-1_passageway",
+        "level_index": "-1.0000000",
+        "level_name": "Passageway",
+        "level_elevation": ""
+    },
+    "level_-1_platform": {
+        "level_id": "level_-1_platform",
+        "level_index": "-1.0000000",
+        "level_name": "Platform",
+        "level_elevation": ""
+    },
+    "level_-1_red_platform": {
+        "level_id": "level_-1_red_platform",
+        "level_index": "-1.0000000",
+        "level_name": "Red Line platforms",
+        "level_elevation": ""
+    },
+    "level_-1_rlsl_lobby": {
+        "level_id": "level_-1_rlsl_lobby",
+        "level_index": "-1.0000000",
+        "level_name": "Red Line, Silver Line lobby",
+        "level_elevation": ""
+    },
+    "level_-1_up_busway": {
+        "level_id": "level_-1_up_busway",
+        "level_index": "-1.0000000",
+        "level_name": "Upper Busway",
+        "level_elevation": ""
+    },
+    "level_-1_up_platform": {
+        "level_id": "level_-1_up_platform",
+        "level_index": "-1.0000000",
+        "level_name": "Upper platforms",
+        "level_elevation": ""
+    },
+    "level_boylston_st": {
+        "level_id": "level_boylston_st",
+        "level_index": "-1.0000000",
+        "level_name": "Boylston Street",
+        "level_elevation": ""
+    },
+    "level_hyde_park_ave": {
+        "level_id": "level_hyde_park_ave",
+        "level_index": "-1.0000000",
+        "level_name": "Hyde Park Avenue",
+        "level_elevation": ""
+    },
+    "level_-0.9_lobby": {
+        "level_id": "level_-0.9_lobby",
+        "level_index": "-0.9000000",
+        "level_name": "Lobby",
+        "level_elevation": ""
+    },
+    "level_-0.5_building": {
+        "level_id": "level_-0.5_building",
+        "level_index": "-0.5000000",
+        "level_name": "Building access",
+        "level_elevation": ""
+    },
+    "level_-0.5_landing": {
+        "level_id": "level_-0.5_landing",
+        "level_index": "-0.5000000",
+        "level_name": "Landing",
+        "level_elevation": ""
+    },
+    "level_-0.5_lobby": {
+        "level_id": "level_-0.5_lobby",
+        "level_index": "-0.5000000",
+        "level_name": "Lobby",
+        "level_elevation": ""
+    },
+    "level_-0.5_passageway": {
+        "level_id": "level_-0.5_passageway",
+        "level_index": "-0.5000000",
+        "level_name": "Passageway",
+        "level_elevation": ""
+    },
+    "level_-0.5_platform": {
+        "level_id": "level_-0.5_platform",
+        "level_index": "-0.5000000",
+        "level_name": "Platform",
+        "level_elevation": ""
+    },
+    "level_-0.1_landing": {
+        "level_id": "level_-0.1_landing",
+        "level_index": "-0.1000000",
+        "level_name": "Landing",
+        "level_elevation": ""
+    },
+    "level_0_building": {
+        "level_id": "level_0_building",
+        "level_index": "0.0000000",
+        "level_name": "Building access",
+        "level_elevation": ""
+    },
+    "level_0_cr_platform": {
+        "level_id": "level_0_cr_platform",
+        "level_index": "0.0000000",
+        "level_name": "Commuter Rail platform",
+        "level_elevation": ""
+    },
+    "level_0_orange_platform": {
+        "level_id": "level_0_orange_platform",
+        "level_index": "0.0000000",
+        "level_name": "Orange Line platforms",
+        "level_elevation": ""
+    },
+    "level_0_platform": {
+        "level_id": "level_0_platform",
+        "level_index": "0.0000000",
+        "level_name": "Platform",
+        "level_elevation": ""
+    },
+    "level_0_red_platform": {
+        "level_id": "level_0_red_platform",
+        "level_index": "0.0000000",
+        "level_name": "Red Line platforms",
+        "level_elevation": ""
+    },
+    "level_congress_st": {
+        "level_id": "level_congress_st",
+        "level_index": "0.0000000",
+        "level_name": "Congress Street",
+        "level_elevation": ""
+    },
+    "level_ground": {
+        "level_id": "level_ground",
+        "level_index": "0.0000000",
+        "level_name": "Street",
+        "level_elevation": ""
+    },
+    "level_in_street": {
+        "level_id": "level_in_street",
+        "level_index": "0.0000000",
+        "level_name": "On street",
+        "level_elevation": ""
+    },
+    "level_logan_arrivals": {
+        "level_id": "level_logan_arrivals",
+        "level_index": "0.0000000",
+        "level_name": "Arrivals",
+        "level_elevation": ""
+    },
+    "level_median": {
+        "level_id": "level_median",
+        "level_index": "0.0000000",
+        "level_name": "Street median",
+        "level_elevation": ""
+    },
+    "level_washington_st": {
+        "level_id": "level_washington_st",
+        "level_index": "0.0000000",
+        "level_name": "Washington Street",
+        "level_elevation": ""
+    },
+    "level_0.5_cr_platform": {
+        "level_id": "level_0.5_cr_platform",
+        "level_index": "0.5000000",
+        "level_name": "Commuter Rail platform",
+        "level_elevation": ""
+    },
+    "level_0.5_ground": {
+        "level_id": "level_0.5_ground",
+        "level_index": "0.5000000",
+        "level_name": "Street",
+        "level_elevation": ""
+    },
+    "level_0.5_landing": {
+        "level_id": "level_0.5_landing",
+        "level_index": "0.5000000",
+        "level_name": "Landing",
+        "level_elevation": ""
+    },
+    "level_0.5_lobby": {
+        "level_id": "level_0.5_lobby",
+        "level_index": "0.5000000",
+        "level_name": "Lobby",
+        "level_elevation": ""
+    },
+    "level_1_bridge": {
+        "level_id": "level_1_bridge",
+        "level_index": "1.0000000",
+        "level_name": "Bridge",
+        "level_elevation": ""
+    },
+    "level_1_cr_platform": {
+        "level_id": "level_1_cr_platform",
+        "level_index": "1.0000000",
+        "level_name": "Commuter Rail platform",
+        "level_elevation": ""
+    },
+    "level_1_ground": {
+        "level_id": "level_1_ground",
+        "level_index": "1.0000000",
+        "level_name": "Street",
+        "level_elevation": ""
+    },
+    "level_1_in_street": {
+        "level_id": "level_1_in_street",
+        "level_index": "1.0000000",
+        "level_name": "On street",
+        "level_elevation": ""
+    },
+    "level_1_lobby": {
+        "level_id": "level_1_lobby",
+        "level_index": "1.0000000",
+        "level_name": "Lobby",
+        "level_elevation": ""
+    },
+    "level_1_orange_platform": {
+        "level_id": "level_1_orange_platform",
+        "level_index": "1.0000000",
+        "level_name": "Orange Line platforms",
+        "level_elevation": ""
+    },
+    "level_1_platform": {
+        "level_id": "level_1_platform",
+        "level_index": "1.0000000",
+        "level_name": "Platform",
+        "level_elevation": ""
+    },
+    "level_1_red_platform": {
+        "level_id": "level_1_red_platform",
+        "level_index": "1.0000000",
+        "level_name": "Red Line platforms",
+        "level_elevation": ""
+    },
+    "level_beacon_st": {
+        "level_id": "level_beacon_st",
+        "level_index": "1.0000000",
+        "level_name": "Beacon Street",
+        "level_elevation": ""
+    },
+    "level_columbia_rd": {
+        "level_id": "level_columbia_rd",
+        "level_index": "1.0000000",
+        "level_name": "Columbia Road",
+        "level_elevation": ""
+    },
+    "level_wtc_ave": {
+        "level_id": "level_wtc_ave",
+        "level_index": "1.0000000",
+        "level_name": "World Trade Center Avenue",
+        "level_elevation": ""
+    },
+    "level_2_bridge": {
+        "level_id": "level_2_bridge",
+        "level_index": "2.0000000",
+        "level_name": "Bridge",
+        "level_elevation": ""
+    },
+    "level_2_platform": {
+        "level_id": "level_2_platform",
+        "level_index": "2.0000000",
+        "level_name": "Platform",
+        "level_elevation": ""
+    },
+    "level_2_plaza": {
+        "level_id": "level_2_plaza",
+        "level_index": "2.0000000",
+        "level_name": "Plaza",
+        "level_elevation": ""
+    },
+    "level_3_garage": {
+        "level_id": "level_3_garage",
+        "level_index": "3.0000000",
+        "level_name": "Garage 3",
+        "level_elevation": ""
+    },
+    "level_independence_ave": {
+        "level_id": "level_independence_ave",
+        "level_index": "4.0000000",
+        "level_name": "Independence Avenue",
+        "level_elevation": ""
+    }
+}
